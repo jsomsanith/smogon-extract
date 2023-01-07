@@ -1,0 +1,9302 @@
+[
+  {
+    "name": "Venusaur",
+    "builds": [
+      {
+        "name": "Venusaur - National Dex - Chlorophyll Sweeper",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Chlorophyll",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "Growth",
+          "GigaDrain",
+          "EarthPower",
+          "WeatherBall"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charizard",
+    "builds": [
+      {
+        "name": "Charizard - National Dex - Drought Wallbreaker",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drought",
+        "teraType": "Fire",
+        "heldItem": "Charizardite Y",
+        "moveset": [
+          "WeatherBall",
+          "SolarBeam",
+          "ScorchingSands",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Charizard - National Dex - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Tough Claws",
+        "teraType": "Fire",
+        "heldItem": "Charizardite X",
+        "moveset": [
+          "DragonDance",
+          "FlareBlitz",
+          "Earthquake",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Charizard - OU - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Solar Power",
+        "teraType": "Fire",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Flamethrower",
+          "SolarBeam",
+          "FocusBlast",
+          "Overheat"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blastoise",
+    "builds": []
+  },
+  {
+    "name": "Butterfree",
+    "builds": []
+  },
+  {
+    "name": "Raichu",
+    "builds": []
+  },
+  {
+    "name": "Sandslash",
+    "builds": []
+  },
+  {
+    "name": "Nidoqueen",
+    "builds": []
+  },
+  {
+    "name": "Nidoking",
+    "builds": []
+  },
+  {
+    "name": "Clefable",
+    "builds": [
+      {
+        "name": "Clefable - National Dex - Utility",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magic Guard",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Moonblast",
+          "SoftBoiled",
+          "StealthRock",
+          "KnockOff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ninetales",
+    "builds": []
+  },
+  {
+    "name": "Wigglytuff",
+    "builds": []
+  },
+  {
+    "name": "Vileplume",
+    "builds": []
+  },
+  {
+    "name": "Dugtrio",
+    "builds": [
+      {
+        "name": "Dugtrio - Uber - Choice Scarf",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Arena Trap",
+        "teraType": "Fairy",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Earthquake",
+          "StoneEdge",
+          "FinalGambit",
+          "TeraBlast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Persian",
+    "builds": []
+  },
+  {
+    "name": "Golduck",
+    "builds": []
+  },
+  {
+    "name": "Arcanine",
+    "builds": [
+      {
+        "name": "Arcanine - OU - Utility",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 236,
+          "SPE": 20,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "teraType": "Water",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "FlareBlitz",
+          "WillOWisp",
+          "MorningSun",
+          "Roar"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Poliwrath",
+    "builds": []
+  },
+  {
+    "name": "Alakazam",
+    "builds": []
+  },
+  {
+    "name": "Machamp",
+    "builds": []
+  },
+  {
+    "name": "Tentacruel",
+    "builds": []
+  },
+  {
+    "name": "Rapidash",
+    "builds": []
+  },
+  {
+    "name": "Slowbro",
+    "builds": [
+      {
+        "name": "Slowbro - National Dex - Defensive Pivot",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Scald",
+          "FutureSight",
+          "SlackOff",
+          "Teleport"
+        ]
+      },
+      {
+        "name": "Slowbro - OU - Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Water",
+        "heldItem": "Colbur Berry",
+        "moveset": [
+          "Surf",
+          "BodyPress",
+          "FutureSight",
+          "SlackOff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Farfetch'd",
+    "builds": []
+  },
+  {
+    "name": "Cloyster",
+    "builds": [
+      {
+        "name": "Cloyster - Uber - Lead",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Skill Link",
+        "teraType": "Ghost",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "ShellSmash",
+          "Spikes",
+          "IcicleSpear",
+          "RockBlast"
+        ]
+      },
+      {
+        "name": "Cloyster - OU - Shell Smash Sweeper",
+        "nature": "Naughty",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Skill Link",
+        "teraType": "Ice",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "ShellSmash",
+          "IcicleSpear",
+          "RockBlast",
+          "HydroPump"
+        ]
+      },
+      {
+        "name": "Cloyster - BSS Series 1 - Super Smash Sweeper",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Skill Link",
+        "teraType": "Ice",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "ShellSmash",
+          "IcicleSpear",
+          "IceShard",
+          "RockBlast"
+        ]
+      },
+      {
+        "name": "Cloyster - STABmons - Shell Smash",
+        "nature": "Rash",
+        "evs": {
+          "HP": 0,
+          "ATK": 148,
+          "DEF": 0,
+          "SPE": 108,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 29,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Skill Link",
+        "teraType": "Water",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "ShellSmash",
+          "IcicleSpear",
+          "WaterShuriken",
+          "FreezeDry"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gengar",
+    "builds": [
+      {
+        "name": "Gengar - OU - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Cursed Body",
+        "teraType": "Ghost",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Trick",
+          "ShadowBall",
+          "FocusBlast",
+          "SludgeBomb"
+        ]
+      },
+      {
+        "name": "Gengar - BSS Series 1 - Disruptor",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Cursed Body",
+        "teraType": "Normal",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "Encore",
+          "ShadowBall",
+          "DestinyBond",
+          "ThunderWave"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kingler",
+    "builds": []
+  },
+  {
+    "name": "Exeggutor",
+    "builds": []
+  },
+  {
+    "name": "Marowak",
+    "builds": []
+  },
+  {
+    "name": "Hitmonlee",
+    "builds": []
+  },
+  {
+    "name": "Hitmonchan",
+    "builds": []
+  },
+  {
+    "name": "Weezing",
+    "builds": []
+  },
+  {
+    "name": "Kangaskhan",
+    "builds": []
+  },
+  {
+    "name": "Seaking",
+    "builds": []
+  },
+  {
+    "name": "Starmie",
+    "builds": []
+  },
+  {
+    "name": "Mr. Mime",
+    "builds": []
+  },
+  {
+    "name": "Jynx",
+    "builds": []
+  },
+  {
+    "name": "Pinsir",
+    "builds": []
+  },
+  {
+    "name": "Tauros",
+    "builds": []
+  },
+  {
+    "name": "Gyarados",
+    "builds": [
+      {
+        "name": "Gyarados - National Dex - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "heldItem": "Gyaradosite",
+        "moveset": [
+          "DragonDance",
+          "Waterfall",
+          "Crunch",
+          "PowerWhip"
+        ]
+      },
+      {
+        "name": "Gyarados - National Dex - Dragon Dance + Flyinium Z",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Moxie",
+        "heldItem": "Flyinium Z",
+        "moveset": [
+          "DragonDance",
+          "Waterfall",
+          "Bounce",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Gyarados - Uber - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Moxie",
+        "teraType": "Flying",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "DragonDance",
+          "Waterfall",
+          "TeraBlast",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Gyarados - OU - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Moxie",
+        "teraType": "Flying",
+        "heldItem": "Lum Berry",
+        "moveset": [
+          "DragonDance",
+          "Waterfall",
+          "TeraBlast",
+          "Taunt"
+        ]
+      },
+      {
+        "name": "Gyarados - BSS Series 1 - Dragon Dance Sweeper",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Moxie",
+        "teraType": "Grass",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "DragonDance",
+          "Waterfall",
+          "Earthquake",
+          "IceFang"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lapras",
+    "builds": []
+  },
+  {
+    "name": "Ditto",
+    "builds": [
+      {
+        "name": "Ditto - Uber - Imposter",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 248,
+          "ATK": 8,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Imposter",
+        "teraType": "Fairy",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Transform"
+        ]
+      },
+      {
+        "name": "Ditto - OU - Imposter",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 248,
+          "ATK": 8,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Imposter",
+        "teraType": "Poison",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Transform"
+        ]
+      },
+      {
+        "name": "Ditto - National Dex - SUS",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 248,
+          "ATK": 8,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 1,
+          "SPA": 30,
+          "SPD": 30
+        },
+        "ability": "Imposter",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Transform"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vaporeon",
+    "builds": []
+  },
+  {
+    "name": "Jolteon",
+    "builds": []
+  },
+  {
+    "name": "Flareon",
+    "builds": []
+  },
+  {
+    "name": "Omastar",
+    "builds": []
+  },
+  {
+    "name": "Kabutops",
+    "builds": []
+  },
+  {
+    "name": "Aerodactyl",
+    "builds": []
+  },
+  {
+    "name": "Snorlax",
+    "builds": []
+  },
+  {
+    "name": "Articuno",
+    "builds": []
+  },
+  {
+    "name": "Zapdos",
+    "builds": []
+  },
+  {
+    "name": "Moltres",
+    "builds": [
+      {
+        "name": "Moltres - BH - Physically Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "teraType": "Steel",
+        "heldItem": "Covert Cloak",
+        "moveset": [
+          "Recover",
+          "Nuzzle",
+          "TorchSong",
+          "Uturn"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dragonite",
+    "builds": [
+      {
+        "name": "Dragonite - OU - Dragon Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "DragonDance",
+          "ExtremeSpeed",
+          "Earthquake",
+          "IceSpinner"
+        ]
+      },
+      {
+        "name": "Dragonite - OU - Bulky Dragon Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 144,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 112,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "DragonDance",
+          "ExtremeSpeed",
+          "Earthquake",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Dragonite - Uber - Dragon Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "DragonDance",
+          "ExtremeSpeed",
+          "Earthquake",
+          "IceSpinner"
+        ]
+      },
+      {
+        "name": "Dragonite - BSS Series 1 - Extreme Killernite",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Lum Berry",
+        "moveset": [
+          "ExtremeSpeed",
+          "DragonDance",
+          "Earthquake",
+          "DragonClaw"
+        ]
+      },
+      {
+        "name": "Dragonite - BSS Series 1 - Encore",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Fairy",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Roost",
+          "Encore",
+          "FireSpin",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Dragonite - BSS Series 1 - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "ExtremeSpeed",
+          "Outrage",
+          "FirePunch",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Dragonite - BSS Series 1 - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Steel",
+        "heldItem": "Lum Berry",
+        "moveset": [
+          "DragonDance",
+          "Outrage",
+          "FirePunch",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Dragonite - Almost Any Ability - Dragon Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Aerilate",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "ExtremeSpeed",
+          "DragonDance",
+          "Roost",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Dragonite - Almost Any Ability - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Aerilate",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "ExtremeSpeed",
+          "IceSpinner",
+          "Roost",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Dragonite - STABmons - Dragon Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "ExtremeSpeed",
+          "DragonAscent",
+          "FirePunch",
+          "DragonDance"
+        ]
+      },
+      {
+        "name": "Dragonite - STABmons - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 152,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 104,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "DragonAscent",
+          "GlaiveRush",
+          "ExtremeSpeed",
+          "FirePunch"
+        ]
+      },
+      {
+        "name": "Dragonite - National Dex - Dragon Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Multiscale",
+        "teraType": "Normal",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "DragonDance",
+          "ExtremeSpeed",
+          "Earthquake",
+          "Roost"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "builds": []
+  },
+  {
+    "name": "Mew",
+    "builds": []
+  },
+  {
+    "name": "Bellossom",
+    "builds": []
+  },
+  {
+    "name": "Azumarill",
+    "builds": [
+      {
+        "name": "Azumarill - OU - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 116,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 140,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "teraType": "Water",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "AquaJet",
+          "PlayRough",
+          "Liquidation",
+          "Superpower"
+        ]
+      },
+      {
+        "name": "Azumarill - OU - Assault Vest",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "teraType": "Water",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "AquaJet",
+          "PlayRough",
+          "Liquidation",
+          "IceSpinner"
+        ]
+      },
+      {
+        "name": "Azumarill - Uber - Physically Offensive",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 116,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 140,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "teraType": "Ground",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "Liquidation",
+          "PlayRough",
+          "AquaJet",
+          "IcePunch"
+        ]
+      },
+      {
+        "name": "Azumarill - Uber - Defensive",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Thick Fat",
+        "teraType": "Ground",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Protect",
+          "ChillingWater",
+          "Encore",
+          "PlayRough"
+        ]
+      },
+      {
+        "name": "Azumarill - BSS Series 1 - Offensive",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "teraType": "Fire",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "AquaJet",
+          "PlayRough",
+          "Liquidation",
+          "Superpower"
+        ]
+      },
+      {
+        "name": "Azumarill - STABmons - Drummer Boy",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "teraType": "Water",
+        "heldItem": "Sitrus Berry",
+        "moveset": [
+          "JetPunch",
+          "MagicalTorque",
+          "HyperDrill",
+          "BellyDrum"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hitmontop",
+    "builds": []
+  },
+  {
+    "name": "Noctowl",
+    "builds": []
+  },
+  {
+    "name": "Qwilfish",
+    "builds": []
+  },
+  {
+    "name": "Corsola",
+    "builds": []
+  },
+  {
+    "name": "Mantine",
+    "builds": []
+  },
+  {
+    "name": "Raikou",
+    "builds": []
+  },
+  {
+    "name": "Entei",
+    "builds": []
+  },
+  {
+    "name": "Suicune",
+    "builds": []
+  },
+  {
+    "name": "Crobat",
+    "builds": []
+  },
+  {
+    "name": "Lanturn",
+    "builds": []
+  },
+  {
+    "name": "Xatu",
+    "builds": []
+  },
+  {
+    "name": "Sudowoodo",
+    "builds": []
+  },
+  {
+    "name": "Politoed",
+    "builds": []
+  },
+  {
+    "name": "Quagsire",
+    "builds": [
+      {
+        "name": "Quagsire - National Dex UU - Unaware Wall",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 4,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Unaware",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Earthquake",
+          "Recover",
+          "Toxic",
+          "Spikes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Espeon",
+    "builds": []
+  },
+  {
+    "name": "Umbreon",
+    "builds": [
+      {
+        "name": "Umbreon - OU - Specially Defensive",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Synchronize",
+        "teraType": "Fairy",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Wish",
+          "Protect",
+          "FoulPlay",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Umbreon - BSS Series 1 - Wish Tank",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Inner Focus",
+        "teraType": "Poison",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "FoulPlay",
+          "Protect",
+          "Wish",
+          "Yawn"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Slowking",
+    "builds": [
+      {
+        "name": "Slowking - Uber - Defensive Pivot",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Fairy",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "FutureSight",
+          "ChillyReception",
+          "ChillingWater",
+          "SlackOff"
+        ]
+      },
+      {
+        "name": "Slowking - OU - Specially Defensive",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Water",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "FutureSight",
+          "ChillingWater",
+          "ChillyReception",
+          "SlackOff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wobbuffet",
+    "builds": []
+  },
+  {
+    "name": "Dunsparce",
+    "builds": [
+      {
+        "name": "Dunsparce - NFE - Calm Mind",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Serene Grace",
+        "teraType": "Poison",
+        "heldItem": "Eviolite",
+        "moveset": [
+          "CalmMind",
+          "IceBeam",
+          "EarthPower",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Dunsparce - NFE - Utility",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Serene Grace",
+        "teraType": "Ground",
+        "heldItem": "Eviolite",
+        "moveset": [
+          "StealthRock",
+          "ShadowBall",
+          "Glare",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Dunsparce - NFE - Coil",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 36,
+          "SPA": 0,
+          "SPD": 220
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Serene Grace",
+        "teraType": "Fairy",
+        "heldItem": "Eviolite",
+        "moveset": [
+          "Coil",
+          "Headbutt",
+          "Bite",
+          "Roost"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Steelix",
+    "builds": []
+  },
+  {
+    "name": "Scizor",
+    "builds": [
+      {
+        "name": "Scizor - OU - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 236,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 20,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Technician",
+        "teraType": "Steel",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "BulletPunch",
+          "Uturn",
+          "CloseCombat",
+          "Thief"
+        ]
+      },
+      {
+        "name": "Scizor - OU - Offensive",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Technician",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "BulletPunch",
+          "Uturn",
+          "CloseCombat",
+          "Thief"
+        ]
+      },
+      {
+        "name": "Scizor - OU - Offensive Swords Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Technician",
+        "teraType": "Normal",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "BulletPunch",
+          "CloseCombat",
+          "SwordsDance",
+          "QuickAttack"
+        ]
+      },
+      {
+        "name": "Scizor - National Dex - Bulky Swords Dance",
+        "nature": "Impish",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 68,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 192
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Light Metal",
+        "heldItem": "Scizorite",
+        "moveset": [
+          "SwordsDance",
+          "BulletPunch",
+          "Uturn",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Scizor - National Dex - Swords Dance + 3 Attacks",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Light Metal",
+        "heldItem": "Scizorite",
+        "moveset": [
+          "SwordsDance",
+          "BulletPunch",
+          "CloseCombat",
+          "SandTomb"
+        ]
+      },
+      {
+        "name": "Scizor - Uber - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 236,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 20,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Technician",
+        "teraType": "Steel",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "BulletPunch",
+          "Uturn",
+          "CloseCombat",
+          "QuickAttack"
+        ]
+      },
+      {
+        "name": "Scizor - BSS Series 1 - Pivot",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Technician",
+        "teraType": "Steel",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "BulletPunch",
+          "Uturn",
+          "CloseCombat",
+          "Thief"
+        ]
+      },
+      {
+        "name": "Scizor - STABmons - Swords Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 232,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 24,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Technician",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "BulletPunch",
+          "Uturn",
+          "GigatonHammer",
+          "SwordsDance"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shuckle",
+    "builds": []
+  },
+  {
+    "name": "Heracross",
+    "builds": []
+  },
+  {
+    "name": "Octillery",
+    "builds": []
+  },
+  {
+    "name": "Delibird",
+    "builds": []
+  },
+  {
+    "name": "Skarmory",
+    "builds": [
+      {
+        "name": "Skarmory - National Dex - Defensive",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sturdy",
+        "teraType": "Dragon",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "IronDefense",
+          "Spikes",
+          "Roost",
+          "BodyPress"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kingdra",
+    "builds": []
+  },
+  {
+    "name": "Miltank",
+    "builds": []
+  },
+  {
+    "name": "Blissey",
+    "builds": [
+      {
+        "name": "Blissey - Uber - Pink Blob",
+        "nature": "Bold",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Natural Cure",
+        "teraType": "Ghost",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "SoftBoiled",
+          "StealthRock",
+          "SeismicToss",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Blissey - OU - Defensive",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Natural Cure",
+        "teraType": "Fairy",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "StealthRock",
+          "SoftBoiled",
+          "SeismicToss",
+          "ShadowBall"
+        ]
+      },
+      {
+        "name": "Blissey - BSS Series 1 - Calm Mind Support",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Natural Cure",
+        "teraType": "Ghost",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "CalmMind",
+          "SoftBoiled",
+          "TeraBlast",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Blissey - Almost Any Ability - Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Ice Scales",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "SoftBoiled",
+          "SeismicToss",
+          "ThunderWave",
+          "ShadowBall"
+        ]
+      },
+      {
+        "name": "Blissey - National Dex - Pink Blob (Defensive)",
+        "nature": "Bold",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Natural Cure",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "SoftBoiled",
+          "SeismicToss",
+          "Toxic",
+          "StealthRock"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tyranitar",
+    "builds": [
+      {
+        "name": "Tyranitar - National Dex - Stealth Rock",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 88,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 168,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "heldItem": "Tyranitarite",
+        "moveset": [
+          "StealthRock",
+          "StoneEdge",
+          "Pursuit",
+          "Superpower"
+        ]
+      },
+      {
+        "name": "Tyranitar - National Dex - Assault Vest",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Rock",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "StoneEdge",
+          "Crunch",
+          "Pursuit",
+          "FireBlast"
+        ]
+      },
+      {
+        "name": "Tyranitar - Uber - Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "StealthRock",
+          "RockBlast",
+          "ThunderWave",
+          "Rest"
+        ]
+      },
+      {
+        "name": "Tyranitar - OU - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Fire",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "StoneEdge",
+          "Crunch",
+          "Earthquake",
+          "FirePunch"
+        ]
+      },
+      {
+        "name": "Tyranitar - OU - Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "StealthRock",
+          "RockBlast",
+          "ThunderWave",
+          "Rest"
+        ]
+      },
+      {
+        "name": "Tyranitar - STABmons - Support",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Flying",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "ShoreUp",
+          "SaltCure",
+          "CeaselessEdge",
+          "PartingShot"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lugia",
+    "builds": []
+  },
+  {
+    "name": "Ho-Oh",
+    "builds": []
+  },
+  {
+    "name": "Celebi",
+    "builds": []
+  },
+  {
+    "name": "Milotic",
+    "builds": []
+  },
+  {
+    "name": "Sceptile",
+    "builds": []
+  },
+  {
+    "name": "Blaziken",
+    "builds": []
+  },
+  {
+    "name": "Swampert",
+    "builds": [
+      {
+        "name": "Swampert - National Dex - Rain Attacker",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Damp",
+        "heldItem": "Swampertite",
+        "moveset": [
+          "Waterfall",
+          "Earthquake",
+          "Superpower",
+          "IcePunch"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gardevoir",
+    "builds": []
+  },
+  {
+    "name": "Exploud",
+    "builds": []
+  },
+  {
+    "name": "Mawile",
+    "builds": [
+      {
+        "name": "Mawile - National Dex - Swords Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 92,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 164,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "heldItem": "Mawilite",
+        "moveset": [
+          "SwordsDance",
+          "PlayRough",
+          "SuckerPunch",
+          "KnockOff"
+        ]
+      },
+      {
+        "name": "Mawile - National Dex - All-out Attacker",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 52,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 204,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "heldItem": "Mawilite",
+        "moveset": [
+          "PlayRough",
+          "FireFang",
+          "IcePunch",
+          "ThunderPunch"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Regirock",
+    "builds": []
+  },
+  {
+    "name": "Regice",
+    "builds": []
+  },
+  {
+    "name": "Registeel",
+    "builds": []
+  },
+  {
+    "name": "Pelipper",
+    "builds": [
+      {
+        "name": "Pelipper - Uber - Rain Setter",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drizzle",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Roost",
+          "Uturn",
+          "KnockOff",
+          "Hurricane"
+        ]
+      },
+      {
+        "name": "Pelipper - OU - Rain Setter",
+        "nature": "Bold",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 8,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drizzle",
+        "teraType": "Ground",
+        "heldItem": "Damp Rock",
+        "moveset": [
+          "KnockOff",
+          "Hurricane",
+          "Roost",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Pelipper - BSS Series 1 - Drizzle Bird",
+        "nature": "Quiet",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drizzle",
+        "teraType": "Ground",
+        "heldItem": "Damp Rock",
+        "moveset": [
+          "Uturn",
+          "HydroPump",
+          "IceBeam",
+          "Hurricane"
+        ]
+      },
+      {
+        "name": "Pelipper - VGC23 Series 1 - Pelipper",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drizzle",
+        "teraType": "Ground",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "Hurricane",
+          "Tailwind",
+          "HydroPump",
+          "Protect"
+        ]
+      },
+      {
+        "name": "Pelipper - National Dex - Rain Setter",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drizzle",
+        "heldItem": "Damp Rock",
+        "moveset": [
+          "Scald",
+          "Defog",
+          "Uturn",
+          "Roost"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Torkoal",
+    "builds": [
+      {
+        "name": "Torkoal - OU - Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 8,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drought",
+        "teraType": "Water",
+        "heldItem": "Heat Rock",
+        "moveset": [
+          "LavaPlume",
+          "BodyPress",
+          "RapidSpin",
+          "StealthRock"
+        ]
+      },
+      {
+        "name": "Torkoal - VGC23 Series 1 - Trick Room Offense",
+        "nature": "Quiet",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drought",
+        "teraType": "Fire",
+        "heldItem": "Charcoal",
+        "moveset": [
+          "Eruption",
+          "EarthPower",
+          "HeatWave",
+          "Protect"
+        ]
+      },
+      {
+        "name": "Torkoal - National Dex - Sun Setter",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Drought",
+        "heldItem": "Heat Rock",
+        "moveset": [
+          "LavaPlume",
+          "BodyPress",
+          "StealthRock",
+          "Toxic"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lunatone",
+    "builds": []
+  },
+  {
+    "name": "Solrock",
+    "builds": []
+  },
+  {
+    "name": "Flygon",
+    "builds": []
+  },
+  {
+    "name": "Linoone",
+    "builds": []
+  },
+  {
+    "name": "Ludicolo",
+    "builds": []
+  },
+  {
+    "name": "Shiftry",
+    "builds": []
+  },
+  {
+    "name": "Ninjask",
+    "builds": []
+  },
+  {
+    "name": "Shedinja",
+    "builds": []
+  },
+  {
+    "name": "Sableye",
+    "builds": []
+  },
+  {
+    "name": "Aggron",
+    "builds": []
+  },
+  {
+    "name": "Manectric",
+    "builds": []
+  },
+  {
+    "name": "Sharpedo",
+    "builds": []
+  },
+  {
+    "name": "Wailord",
+    "builds": []
+  },
+  {
+    "name": "Altaria",
+    "builds": []
+  },
+  {
+    "name": "Whiscash",
+    "builds": []
+  },
+  {
+    "name": "Crawdaunt",
+    "builds": []
+  },
+  {
+    "name": "Claydol",
+    "builds": []
+  },
+  {
+    "name": "Cradily",
+    "builds": []
+  },
+  {
+    "name": "Armaldo",
+    "builds": []
+  },
+  {
+    "name": "Absol",
+    "builds": []
+  },
+  {
+    "name": "Glalie",
+    "builds": []
+  },
+  {
+    "name": "Walrein",
+    "builds": []
+  },
+  {
+    "name": "Relicanth",
+    "builds": []
+  },
+  {
+    "name": "Salamence",
+    "builds": [
+      {
+        "name": "Salamence - OU - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Moxie",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "DragonDance",
+          "Earthquake",
+          "DualWingbeat",
+          "DragonClaw"
+        ]
+      },
+      {
+        "name": "Salamence - BSS Series 1 - Specsmence Returns",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "teraType": "Fairy",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "DracoMeteor",
+          "Hurricane",
+          "Flamethrower",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Salamence - BSS Series 1 - Physically Offensive",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "teraType": "Flying",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "DualWingbeat",
+          "Outrage",
+          "Earthquake",
+          "DragonDance"
+        ]
+      },
+      {
+        "name": "Salamence - BSS Series 1 - Mixed Attacker",
+        "nature": "Naive",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "teraType": "Steel",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "DualWingbeat",
+          "DracoMeteor",
+          "Outrage",
+          "FireBlast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metagross",
+    "builds": []
+  },
+  {
+    "name": "Latias",
+    "builds": []
+  },
+  {
+    "name": "Latios",
+    "builds": []
+  },
+  {
+    "name": "Kyogre",
+    "builds": []
+  },
+  {
+    "name": "Groudon",
+    "builds": [
+      {
+        "name": "Groudon - BH - Defensive Setup",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "TidyUp",
+          "PrecipiceBlades",
+          "Recover",
+          "KnockOff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rayquaza",
+    "builds": [
+      {
+        "name": "Rayquaza - BH - Aerilate",
+        "nature": "Rash",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Aerilate",
+        "teraType": "Flying",
+        "heldItem": "Covert Cloak",
+        "moveset": [
+          "StrengthSap",
+          "Boomburst",
+          "RapidSpin",
+          "ExtremeSpeed"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jirachi",
+    "builds": []
+  },
+  {
+    "name": "Rotom-Heat",
+    "builds": [
+      {
+        "name": "Rotom-Heat - OU - Specially Defensive Pivot",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "VoltSwitch",
+          "Overheat",
+          "WillOWisp",
+          "Discharge"
+        ]
+      },
+      {
+        "name": "Rotom-Heat - BSS Series 1 - Choice Attacker",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Electric",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "VoltSwitch",
+          "Overheat",
+          "Trick",
+          "Thunderbolt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rotom-Wash",
+    "builds": [
+      {
+        "name": "Rotom-Wash - OU - Defensive Pivot",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Ground",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "VoltSwitch",
+          "HydroPump",
+          "Protect",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Rotom-Wash - OU - Trick",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Ground",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "VoltSwitch",
+          "HydroPump",
+          "Trick",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Rotom-Wash - BSS Series 1 - Choice Attacker",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Electric",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "VoltSwitch",
+          "HydroPump",
+          "Trick",
+          "Thunderbolt"
+        ]
+      },
+      {
+        "name": "Rotom-Wash - BSS Series 1 - Nasty Plot",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Fairy",
+        "heldItem": "Lum Berry",
+        "moveset": [
+          "NastyPlot",
+          "Thunderbolt",
+          "HydroPump",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Rotom-Wash - STABmons - Defensive Pivot",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 124,
+          "SPE": 132,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Poison",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "VoltSwitch",
+          "SteamEruption",
+          "FreezeDry",
+          "StrengthSap"
+        ]
+      },
+      {
+        "name": "Rotom-Wash - National Dex - Defensive Pivot",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "HydroPump",
+          "VoltSwitch",
+          "WillOWisp",
+          "PainSplit"
+        ]
+      },
+      {
+        "name": "Rotom-Wash - National Dex - Choice Scarf",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "HydroPump",
+          "VoltSwitch",
+          "WillOWisp",
+          "Trick"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rotom-Frost",
+    "builds": []
+  },
+  {
+    "name": "Rotom-Fan",
+    "builds": []
+  },
+  {
+    "name": "Rotom-Mow",
+    "builds": []
+  },
+  {
+    "name": "Roserade",
+    "builds": []
+  },
+  {
+    "name": "Togekiss",
+    "builds": []
+  },
+  {
+    "name": "Dusknoir",
+    "builds": []
+  },
+  {
+    "name": "Cherrim",
+    "builds": []
+  },
+  {
+    "name": "Magnezone",
+    "builds": [
+      {
+        "name": "Magnezone - OU - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magnet Pull",
+        "teraType": "Fairy",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Thunderbolt",
+          "FlashCannon",
+          "TeraBlast",
+          "VoltSwitch"
+        ]
+      },
+      {
+        "name": "Magnezone - BSS Series 1 - Special Attacker",
+        "nature": "Modest",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Analytic",
+        "teraType": "Fairy",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Thunderbolt",
+          "VoltSwitch",
+          "FlashCannon",
+          "TeraBlast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leafeon",
+    "builds": []
+  },
+  {
+    "name": "Glaceon",
+    "builds": []
+  },
+  {
+    "name": "Gallade",
+    "builds": [
+      {
+        "name": "Gallade - OU - Swords Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sharpness",
+        "teraType": "Fighting",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "SwordsDance",
+          "SacredSword",
+          "PsychoCut",
+          "ShadowSneak"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heatran",
+    "builds": [
+      {
+        "name": "Heatran - National Dex - Specially Defensive",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 4,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flash Fire",
+        "teraType": "Flying",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "MagmaStorm",
+          "EarthPower",
+          "StealthRock",
+          "Taunt"
+        ]
+      },
+      {
+        "name": "Heatran - National Dex - Offensive Z-Move",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flash Fire",
+        "heldItem": "Firium Z",
+        "moveset": [
+          "MagmaStorm",
+          "EarthPower",
+          "Taunt",
+          "Toxic"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giratina-Origin",
+    "builds": []
+  },
+  {
+    "name": "Cresselia",
+    "builds": []
+  },
+  {
+    "name": "Luxray",
+    "builds": []
+  },
+  {
+    "name": "Vespiquen",
+    "builds": []
+  },
+  {
+    "name": "Gastrodon",
+    "builds": [
+      {
+        "name": "Gastrodon - OU - Specially Defensive",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Storm Drain",
+        "teraType": "Grass",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "ChillingWater",
+          "Recover",
+          "StealthRock",
+          "Spikes"
+        ]
+      },
+      {
+        "name": "Gastrodon - National Dex - Defensive Entry Hazard Setter",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Storm Drain",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Spikes",
+          "Earthquake",
+          "Scald",
+          "Recover"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drifblim",
+    "builds": []
+  },
+  {
+    "name": "Lopunny",
+    "builds": [
+      {
+        "name": "Lopunny - National Dex - Offensive",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Limber",
+        "heldItem": "Lopunnite",
+        "moveset": [
+          "CloseCombat",
+          "Uturn",
+          "FakeOut",
+          "Frustration"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skuntank",
+    "builds": []
+  },
+  {
+    "name": "Bronzong",
+    "builds": []
+  },
+  {
+    "name": "Spiritomb",
+    "builds": []
+  },
+  {
+    "name": "Garchomp",
+    "builds": [
+      {
+        "name": "Garchomp - OU - Tank",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Ghost",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "StealthRock",
+          "Earthquake",
+          "Spikes",
+          "DragonTail"
+        ]
+      },
+      {
+        "name": "Garchomp - OU - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Ground",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "SwordsDance",
+          "Earthquake",
+          "DragonClaw",
+          "Substitute"
+        ]
+      },
+      {
+        "name": "Garchomp - National Dex - Suicide Lead",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "Spikes",
+          "StealthRock",
+          "DragonTail",
+          "Earthquake"
+        ]
+      },
+      {
+        "name": "Garchomp - National Dex - Offensive Stealth Rock",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "heldItem": "Rockium Z",
+        "moveset": [
+          "SwordsDance",
+          "Earthquake",
+          "StoneEdge",
+          "StealthRock"
+        ]
+      },
+      {
+        "name": "Garchomp - National Dex - Defensive",
+        "nature": "Impish",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 204,
+          "SPE": 56,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Earthquake",
+          "StealthRock",
+          "DragonTail",
+          "Toxic"
+        ]
+      },
+      {
+        "name": "Garchomp - National Dex - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "heldItem": "Garchompite",
+        "moveset": [
+          "SwordsDance",
+          "Earthquake",
+          "ScaleShot",
+          "FireBlast"
+        ]
+      },
+      {
+        "name": "Garchomp - Uber - Bulky Lead",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Steel",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "StealthRock",
+          "Spikes",
+          "Earthquake",
+          "DragonTail"
+        ]
+      },
+      {
+        "name": "Garchomp - BSS Series 1 - Swords Dance Sweeper",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Steel",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "SwordsDance",
+          "Earthquake",
+          "Outrage",
+          "FireFang"
+        ]
+      },
+      {
+        "name": "Garchomp - BSS Series 1 - Entry Hazard Setter",
+        "nature": "Impish",
+        "evs": {
+          "HP": 188,
+          "ATK": 0,
+          "DEF": 236,
+          "SPE": 84,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Steel",
+        "heldItem": "Sitrus Berry",
+        "moveset": [
+          "StealthRock",
+          "Spikes",
+          "Earthquake",
+          "DragonTail"
+        ]
+      },
+      {
+        "name": "Garchomp - BSS Series 1 - Choice Item",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Fire",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Earthquake",
+          "DragonClaw",
+          "Outrage",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Garchomp - VGC23 Series 1 - Offensive",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Ground",
+        "heldItem": "Clear Amulet",
+        "moveset": [
+          "Earthquake",
+          "DragonClaw",
+          "RockSlide",
+          "Protect"
+        ]
+      },
+      {
+        "name": "Garchomp - Almost Any Ability - Entry Hazard Setter",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Earthquake",
+          "StealthRock",
+          "Spikes",
+          "DragonTail"
+        ]
+      },
+      {
+        "name": "Garchomp - STABmons - Defensive Spiker",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "PrecipiceBlades",
+          "DragonTail",
+          "Spikes",
+          "ShoreUp"
+        ]
+      },
+      {
+        "name": "Garchomp - STABmons - Setup Attacker",
+        "nature": "Naive",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Rough Skin",
+        "teraType": "Fire",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "HeadlongRush",
+          "GlaiveRush",
+          "TeraBlast",
+          "DragonDance"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lucario",
+    "builds": []
+  },
+  {
+    "name": "Hippowdon",
+    "builds": [
+      {
+        "name": "Hippowdon - Uber - Defensive",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Water",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Earthquake",
+          "SlackOff",
+          "StealthRock",
+          "Whirlwind"
+        ]
+      },
+      {
+        "name": "Hippowdon - OU - Specially Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Earthquake",
+          "SlackOff",
+          "StealthRock",
+          "Whirlwind"
+        ]
+      },
+      {
+        "name": "Hippowdon - BSS Series 1 - Stealth Rock Support",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Grass",
+        "heldItem": "Sitrus Berry",
+        "moveset": [
+          "StealthRock",
+          "Yawn",
+          "Earthquake",
+          "Roar"
+        ]
+      },
+      {
+        "name": "Hippowdon - Almost Any Ability - Fur Coat",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 4,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 25,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Earthquake",
+          "Whirlwind",
+          "SlackOff",
+          "StealthRock"
+        ]
+      },
+      {
+        "name": "Hippowdon - National Dex - Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sand Stream",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Earthquake",
+          "Toxic",
+          "SlackOff",
+          "StealthRock"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drapion",
+    "builds": []
+  },
+  {
+    "name": "Toxicroak",
+    "builds": []
+  },
+  {
+    "name": "Abomasnow",
+    "builds": [
+      {
+        "name": "Abomasnow - VGC23 Series 1 - Support",
+        "nature": "Modest",
+        "evs": {
+          "HP": 220,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 36,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Snow Warning",
+        "teraType": "Water",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "Blizzard",
+          "GigaDrain",
+          "AuroraVeil",
+          "Protect"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Weavile",
+    "builds": []
+  },
+  {
+    "name": "Lickilicky",
+    "builds": []
+  },
+  {
+    "name": "Rhyperior",
+    "builds": []
+  },
+  {
+    "name": "Tangrowth",
+    "builds": []
+  },
+  {
+    "name": "Electivire",
+    "builds": []
+  },
+  {
+    "name": "Magmortar",
+    "builds": []
+  },
+  {
+    "name": "Mamoswine",
+    "builds": []
+  },
+  {
+    "name": "Porygon-Z",
+    "builds": []
+  },
+  {
+    "name": "Froslass",
+    "builds": [
+      {
+        "name": "Froslass - Uber - Spikes Lead",
+        "nature": "Timid",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 8,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Cursed Body",
+        "teraType": "Steel",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "Spikes",
+          "Taunt",
+          "IcyWind",
+          "DestinyBond"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rotom",
+    "builds": []
+  },
+  {
+    "name": "Uxie",
+    "builds": []
+  },
+  {
+    "name": "Mesprit",
+    "builds": []
+  },
+  {
+    "name": "Azelf",
+    "builds": []
+  },
+  {
+    "name": "Dialga",
+    "builds": []
+  },
+  {
+    "name": "Palkia",
+    "builds": []
+  },
+  {
+    "name": "Regigigas",
+    "builds": []
+  },
+  {
+    "name": "Giratina",
+    "builds": [
+      {
+        "name": "Giratina - BH - Magic Bounce",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magic Bounce",
+        "teraType": "Fairy",
+        "heldItem": "Covert Cloak",
+        "moveset": [
+          "CourtChange",
+          "StrengthSap",
+          "Entrainment",
+          "Scald"
+        ]
+      },
+      {
+        "name": "Giratina - BH - Prankster",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Fairy",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Haze",
+          "Recover",
+          "Entrainment",
+          "PartingShot"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stoutland",
+    "builds": []
+  },
+  {
+    "name": "Unfezant",
+    "builds": []
+  },
+  {
+    "name": "Gigalith",
+    "builds": []
+  },
+  {
+    "name": "Seismitoad",
+    "builds": []
+  },
+  {
+    "name": "Scolipede",
+    "builds": []
+  },
+  {
+    "name": "Whimsicott",
+    "builds": []
+  },
+  {
+    "name": "Basculin-Blue-Striped",
+    "builds": []
+  },
+  {
+    "name": "Krookodile",
+    "builds": []
+  },
+  {
+    "name": "Gothitelle",
+    "builds": [
+      {
+        "name": "Gothitelle - Uber - Trapper",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Shadow Tag",
+        "teraType": "Fairy",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Trick",
+          "Psychic",
+          "Taunt",
+          "Rest"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ferrothorn",
+    "builds": [
+      {
+        "name": "Ferrothorn - National Dex - Specially Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Iron Barbs",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Spikes",
+          "PowerWhip",
+          "KnockOff",
+          "LeechSeed"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chandelure",
+    "builds": []
+  },
+  {
+    "name": "Volcarona",
+    "builds": [
+      {
+        "name": "Volcarona - OU - Quiver Dance",
+        "nature": "Timid",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 108,
+          "SPE": 152,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flame Body",
+        "teraType": "Grass",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "QuiverDance",
+          "MorningSun",
+          "FieryDance",
+          "GigaDrain"
+        ]
+      },
+      {
+        "name": "Volcarona - BSS Series 1 - Quiver Dance Sweeper",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flame Body",
+        "teraType": "Water",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "FieryDance",
+          "GigaDrain",
+          "QuiverDance",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Volcarona - BSS Series 1 - Bulkarona",
+        "nature": "Bold",
+        "evs": {
+          "HP": 244,
+          "ATK": 0,
+          "DEF": 196,
+          "SPE": 68,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flame Body",
+        "teraType": "Fairy",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "QuiverDance",
+          "FieryDance",
+          "MorningSun",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Volcarona - BSS Series 1 - SOLAR FLARE (Choiced Attacker)",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flame Body",
+        "teraType": "Fire",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "FieryDance",
+          "BugBuzz",
+          "GigaDrain",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Volcarona - Almost Any Ability - Physically Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 224,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 32,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Desolate Land",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "FieryDance",
+          "Uturn",
+          "MorningSun",
+          "WillOWisp"
+        ]
+      },
+      {
+        "name": "Volcarona - Almost Any Ability - Fast Support",
+        "nature": "Timid",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Desolate Land",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "FieryDance",
+          "QuiverDance",
+          "WillOWisp",
+          "MorningSun"
+        ]
+      },
+      {
+        "name": "Volcarona - National Dex - Quiver Dance",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flame Body",
+        "teraType": "Psychic",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "QuiverDance",
+          "Flamethrower",
+          "BugBuzz",
+          "Psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crustle",
+    "builds": []
+  },
+  {
+    "name": "Vanilluxe",
+    "builds": []
+  },
+  {
+    "name": "Beartic",
+    "builds": []
+  },
+  {
+    "name": "Cryogonal",
+    "builds": []
+  },
+  {
+    "name": "Victini",
+    "builds": [
+      {
+        "name": "Victini - National Dex - Offensive Pivot",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Victory Star",
+        "teraType": "Fire",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Vcreate",
+          "BoltStrike",
+          "Uturn",
+          "Toxic"
+        ]
+      },
+      {
+        "name": "Victini - National Dex - Choice Scarf",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Victory Star",
+        "teraType": "Fire",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Vcreate",
+          "Uturn",
+          "FinalGambit",
+          "Trick"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Liepard",
+    "builds": []
+  },
+  {
+    "name": "Musharna",
+    "builds": []
+  },
+  {
+    "name": "Swoobat",
+    "builds": []
+  },
+  {
+    "name": "Excadrill",
+    "builds": []
+  },
+  {
+    "name": "Audino",
+    "builds": []
+  },
+  {
+    "name": "Conkeldurr",
+    "builds": []
+  },
+  {
+    "name": "Throh",
+    "builds": []
+  },
+  {
+    "name": "Sawk",
+    "builds": []
+  },
+  {
+    "name": "Lilligant",
+    "builds": [
+      {
+        "name": "Lilligant - VGC23 Series 1 - Chlorophyll Support",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Chlorophyll",
+        "teraType": "Water",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "LeafStorm",
+          "SleepPowder",
+          "Protect",
+          "AfterYou"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Basculin",
+    "builds": []
+  },
+  {
+    "name": "Darmanitan",
+    "builds": []
+  },
+  {
+    "name": "Maractus",
+    "builds": []
+  },
+  {
+    "name": "Scrafty",
+    "builds": []
+  },
+  {
+    "name": "Sigilyph",
+    "builds": []
+  },
+  {
+    "name": "Cofagrigus",
+    "builds": []
+  },
+  {
+    "name": "Carracosta",
+    "builds": []
+  },
+  {
+    "name": "Archeops",
+    "builds": []
+  },
+  {
+    "name": "Garbodor",
+    "builds": []
+  },
+  {
+    "name": "Zoroark",
+    "builds": []
+  },
+  {
+    "name": "Cinccino",
+    "builds": []
+  },
+  {
+    "name": "Reuniclus",
+    "builds": []
+  },
+  {
+    "name": "Emolga",
+    "builds": []
+  },
+  {
+    "name": "Escavalier",
+    "builds": []
+  },
+  {
+    "name": "Amoonguss",
+    "builds": [
+      {
+        "name": "Amoonguss - OU - Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 172,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 84
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Water",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "GigaDrain",
+          "ClearSmog",
+          "FoulPlay",
+          "Spore"
+        ]
+      },
+      {
+        "name": "Amoonguss - BSS Series 1 - Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Dark",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Spore",
+          "ClearSmog",
+          "Hex",
+          "FoulPlay"
+        ]
+      },
+      {
+        "name": "Amoonguss - BSS Series 1 - Pivot",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Dark",
+        "heldItem": "Eject Pack",
+        "moveset": [
+          "Spore",
+          "LeafStorm",
+          "ClearSmog",
+          "FoulPlay"
+        ]
+      },
+      {
+        "name": "Amoonguss - VGC23 Series 1 - Support",
+        "nature": "Bold",
+        "evs": {
+          "HP": 236,
+          "ATK": 0,
+          "DEF": 84,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 188
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Water",
+        "heldItem": "Wiki Berry",
+        "moveset": [
+          "Spore",
+          "RagePowder",
+          "ClearSmog",
+          "PollenPuff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jellicent",
+    "builds": []
+  },
+  {
+    "name": "Galvantula",
+    "builds": []
+  },
+  {
+    "name": "Klinklang",
+    "builds": []
+  },
+  {
+    "name": "Beheeyem",
+    "builds": []
+  },
+  {
+    "name": "Haxorus",
+    "builds": [
+      {
+        "name": "Haxorus - OU - Swords Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Mold Breaker",
+        "teraType": "Electric",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "SwordsDance",
+          "CloseCombat",
+          "Earthquake",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Haxorus - BSS Series 1 - Mold Breaker Funny Moments Compilation",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Mold Breaker",
+        "teraType": "Steel",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "DragonDance",
+          "DragonClaw",
+          "Earthquake",
+          "IronHead"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Accelgor",
+    "builds": []
+  },
+  {
+    "name": "Stunfisk",
+    "builds": []
+  },
+  {
+    "name": "Mienshao",
+    "builds": []
+  },
+  {
+    "name": "Druddigon",
+    "builds": []
+  },
+  {
+    "name": "Golurk",
+    "builds": []
+  },
+  {
+    "name": "Bisharp",
+    "builds": []
+  },
+  {
+    "name": "Bouffalant",
+    "builds": []
+  },
+  {
+    "name": "Braviary",
+    "builds": []
+  },
+  {
+    "name": "Mandibuzz",
+    "builds": []
+  },
+  {
+    "name": "Heatmor",
+    "builds": []
+  },
+  {
+    "name": "Durant",
+    "builds": []
+  },
+  {
+    "name": "Hydreigon",
+    "builds": [
+      {
+        "name": "Hydreigon - OU - Nasty Plot",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "NastyPlot",
+          "DarkPulse",
+          "DracoMeteor",
+          "EarthPower"
+        ]
+      },
+      {
+        "name": "Hydreigon - BSS Series 1 - HARBINGER",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "DarkPulse",
+          "DracoMeteor",
+          "TeraBlast",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Hydreigon - BSS Series 1 - Versatile Attacker",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "DarkPulse",
+          "DracoMeteor",
+          "Substitute",
+          "NastyPlot"
+        ]
+      },
+      {
+        "name": "Hydreigon - BSS Series 1 - Stealth Rock Support",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "StealthRock",
+          "DarkPulse",
+          "Taunt",
+          "DracoMeteor"
+        ]
+      },
+      {
+        "name": "Hydreigon - VGC23 Series 1 - Life Orb",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "DracoMeteor",
+          "DarkPulse",
+          "FlashCannon",
+          "Protect"
+        ]
+      },
+      {
+        "name": "Hydreigon - VGC23 Series 1 - Scope Lens",
+        "nature": "Timid",
+        "evs": {
+          "HP": 4,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Fire",
+        "heldItem": "Scope Lens",
+        "moveset": [
+          "DracoMeteor",
+          "HeatWave",
+          "FocusEnergy",
+          "Protect"
+        ]
+      },
+      {
+        "name": "Hydreigon - VGC23 Series 1 - Assault Vest",
+        "nature": "Timid",
+        "evs": {
+          "HP": 228,
+          "ATK": 0,
+          "DEF": 20,
+          "SPE": 148,
+          "SPA": 36,
+          "SPD": 76
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Levitate",
+        "teraType": "Steel",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "DracoMeteor",
+          "Snarl",
+          "FlashCannon",
+          "DarkPulse"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobalion",
+    "builds": []
+  },
+  {
+    "name": "Terrakion",
+    "builds": []
+  },
+  {
+    "name": "Virizion",
+    "builds": []
+  },
+  {
+    "name": "Tornadus",
+    "builds": []
+  },
+  {
+    "name": "Tornadus-Therian",
+    "builds": [
+      {
+        "name": "Tornadus-Therian - National Dex - Defog Pivot",
+        "nature": "Timid",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 8,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "BleakwindStorm",
+          "KnockOff",
+          "Uturn",
+          "Defog"
+        ]
+      },
+      {
+        "name": "Tornadus-Therian - National Dex - Nasty Plot",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "heldItem": "Flyinium Z",
+        "moveset": [
+          "NastyPlot",
+          "Hurricane",
+          "FocusBlast",
+          "Uturn"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thundurus",
+    "builds": []
+  },
+  {
+    "name": "Thundurus-Therian",
+    "builds": []
+  },
+  {
+    "name": "Reshiram",
+    "builds": []
+  },
+  {
+    "name": "Zekrom",
+    "builds": []
+  },
+  {
+    "name": "Landorus",
+    "builds": []
+  },
+  {
+    "name": "Landorus-Therian",
+    "builds": [
+      {
+        "name": "Landorus-Therian - National Dex - Defensive",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "teraType": "Water",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Earthquake",
+          "Uturn",
+          "Toxic",
+          "StealthRock"
+        ]
+      },
+      {
+        "name": "Landorus-Therian - National Dex - Choice Scarf",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Earthquake",
+          "Uturn",
+          "StoneEdge",
+          "Defog"
+        ]
+      },
+      {
+        "name": "Landorus-Therian - National Dex - Suicide Lead",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "StealthRock",
+          "Taunt",
+          "Earthquake",
+          "Explosion"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kyurem",
+    "builds": []
+  },
+  {
+    "name": "Kyurem-Black",
+    "builds": []
+  },
+  {
+    "name": "Kyurem-White",
+    "builds": []
+  },
+  {
+    "name": "Keldeo",
+    "builds": []
+  },
+  {
+    "name": "Keldeo-Resolute",
+    "builds": []
+  },
+  {
+    "name": "Genesect",
+    "builds": []
+  },
+  {
+    "name": "Genesect-Douse",
+    "builds": []
+  },
+  {
+    "name": "Genesect-Shock",
+    "builds": []
+  },
+  {
+    "name": "Genesect-Burn",
+    "builds": []
+  },
+  {
+    "name": "Genesect-Chill",
+    "builds": []
+  },
+  {
+    "name": "Meowstic-M",
+    "builds": []
+  },
+  {
+    "name": "Zygarde",
+    "builds": []
+  },
+  {
+    "name": "Aegislash",
+    "builds": []
+  },
+  {
+    "name": "Gourgeist-Small",
+    "builds": []
+  },
+  {
+    "name": "Gourgeist-Large",
+    "builds": []
+  },
+  {
+    "name": "Hawlucha",
+    "builds": [
+      {
+        "name": "Hawlucha - OU - Unburden Sweeper",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 80,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 176,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Unburden",
+        "teraType": "Fighting",
+        "heldItem": "Electric Seed",
+        "moveset": [
+          "SwordsDance",
+          "CloseCombat",
+          "Acrobatics",
+          "ThunderPunch"
+        ]
+      },
+      {
+        "name": "Hawlucha - National Dex - Unburden Sweeper",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 96,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 124,
+          "SPA": 0,
+          "SPD": 36
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Unburden",
+        "heldItem": "Electric Seed",
+        "moveset": [
+          "SwordsDance",
+          "CloseCombat",
+          "Acrobatics",
+          "Roost"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avalugg",
+    "builds": [
+      {
+        "name": "Avalugg - OU - Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sturdy",
+        "teraType": "Fighting",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "BodyPress",
+          "Avalanche",
+          "Recover",
+          "RapidSpin"
+        ]
+      },
+      {
+        "name": "Avalugg - Almost Any Ability - Fur Coat",
+        "nature": "Impish",
+        "evs": {
+          "HP": 248,
+          "ATK": 8,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "IceSpinner",
+          "BodyPress",
+          "Recover",
+          "IronDefense"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Noivern",
+    "builds": [
+      {
+        "name": "Noivern - Almost Any Ability - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Aerilate",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Boomburst",
+          "DracoMeteor",
+          "Flamethrower",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Noivern - Almost Any Ability - Super Fang",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Aerilate",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Boomburst",
+          "SuperFang",
+          "Roost",
+          "Uturn"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diggersby",
+    "builds": []
+  },
+  {
+    "name": "Talonflame",
+    "builds": [
+      {
+        "name": "Talonflame - OU - Defensive Utility",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 204,
+          "SPE": 52,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Flame Body",
+        "teraType": "Normal",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Flamethrower",
+          "AirSlash",
+          "WillOWisp",
+          "Roost"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pangoro",
+    "builds": []
+  },
+  {
+    "name": "Meowstic-F",
+    "builds": []
+  },
+  {
+    "name": "Aromatisse",
+    "builds": []
+  },
+  {
+    "name": "Slurpuff",
+    "builds": []
+  },
+  {
+    "name": "Malamar",
+    "builds": []
+  },
+  {
+    "name": "Barbaracle",
+    "builds": []
+  },
+  {
+    "name": "Dragalge",
+    "builds": []
+  },
+  {
+    "name": "Clawitzer",
+    "builds": []
+  },
+  {
+    "name": "Heliolisk",
+    "builds": []
+  },
+  {
+    "name": "Tyrantrum",
+    "builds": []
+  },
+  {
+    "name": "Aurorus",
+    "builds": []
+  },
+  {
+    "name": "Sylveon",
+    "builds": [
+      {
+        "name": "Sylveon - OU - Specially Defensive Calm Mind",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 4,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fairy",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Wish",
+          "Protect",
+          "CalmMind",
+          "HyperVoice"
+        ]
+      },
+      {
+        "name": "Sylveon - BSS Series 1 - CUTESY CRUSADER (Defensive)",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fire",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "HyperVoice",
+          "TeraBlast",
+          "Wish",
+          "QuickAttack"
+        ]
+      },
+      {
+        "name": "Sylveon - BSS Series 1 - Offensive",
+        "nature": "Modest",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fire",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "HyperVoice",
+          "TeraBlast",
+          "ShadowBall",
+          "QuickAttack"
+        ]
+      },
+      {
+        "name": "Sylveon - VGC23 Series 1 - Offensive",
+        "nature": "Modest",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fire",
+        "heldItem": "Throat Spray",
+        "moveset": [
+          "HyperVoice",
+          "Protect",
+          "TeraBlast",
+          "Substitute"
+        ]
+      },
+      {
+        "name": "Sylveon - VGC23 Series 1 - Choice Specs",
+        "nature": "Modest",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fire",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "HyperVoice",
+          "TeraBlast",
+          "ShadowBall",
+          "HyperBeam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dedenne",
+    "builds": []
+  },
+  {
+    "name": "Carbink",
+    "builds": []
+  },
+  {
+    "name": "Goodra",
+    "builds": []
+  },
+  {
+    "name": "Klefki",
+    "builds": [
+      {
+        "name": "Klefki - OU - Trick Room Setter",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Dark",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "Spikes",
+          "LightScreen",
+          "Reflect",
+          "TrickRoom"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trevenant",
+    "builds": []
+  },
+  {
+    "name": "Gourgeist",
+    "builds": []
+  },
+  {
+    "name": "Gourgeist-Super",
+    "builds": []
+  },
+  {
+    "name": "Xerneas",
+    "builds": []
+  },
+  {
+    "name": "Yveltal",
+    "builds": []
+  },
+  {
+    "name": "Diancie",
+    "builds": [
+      {
+        "name": "Diancie - National Dex - Wallbreaker",
+        "nature": "Naive",
+        "evs": {
+          "HP": 0,
+          "ATK": 4,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Clear Body",
+        "heldItem": "Diancite",
+        "moveset": [
+          "DiamondStorm",
+          "MysticalFire",
+          "Moonblast",
+          "StealthRock"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Volcanion",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Original",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Hoenn",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Sinnoh",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Unova",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Kalos",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Alola",
+    "builds": []
+  },
+  {
+    "name": "Pikachu-Partner",
+    "builds": []
+  },
+  {
+    "name": "Vikavolt",
+    "builds": []
+  },
+  {
+    "name": "Lycanroc",
+    "builds": []
+  },
+  {
+    "name": "Lycanroc-Midnight",
+    "builds": []
+  },
+  {
+    "name": "Tapu Koko",
+    "builds": [
+      {
+        "name": "Tapu Koko - National Dex - Offesive Terrain Setter",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Electric Surge",
+        "teraType": "Grass",
+        "heldItem": "Terrain Extender",
+        "moveset": [
+          "Thunderbolt",
+          "Uturn",
+          "GrassKnot",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Tapu Koko - National Dex - Dual Screens",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Electric Surge",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "LightScreen",
+          "Reflect",
+          "Uturn",
+          "Taunt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tapu Lele",
+    "builds": [
+      {
+        "name": "Tapu Lele - National Dex - Choice Scarf",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Psychic Surge",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Psyshock",
+          "Moonblast",
+          "FocusBlast",
+          "FutureSight"
+        ]
+      },
+      {
+        "name": "Tapu Lele - National Dex - Calm Mind",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Psychic Surge",
+        "heldItem": "Fightinium Z",
+        "moveset": [
+          "CalmMind",
+          "Psyshock",
+          "FocusBlast",
+          "Moonblast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tapu Bulu",
+    "builds": []
+  },
+  {
+    "name": "Tapu Fini",
+    "builds": [
+      {
+        "name": "Tapu Fini - National Dex - Choice Scarf",
+        "nature": "Timid",
+        "evs": {
+          "HP": 184,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 72,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Misty Surge",
+        "teraType": "Fairy",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "HydroPump",
+          "Moonblast",
+          "Trick",
+          "Defog"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Raichu-Alola",
+    "builds": []
+  },
+  {
+    "name": "Sandslash-Alola",
+    "builds": []
+  },
+  {
+    "name": "Ninetales-Alola",
+    "builds": [
+      {
+        "name": "Ninetales-Alola - National Dex - Aurora Veil Setter",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Snow Warning",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "AuroraVeil",
+          "FreezeDry",
+          "Encore",
+          "Moonblast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dugtrio-Alola",
+    "builds": []
+  },
+  {
+    "name": "Persian-Alola",
+    "builds": []
+  },
+  {
+    "name": "Exeggutor-Alola",
+    "builds": []
+  },
+  {
+    "name": "Marowak-Alola",
+    "builds": []
+  },
+  {
+    "name": "Decidueye",
+    "builds": []
+  },
+  {
+    "name": "Incineroar",
+    "builds": []
+  },
+  {
+    "name": "Primarina",
+    "builds": []
+  },
+  {
+    "name": "Ribombee",
+    "builds": []
+  },
+  {
+    "name": "Lycanroc-Dusk",
+    "builds": []
+  },
+  {
+    "name": "Wishiwashi",
+    "builds": []
+  },
+  {
+    "name": "Toxapex",
+    "builds": [
+      {
+        "name": "Toxapex - OU - The Pex",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 192,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 64
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Steel",
+        "heldItem": "Black Sludge",
+        "moveset": [
+          "ChillingWater",
+          "Recover",
+          "Toxic",
+          "Haze"
+        ]
+      },
+      {
+        "name": "Toxapex - Almost Any Ability - Ice Scales",
+        "nature": "Careful",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 8,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Ice Scales",
+        "heldItem": "Black Sludge",
+        "moveset": [
+          "Liquidation",
+          "Toxic",
+          "Recover",
+          "Haze"
+        ]
+      },
+      {
+        "name": "Toxapex - STABmons - Physically Defensive Pivot",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Steel",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "FlipTurn",
+          "MortalSpin",
+          "Haze",
+          "Recover"
+        ]
+      },
+      {
+        "name": "Toxapex - STABmons - RegenVest Pivot",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 92,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 168
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Steel",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "FlipTurn",
+          "MortalSpin",
+          "ClearSmog",
+          "Scald"
+        ]
+      },
+      {
+        "name": "Toxapex - National Dex - The Pex",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Steel",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Scald",
+          "Toxic",
+          "Haze",
+          "Recover"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mudsdale",
+    "builds": []
+  },
+  {
+    "name": "Araquanid",
+    "builds": []
+  },
+  {
+    "name": "Lurantis",
+    "builds": []
+  },
+  {
+    "name": "Shiinotic",
+    "builds": []
+  },
+  {
+    "name": "Salazzle",
+    "builds": []
+  },
+  {
+    "name": "Bewear",
+    "builds": []
+  },
+  {
+    "name": "Tsareena",
+    "builds": []
+  },
+  {
+    "name": "Comfey",
+    "builds": []
+  },
+  {
+    "name": "Oranguru",
+    "builds": []
+  },
+  {
+    "name": "Passimian",
+    "builds": []
+  },
+  {
+    "name": "Golisopod",
+    "builds": []
+  },
+  {
+    "name": "Palossand",
+    "builds": [
+      {
+        "name": "Palossand - Almost Any Ability - Physically Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "EarthPower",
+          "ShadowBall",
+          "ShoreUp",
+          "StealthRock"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pyukumuku",
+    "builds": []
+  },
+  {
+    "name": "Silvally",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Bug",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Dark",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Dragon",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Electric",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Fairy",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Fighting",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Fire",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Flying",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Ghost",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Grass",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Ground",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Ice",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Poison",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Psychic",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Rock",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Steel",
+    "builds": []
+  },
+  {
+    "name": "Silvally-Water",
+    "builds": []
+  },
+  {
+    "name": "Turtonator",
+    "builds": []
+  },
+  {
+    "name": "Togedemaru",
+    "builds": []
+  },
+  {
+    "name": "Mimikyu",
+    "builds": [
+      {
+        "name": "Mimikyu - OU - Swords Dance",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Disguise",
+        "teraType": "Ghost",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "SwordsDance",
+          "ShadowClaw",
+          "PlayRough",
+          "ShadowSneak"
+        ]
+      },
+      {
+        "name": "Mimikyu - BSS Series 1 - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Disguise",
+        "teraType": "Ghost",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "SwordsDance",
+          "PlayRough",
+          "ShadowSneak",
+          "ShadowClaw"
+        ]
+      },
+      {
+        "name": "Mimikyu - BSS Series 1 - Curse Stall",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Disguise",
+        "teraType": "Fairy",
+        "heldItem": "Figy Berry",
+        "moveset": [
+          "Curse",
+          "Substitute",
+          "PainSplit",
+          "ShadowClaw"
+        ]
+      },
+      {
+        "name": "Mimikyu - BSS Series 1 - Trick Scarf",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Disguise",
+        "teraType": "Ghost",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Trick",
+          "PlayRough",
+          "ShadowClaw",
+          "WoodHammer"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drampa",
+    "builds": []
+  },
+  {
+    "name": "Dhelmise",
+    "builds": []
+  },
+  {
+    "name": "Kommo-o",
+    "builds": []
+  },
+  {
+    "name": "Solgaleo",
+    "builds": []
+  },
+  {
+    "name": "Lunala",
+    "builds": []
+  },
+  {
+    "name": "Nihilego",
+    "builds": []
+  },
+  {
+    "name": "Buzzwole",
+    "builds": [
+      {
+        "name": "Buzzwole - National Dex - Offensive Wall",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 232,
+          "SPE": 24,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beast Boost",
+        "teraType": "Steel",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "CloseCombat",
+          "IcePunch",
+          "ThunderPunch",
+          "Roost"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pheromosa",
+    "builds": []
+  },
+  {
+    "name": "Xurkitree",
+    "builds": []
+  },
+  {
+    "name": "Celesteela",
+    "builds": []
+  },
+  {
+    "name": "Kartana",
+    "builds": [
+      {
+        "name": "Kartana - National Dex - Choice Scarf",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beast Boost",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "LeafBlade",
+          "SacredSword",
+          "SmartStrike",
+          "KnockOff"
+        ]
+      },
+      {
+        "name": "Kartana - National Dex - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beast Boost",
+        "heldItem": "Fightinium Z",
+        "moveset": [
+          "SwordsDance",
+          "LeafBlade",
+          "SacredSword",
+          "KnockOff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guzzlord",
+    "builds": []
+  },
+  {
+    "name": "Necrozma",
+    "builds": []
+  },
+  {
+    "name": "Necrozma-Dusk Mane",
+    "builds": []
+  },
+  {
+    "name": "Necrozma-Dawn Wings",
+    "builds": []
+  },
+  {
+    "name": "Magearna",
+    "builds": [
+      {
+        "name": "Magearna - National Dex - Defensive Pivot",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 208,
+          "SPE": 0,
+          "SPA": 48,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Soul-Heart",
+        "teraType": "Flying",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Spikes",
+          "FleurCannon",
+          "VoltSwitch",
+          "PainSplit"
+        ]
+      },
+      {
+        "name": "Magearna - National Dex - Shift Gear + Calm Mind",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Soul-Heart",
+        "teraType": "Psychic",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "ShiftGear",
+          "CalmMind",
+          "StoredPower",
+          "DrainingKiss"
+        ]
+      },
+      {
+        "name": "Magearna - National Dex - Choice Specs",
+        "nature": "Modest",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Soul-Heart",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "FleurCannon",
+          "VoltSwitch",
+          "Trick",
+          "FocusBlast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marshadow",
+    "builds": []
+  },
+  {
+    "name": "Naganadel",
+    "builds": []
+  },
+  {
+    "name": "Stakataka",
+    "builds": []
+  },
+  {
+    "name": "Blacephalon",
+    "builds": []
+  },
+  {
+    "name": "Zeraora",
+    "builds": []
+  },
+  {
+    "name": "Meltan",
+    "builds": []
+  },
+  {
+    "name": "Melmetal",
+    "builds": [
+      {
+        "name": "Melmetal - National Dex - Assault Vest",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 236,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 20,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Iron Fist",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "DoubleIronBash",
+          "IcePunch",
+          "Earthquake",
+          "ThunderPunch"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arcanine-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Typhlosion-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Samurott-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Zoroark-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Braviary-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Goodra-Hisui",
+    "builds": [
+      {
+        "name": "Goodra-Hisui - BH - RegenVest",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Flying",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "Nuzzle",
+          "Uturn",
+          "CeaselessEdge",
+          "CircleThrow"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Decidueye-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Zacian",
+    "builds": []
+  },
+  {
+    "name": "Zacian-Crowned",
+    "builds": [
+      {
+        "name": "Zacian-Crowned - BH - Choice Band",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Gorilla Tactics",
+        "teraType": "Fire",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "MagicalTorque",
+          "Vcreate",
+          "Uturn",
+          "HeadlongRush"
+        ]
+      },
+      {
+        "name": "Zacian-Crowned - BH - Pixilate",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fairy",
+        "heldItem": "Protective Pads",
+        "moveset": [
+          "Coil",
+          "PopulationBomb",
+          "ExtremeSpeed",
+          "StrengthSap"
+        ]
+      },
+      {
+        "name": "Zacian-Crowned - BH - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Mold Breaker",
+        "teraType": "Fairy",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "SwordsDance",
+          "MagicalTorque",
+          "PrecipiceBlades",
+          "StrengthSap"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zamazenta",
+    "builds": [
+      {
+        "name": "Zamazenta - National Dex - Choice Band",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Dauntless Shield",
+        "teraType": "Fighting",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "CloseCombat",
+          "StoneEdge",
+          "WildCharge",
+          "IceFang"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zamazenta-Crowned",
+    "builds": [
+      {
+        "name": "Zamazenta-Crowned - BH - Fur Coat",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "teraType": "Fire",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "SacredSword",
+          "Haze",
+          "KnockOff",
+          "Recover"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kleavor",
+    "builds": []
+  },
+  {
+    "name": "Basculegion",
+    "builds": []
+  },
+  {
+    "name": "Basculegion-F",
+    "builds": []
+  },
+  {
+    "name": "Sneasler",
+    "builds": []
+  },
+  {
+    "name": "Enamorus",
+    "builds": [
+      {
+        "name": "Enamorus - BH - Pixilate",
+        "nature": "Rash",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "teraType": "Fire",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "Boomburst",
+          "RapidSpin",
+          "Vcreate",
+          "StrengthSap"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pikachu-World",
+    "builds": []
+  },
+  {
+    "name": "Rapidash-Galar",
+    "builds": []
+  },
+  {
+    "name": "Slowbro-Galar",
+    "builds": []
+  },
+  {
+    "name": "Electrode-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Weezing-Galar",
+    "builds": []
+  },
+  {
+    "name": "Articuno-Galar",
+    "builds": []
+  },
+  {
+    "name": "Zapdos-Galar",
+    "builds": []
+  },
+  {
+    "name": "Moltres-Galar",
+    "builds": []
+  },
+  {
+    "name": "Slowking-Galar",
+    "builds": [
+      {
+        "name": "Slowking-Galar - National Dex - Assault Vest",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 12,
+          "SPE": 0,
+          "SPA": 124,
+          "SPD": 120
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "FutureSight",
+          "Scald",
+          "SludgeBomb",
+          "Flamethrower"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dialga-Origin",
+    "builds": [
+      {
+        "name": "Dialga-Origin - BH - RegenVest",
+        "nature": "Quiet",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Regenerator",
+        "teraType": "Fairy",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "RevelationDance",
+          "Nuzzle",
+          "Uturn",
+          "CeaselessEdge"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Palkia-Origin",
+    "builds": [
+      {
+        "name": "Palkia-Origin - BH - Wallbreaker",
+        "nature": "Modest",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Adaptability",
+        "teraType": "Water",
+        "heldItem": "Lustrous Globe",
+        "moveset": [
+          "QuiverDance",
+          "WaterSpout",
+          "DragonEnergy",
+          "StrengthSap"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lilligant-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Darmanitan-Galar",
+    "builds": []
+  },
+  {
+    "name": "Stunfisk-Galar",
+    "builds": []
+  },
+  {
+    "name": "Avalugg-Hisui",
+    "builds": []
+  },
+  {
+    "name": "Magearna-Original",
+    "builds": []
+  },
+  {
+    "name": "Rillaboom",
+    "builds": []
+  },
+  {
+    "name": "Cinderace",
+    "builds": [
+      {
+        "name": "Cinderace - National Dex - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Libero",
+        "teraType": "Normal",
+        "heldItem": "Normalium Z",
+        "moveset": [
+          "SwordsDance",
+          "DoubleEdge",
+          "PyroBall",
+          "HighJumpKick"
+        ]
+      },
+      {
+        "name": "Cinderace - National Dex - Offensive Pivot",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Libero",
+        "teraType": "Fire",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Uturn",
+          "PyroBall",
+          "HighJumpKick",
+          "SuckerPunch"
+        ]
+      },
+      {
+        "name": "Cinderace - Almost Any Ability - Orichalcum Pulse",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Orichalcum Pulse",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "PyroBall",
+          "Uturn",
+          "HighJumpKick",
+          "SuperFang"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Inteleon",
+    "builds": []
+  },
+  {
+    "name": "Greedent",
+    "builds": []
+  },
+  {
+    "name": "Corviknight",
+    "builds": [
+      {
+        "name": "Corviknight - OU - Physically Defensive",
+        "nature": "Impish",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "BraveBird",
+          "Uturn",
+          "Roost",
+          "Defog"
+        ]
+      },
+      {
+        "name": "Corviknight - National Dex - Defensive Pivot",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 184,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 72
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "BraveBird",
+          "Uturn",
+          "Defog",
+          "Roost"
+        ]
+      },
+      {
+        "name": "Corviknight - Uber - Physically Defensive",
+        "nature": "Bold",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Steel",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "BodyPress",
+          "Uturn",
+          "Roost",
+          "Defog"
+        ]
+      },
+      {
+        "name": "Corviknight - Uber - Specially Defensive",
+        "nature": "Careful",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 8,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "IronHead",
+          "Uturn",
+          "Roost",
+          "Defog"
+        ]
+      },
+      {
+        "name": "Corviknight - BSS Series 1 - Pivot Knight",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Dragon",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Uturn",
+          "Taunt",
+          "Roost",
+          "BraveBird"
+        ]
+      },
+      {
+        "name": "Corviknight - BSS Series 1 - IronPress",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Flying",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "IronDefense",
+          "BodyPress",
+          "Roost",
+          "Taunt"
+        ]
+      },
+      {
+        "name": "Corviknight - BSS Series 1 - Bulk Up",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Dark",
+        "heldItem": "Covert Cloak",
+        "moveset": [
+          "BulkUp",
+          "Taunt",
+          "Roost",
+          "IronHead"
+        ]
+      },
+      {
+        "name": "Corviknight - Almost Any Ability - Specially Defensive",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 252,
+          "ATK": 4,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Ice Scales",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "BraveBird",
+          "Roost",
+          "Defog",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Corviknight - Almost Any Ability - Physically Defensive",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 4,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Fur Coat",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "BraveBird",
+          "Uturn",
+          "Roost",
+          "Defog"
+        ]
+      },
+      {
+        "name": "Corviknight - STABmons - Physically Defensive Pivot",
+        "nature": "Impish",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pressure",
+        "teraType": "Ground",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "BodyPress",
+          "Uturn",
+          "Roost",
+          "Defog"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Orbeetle",
+    "builds": []
+  },
+  {
+    "name": "Thievul",
+    "builds": []
+  },
+  {
+    "name": "Eldegoss",
+    "builds": []
+  },
+  {
+    "name": "Dubwool",
+    "builds": []
+  },
+  {
+    "name": "Drednaw",
+    "builds": []
+  },
+  {
+    "name": "Boltund",
+    "builds": []
+  },
+  {
+    "name": "Coalossal",
+    "builds": []
+  },
+  {
+    "name": "Flapple",
+    "builds": []
+  },
+  {
+    "name": "Appletun",
+    "builds": []
+  },
+  {
+    "name": "Sandaconda",
+    "builds": []
+  },
+  {
+    "name": "Cramorant",
+    "builds": []
+  },
+  {
+    "name": "Barraskewda",
+    "builds": [
+      {
+        "name": "Barraskewda - OU - Rain Sweeper",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Swift Swim",
+        "teraType": "Water",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "Liquidation",
+          "CloseCombat",
+          "PsychicFangs",
+          "Crunch"
+        ]
+      },
+      {
+        "name": "Barraskewda - National Dex - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Swift Swim",
+        "teraType": "Water",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "Waterfall",
+          "FlipTurn",
+          "CloseCombat",
+          "AquaJet"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toxtricity",
+    "builds": []
+  },
+  {
+    "name": "Toxtricity-Low-Key",
+    "builds": []
+  },
+  {
+    "name": "Centiskorch",
+    "builds": []
+  },
+  {
+    "name": "Grapploct",
+    "builds": []
+  },
+  {
+    "name": "Polteageist",
+    "builds": [
+      {
+        "name": "Polteageist - OU - Shell Smash",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Weak Armor",
+        "teraType": "Fighting",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "ShellSmash",
+          "ShadowBall",
+          "StoredPower",
+          "TeraBlast"
+        ]
+      },
+      {
+        "name": "Polteageist - Almost Any Ability - Shell Smash",
+        "nature": "Modest",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Queenly Majesty",
+        "heldItem": "Focus Sash",
+        "moveset": [
+          "ShellSmash",
+          "ShadowBall",
+          "StoredPower",
+          "GigaDrain"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Polteageist-Antique",
+    "builds": []
+  },
+  {
+    "name": "Hatterene",
+    "builds": [
+      {
+        "name": "Hatterene - OU - Calm Mind",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 204,
+          "SPE": 52,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magic Bounce",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "CalmMind",
+          "DrainingKiss",
+          "MysticalFire",
+          "Psyshock"
+        ]
+      },
+      {
+        "name": "Hatterene - OU - Healing Wish",
+        "nature": "Bold",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 116,
+          "SPE": 144,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magic Bounce",
+        "teraType": "Steel",
+        "heldItem": "Eject Button",
+        "moveset": [
+          "Nuzzle",
+          "HealingWish",
+          "Psychic",
+          "DazzlingGleam"
+        ]
+      },
+      {
+        "name": "Hatterene - Uber - Calm Mind",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 204,
+          "SPE": 52,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magic Bounce",
+        "teraType": "Water",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "CalmMind",
+          "DrainingKiss",
+          "MysticalFire",
+          "Psyshock"
+        ]
+      },
+      {
+        "name": "Hatterene - VGC23 Series 1 - Trick Room Sweeper",
+        "nature": "Quiet",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 0,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Magic Bounce",
+        "teraType": "Fire",
+        "heldItem": "Covert Cloak",
+        "moveset": [
+          "DazzlingGleam",
+          "TrickRoom",
+          "Psychic",
+          "Protect"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grimmsnarl",
+    "builds": [
+      {
+        "name": "Grimmsnarl - OU - Dual Screens",
+        "nature": "Calm",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Steel",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "LightScreen",
+          "Reflect",
+          "Taunt",
+          "PartingShot"
+        ]
+      },
+      {
+        "name": "Grimmsnarl - National Dex - Dual Screens",
+        "nature": "Careful",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 8,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "LightScreen",
+          "Reflect",
+          "Taunt",
+          "SpiritBreak"
+        ]
+      },
+      {
+        "name": "Grimmsnarl - Uber - Dual Screens",
+        "nature": "Careful",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Steel",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "LightScreen",
+          "Reflect",
+          "Taunt",
+          "SpiritBreak"
+        ]
+      },
+      {
+        "name": "Grimmsnarl - BSS Series 1 - Dual Screens",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 4,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Grass",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "Reflect",
+          "LightScreen",
+          "PartingShot",
+          "SpiritBreak"
+        ]
+      },
+      {
+        "name": "Grimmsnarl - VGC23 Series 1 - Double Screens",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 4,
+          "DEF": 116,
+          "SPE": 36,
+          "SPA": 0,
+          "SPD": 100
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Steel",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "SpiritBreak",
+          "Reflect",
+          "LightScreen",
+          "FakeOut"
+        ]
+      },
+      {
+        "name": "Grimmsnarl - VGC23 Series 1 - Pivot",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 4,
+          "DEF": 116,
+          "SPE": 36,
+          "SPA": 0,
+          "SPD": 100
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Steel",
+        "heldItem": "Sitrus Berry",
+        "moveset": [
+          "SpiritBreak",
+          "PartingShot",
+          "FakeOut",
+          "ThunderWave"
+        ]
+      },
+      {
+        "name": "Grimmsnarl - STABmons - Dual Screens",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "teraType": "Electric",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "Reflect",
+          "LightScreen",
+          "PartingShot",
+          "Taunt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Obstagoon",
+    "builds": []
+  },
+  {
+    "name": "Perrserker",
+    "builds": []
+  },
+  {
+    "name": "Cursola",
+    "builds": []
+  },
+  {
+    "name": "Sirfetch'd",
+    "builds": []
+  },
+  {
+    "name": "Mr. Rime",
+    "builds": []
+  },
+  {
+    "name": "Runerigus",
+    "builds": []
+  },
+  {
+    "name": "Alcremie",
+    "builds": []
+  },
+  {
+    "name": "Falinks",
+    "builds": []
+  },
+  {
+    "name": "Pincurchin",
+    "builds": [
+      {
+        "name": "Pincurchin - OU - Terrain Setter",
+        "nature": "Bold",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 4,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Electric Surge",
+        "teraType": "Flying",
+        "heldItem": "Terrain Extender",
+        "moveset": [
+          "Discharge",
+          "Spikes",
+          "ThunderWave",
+          "Memento"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frosmoth",
+    "builds": []
+  },
+  {
+    "name": "Stonjourner",
+    "builds": []
+  },
+  {
+    "name": "Eiscue",
+    "builds": []
+  },
+  {
+    "name": "Indeedee",
+    "builds": [
+      {
+        "name": "Indeedee - OU - Choice Scarf",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Psychic Surge",
+        "teraType": "Psychic",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Psychic",
+          "HyperVoice",
+          "Trick",
+          "Psyshock"
+        ]
+      },
+      {
+        "name": "Indeedee - OU - Terrain Setter",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Psychic Surge",
+        "teraType": "Psychic",
+        "heldItem": "Terrain Extender",
+        "moveset": [
+          "Psychic",
+          "HyperVoice",
+          "HealingWish",
+          "DazzlingGleam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indeedee-F",
+    "builds": []
+  },
+  {
+    "name": "Morpeko",
+    "builds": []
+  },
+  {
+    "name": "Copperajah",
+    "builds": []
+  },
+  {
+    "name": "Dracozolt",
+    "builds": []
+  },
+  {
+    "name": "Arctozolt",
+    "builds": []
+  },
+  {
+    "name": "Dracovish",
+    "builds": []
+  },
+  {
+    "name": "Arctovish",
+    "builds": []
+  },
+  {
+    "name": "Duraludon",
+    "builds": []
+  },
+  {
+    "name": "Dragapult",
+    "builds": [
+      {
+        "name": "Dragapult - OU - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Ghost",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "DracoMeteor",
+          "ShadowBall",
+          "Flamethrower",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Dragapult - OU - Utility",
+        "nature": "Hasty",
+        "evs": {
+          "HP": 0,
+          "ATK": 76,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 180,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Dragon",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "WillOWisp",
+          "Hex",
+          "DragonDarts",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Dragapult - OU - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Dragon",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "DragonDarts",
+          "PhantomForce",
+          "SuckerPunch",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Dragapult - Uber - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Ghost",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "DracoMeteor",
+          "ShadowBall",
+          "Flamethrower",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Dragapult - Uber - Choice Band",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Ghost",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "DragonDarts",
+          "Uturn",
+          "TeraBlast",
+          "Flamethrower"
+        ]
+      },
+      {
+        "name": "Dragapult - BSS Series 1 - Physical Attacker",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Dragon",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "DragonDarts",
+          "Uturn",
+          "SuckerPunch",
+          "PhantomForce"
+        ]
+      },
+      {
+        "name": "Dragapult - BSS Series 1 - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Dragon",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "DragonDance",
+          "DragonDarts",
+          "PhantomForce",
+          "SuckerPunch"
+        ]
+      },
+      {
+        "name": "Dragapult - BSS Series 1 - Special Attacker",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Ghost",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "ShadowBall",
+          "DracoMeteor",
+          "Thunderbolt",
+          "Flamethrower"
+        ]
+      },
+      {
+        "name": "Dragapult - BSS Series 1 - Bulky Status",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Steel",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "WillOWisp",
+          "Hex",
+          "Substitute",
+          "Disable"
+        ]
+      },
+      {
+        "name": "Dragapult - BSS Series 1 - Dual Screens",
+        "nature": "Timid",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Cursed Body",
+        "teraType": "Ghost",
+        "heldItem": "Light Clay",
+        "moveset": [
+          "Reflect",
+          "LightScreen",
+          "Curse",
+          "ShadowBall"
+        ]
+      },
+      {
+        "name": "Dragapult - Almost Any Ability - Sheer Force + Life Orb",
+        "nature": "Hasty",
+        "evs": {
+          "HP": 0,
+          "ATK": 4,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sheer Force",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "ShadowBall",
+          "DragonRush",
+          "Thunderbolt",
+          "FireBlast"
+        ]
+      },
+      {
+        "name": "Dragapult - Almost Any Ability - Hadron Engine",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Hadron Engine",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "ShadowBall",
+          "DracoMeteor",
+          "Thunderbolt",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Dragapult - National Dex - Dragon Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Clear Body",
+        "heldItem": "Ghostium Z",
+        "moveset": [
+          "DragonDance",
+          "PhantomForce",
+          "DragonDarts",
+          "Substitute"
+        ]
+      },
+      {
+        "name": "Dragapult - National Dex - Choice Specs",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Infiltrator",
+        "teraType": "Ghost",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "DracoMeteor",
+          "ShadowBall",
+          "Uturn",
+          "Flamethrower"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eternatus",
+    "builds": []
+  },
+  {
+    "name": "Urshifu",
+    "builds": []
+  },
+  {
+    "name": "Urshifu-Rapid-Strike",
+    "builds": [
+      {
+        "name": "Urshifu-Rapid-Strike - National Dex - Swords Dance",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Unseen Fist",
+        "teraType": "Electric",
+        "heldItem": "Punching Glove",
+        "moveset": [
+          "SwordsDance",
+          "SurgingStrikes",
+          "CloseCombat",
+          "ThunderPunch"
+        ]
+      },
+      {
+        "name": "Urshifu-Rapid-Strike - National Dex - Choice Band",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Unseen Fist",
+        "teraType": "Water",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "SurgingStrikes",
+          "CloseCombat",
+          "Uturn",
+          "AquaJet"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zarude",
+    "builds": []
+  },
+  {
+    "name": "Zarude-Dada",
+    "builds": []
+  },
+  {
+    "name": "Regieleki",
+    "builds": [
+      {
+        "name": "Regieleki - National Dex - Offensive Pivot",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Transistor",
+        "teraType": "Ice",
+        "heldItem": "Heavy-Duty Boots",
+        "moveset": [
+          "Thunderbolt",
+          "VoltSwitch",
+          "TeraBlast",
+          "RapidSpin"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Regidrago",
+    "builds": []
+  },
+  {
+    "name": "Glastrier",
+    "builds": []
+  },
+  {
+    "name": "Spectrier",
+    "builds": []
+  },
+  {
+    "name": "Calyrex",
+    "builds": []
+  },
+  {
+    "name": "Calyrex-Ice",
+    "builds": [
+      {
+        "name": "Calyrex-Ice - BH - SimpleGear",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Simple",
+        "teraType": "Fire",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "ShiftGear",
+          "GlacialLance",
+          "Vcreate",
+          "PowerWhip"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Calyrex-Shadow",
+    "builds": []
+  },
+  {
+    "name": "Wyrdeer",
+    "builds": []
+  },
+  {
+    "name": "Ursaluna",
+    "builds": [
+      {
+        "name": "Ursaluna - BH - Gorilla Tactics",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Gorilla Tactics",
+        "teraType": "Normal",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "PopulationBomb",
+          "HeadlongRush",
+          "ExtremeSpeed",
+          "Uturn"
+        ]
+      },
+      {
+        "name": "Ursaluna - BH - Poison Heal",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 252,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 252
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Poison Heal",
+        "teraType": "Normal",
+        "heldItem": "Toxic Orb",
+        "moveset": [
+          "ShiftGear",
+          "Facade",
+          "PrecipiceBlades",
+          "Taunt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Overqwil",
+    "builds": []
+  },
+  {
+    "name": "Enamorus-Therian",
+    "builds": []
+  }
+]
