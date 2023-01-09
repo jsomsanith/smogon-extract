@@ -89,7 +89,7 @@ async function download(version) {
 
 	for (const { name } of eligiblePokemons) {
 		console.log(`${version}: Extracting ${name}`);
-		const pkmUrl = `https://www.smogon.com/dex/sv/pokemon/${name
+		const pkmUrl = `https://www.smogon.com/dex/${version}/pokemon/${name
 			.toLowerCase()
 			.replace(/\s/g, '-')}/`;
 
@@ -105,48 +105,50 @@ async function download(version) {
 
 		const pkmBuilds = { name, builds: [] };
 		brBuilds.push(pkmBuilds);
-		dexSettings.injectRpcs[2][1].strategies.forEach(({ format, movesets }: SmogonBuild) => {
-			movesets.forEach(
-				({
-					name,
-					pokemon,
-					abilities,
-					items,
-					teratypes,
-					moveslots,
-					evconfigs,
-					ivconfigs,
-					natures,
-				}) => {
-					const build: BRBuild = {
-						name: `${pokemon} - ${format} - ${name}`,
-						nature: natures[0],
-						evs: {
-							HP: evconfigs[0].hp,
-							ATK: evconfigs[0].atk,
-							DEF: evconfigs[0].def,
-							SPE: evconfigs[0].spe,
-							SPA: evconfigs[0].spa,
-							SPD: evconfigs[0].spd,
-						},
-						ivs: {
-							HP: ivconfigs[0] ? ivconfigs[0].hp : 31,
-							ATK: ivconfigs[0] ? ivconfigs[0].atk : 31,
-							DEF: ivconfigs[0] ? ivconfigs[0].def : 31,
-							SPE: ivconfigs[0] ? ivconfigs[0].spe : 31,
-							SPA: ivconfigs[0] ? ivconfigs[0].spa : 31,
-							SPD: ivconfigs[0] ? ivconfigs[0].spd : 31,
-						},
-						ability: abilities[0],
-						teraType: teratypes[0],
-						heldItem: items[0],
-						moveset: moveslots.map(moves => moves[0].move.replace(/\s/g, '').replace(/-/g, '')),
-					};
+		dexSettings.injectRpcs[2][1].strategies
+			.filter(({ format }) => version !== 'sv' || (version === 'sv' && format !== 'National Dex'))
+			.forEach(({ format, movesets }: SmogonBuild) => {
+				movesets.forEach(
+					({
+						name,
+						pokemon,
+						abilities,
+						items,
+						teratypes,
+						moveslots,
+						evconfigs,
+						ivconfigs,
+						natures,
+					}) => {
+						const build: BRBuild = {
+							name: `${pokemon} - ${format} - ${name}`,
+							nature: natures[0],
+							evs: {
+								HP: evconfigs[0].hp,
+								ATK: evconfigs[0].atk,
+								DEF: evconfigs[0].def,
+								SPE: evconfigs[0].spe,
+								SPA: evconfigs[0].spa,
+								SPD: evconfigs[0].spd,
+							},
+							ivs: {
+								HP: ivconfigs[0] ? ivconfigs[0].hp : 31,
+								ATK: ivconfigs[0] ? ivconfigs[0].atk : 31,
+								DEF: ivconfigs[0] ? ivconfigs[0].def : 31,
+								SPE: ivconfigs[0] ? ivconfigs[0].spe : 31,
+								SPA: ivconfigs[0] ? ivconfigs[0].spa : 31,
+								SPD: ivconfigs[0] ? ivconfigs[0].spd : 31,
+							},
+							ability: abilities[0],
+							teraType: teratypes[0],
+							heldItem: items[0],
+							moveset: moveslots.map(moves => moves[0].move),
+						};
 
-					pkmBuilds.builds.push(build);
-				},
-			);
-		});
+						pkmBuilds.builds.push(build);
+					},
+				);
+			});
 		window.close(); // close the jsdom
 	}
 

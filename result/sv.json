@@ -3,64 +3,6 @@
     "name": "Charizard",
     "builds": [
       {
-        "name": "Charizard - National Dex - Drought Wallbreaker",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Drought",
-        "teraType": "Fire",
-        "heldItem": "Charizardite Y",
-        "moveset": [
-          "WeatherBall",
-          "SolarBeam",
-          "ScorchingSands",
-          "Roost"
-        ]
-      },
-      {
-        "name": "Charizard - National Dex - Dragon Dance",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Tough Claws",
-        "teraType": "Fire",
-        "heldItem": "Charizardite X",
-        "moveset": [
-          "DragonDance",
-          "FlareBlitz",
-          "Earthquake",
-          "Roost"
-        ]
-      },
-      {
         "name": "Charizard - OU - Choice Specs",
         "nature": "Timid",
         "evs": {
@@ -84,8 +26,8 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Flamethrower",
-          "SolarBeam",
-          "FocusBlast",
+          "Solar Beam",
+          "Focus Blast",
           "Overheat"
         ]
       }
@@ -130,9 +72,9 @@
         "heldItem": "Choice Scarf",
         "moveset": [
           "Earthquake",
-          "StoneEdge",
-          "FinalGambit",
-          "TeraBlast"
+          "Stone Edge",
+          "Final Gambit",
+          "Tera Blast"
         ]
       }
     ]
@@ -171,10 +113,38 @@
         "teraType": "Water",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FlareBlitz",
-          "WillOWisp",
-          "MorningSun",
+          "Flare Blitz",
+          "Will-O-Wisp",
+          "Morning Sun",
           "Roar"
+        ]
+      },
+      {
+        "name": "Arcanine - 1v1 - Assault Vest",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 224,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 32,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Intimidate",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "Flare Blitz",
+          "Close Combat",
+          "Play Rough",
+          "Extreme Speed"
         ]
       }
     ]
@@ -182,35 +152,6 @@
   {
     "name": "Slowbro",
     "builds": [
-      {
-        "name": "Slowbro - National Dex - Defensive Pivot",
-        "nature": "Relaxed",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 0,
-          "DEF": 31,
-          "SPE": 0,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Regenerator",
-        "teraType": "Steel",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Scald",
-          "FutureSight",
-          "SlackOff",
-          "Teleport"
-        ]
-      },
       {
         "name": "Slowbro - OU - Defensive",
         "nature": "Bold",
@@ -235,9 +176,9 @@
         "heldItem": "Colbur Berry",
         "moveset": [
           "Surf",
-          "BodyPress",
-          "FutureSight",
-          "SlackOff"
+          "Body Press",
+          "Future Sight",
+          "Slack Off"
         ]
       }
     ]
@@ -272,10 +213,10 @@
         "teraType": "Ghost",
         "heldItem": "Focus Sash",
         "moveset": [
-          "ShellSmash",
+          "Shell Smash",
           "Spikes",
-          "IcicleSpear",
-          "RockBlast"
+          "Icicle Spear",
+          "Rock Blast"
         ]
       },
       {
@@ -301,10 +242,10 @@
         "teraType": "Ice",
         "heldItem": "Focus Sash",
         "moveset": [
-          "ShellSmash",
-          "IcicleSpear",
-          "RockBlast",
-          "HydroPump"
+          "Shell Smash",
+          "Icicle Spear",
+          "Rock Blast",
+          "Hydro Pump"
         ]
       },
       {
@@ -330,10 +271,10 @@
         "teraType": "Ice",
         "heldItem": "Focus Sash",
         "moveset": [
-          "ShellSmash",
-          "IcicleSpear",
-          "IceShard",
-          "RockBlast"
+          "Shell Smash",
+          "Icicle Spear",
+          "Ice Shard",
+          "Rock Blast"
         ]
       },
       {
@@ -359,10 +300,10 @@
         "teraType": "Water",
         "heldItem": "Life Orb",
         "moveset": [
-          "ShellSmash",
-          "IcicleSpear",
-          "WaterShuriken",
-          "FreezeDry"
+          "Shell Smash",
+          "Icicle Spear",
+          "Water Shuriken",
+          "Freeze-Dry"
         ]
       }
     ]
@@ -394,9 +335,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Trick",
-          "ShadowBall",
-          "FocusBlast",
-          "SludgeBomb"
+          "Shadow Ball",
+          "Focus Blast",
+          "Sludge Bomb"
         ]
       },
       {
@@ -423,9 +364,9 @@
         "heldItem": "Focus Sash",
         "moveset": [
           "Encore",
-          "ShadowBall",
-          "DestinyBond",
-          "ThunderWave"
+          "Shadow Ball",
+          "Destiny Bond",
+          "Thunder Wave"
         ]
       }
     ]
@@ -441,62 +382,6 @@
   {
     "name": "Gyarados",
     "builds": [
-      {
-        "name": "Gyarados - National Dex - Dragon Dance",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Intimidate",
-        "heldItem": "Gyaradosite",
-        "moveset": [
-          "DragonDance",
-          "Waterfall",
-          "Crunch",
-          "PowerWhip"
-        ]
-      },
-      {
-        "name": "Gyarados - National Dex - Dragon Dance + Flyinium Z",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Moxie",
-        "heldItem": "Flyinium Z",
-        "moveset": [
-          "DragonDance",
-          "Waterfall",
-          "Bounce",
-          "Earthquake"
-        ]
-      },
       {
         "name": "Gyarados - Uber - Dragon Dance",
         "nature": "Jolly",
@@ -520,9 +405,9 @@
         "teraType": "Flying",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Waterfall",
-          "TeraBlast",
+          "Tera Blast",
           "Earthquake"
         ]
       },
@@ -549,9 +434,9 @@
         "teraType": "Flying",
         "heldItem": "Lum Berry",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Waterfall",
-          "TeraBlast",
+          "Tera Blast",
           "Taunt"
         ]
       },
@@ -578,10 +463,10 @@
         "teraType": "Grass",
         "heldItem": "Life Orb",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Waterfall",
           "Earthquake",
-          "IceFang"
+          "Ice Fang"
         ]
       }
     ]
@@ -640,31 +525,6 @@
         "moveset": [
           "Transform"
         ]
-      },
-      {
-        "name": "Ditto - National Dex - SUS",
-        "nature": "Relaxed",
-        "evs": {
-          "HP": 248,
-          "ATK": 8,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 1,
-          "SPA": 30,
-          "SPD": 30
-        },
-        "ability": "Imposter",
-        "heldItem": "Choice Scarf",
-        "moveset": [
-          "Transform"
-        ]
       }
     ]
   },
@@ -706,10 +566,10 @@
         "teraType": "Normal",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
-          "ExtremeSpeed",
+          "Dragon Dance",
+          "Extreme Speed",
           "Earthquake",
-          "IceSpinner"
+          "Ice Spinner"
         ]
       },
       {
@@ -735,8 +595,8 @@
         "teraType": "Normal",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
-          "ExtremeSpeed",
+          "Dragon Dance",
+          "Extreme Speed",
           "Earthquake",
           "Roost"
         ]
@@ -764,10 +624,10 @@
         "teraType": "Normal",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
-          "ExtremeSpeed",
+          "Dragon Dance",
+          "Extreme Speed",
           "Earthquake",
-          "IceSpinner"
+          "Ice Spinner"
         ]
       },
       {
@@ -793,10 +653,10 @@
         "teraType": "Normal",
         "heldItem": "Lum Berry",
         "moveset": [
-          "ExtremeSpeed",
-          "DragonDance",
+          "Extreme Speed",
+          "Dragon Dance",
           "Earthquake",
-          "DragonClaw"
+          "Dragon Claw"
         ]
       },
       {
@@ -824,8 +684,8 @@
         "moveset": [
           "Roost",
           "Encore",
-          "FireSpin",
-          "ThunderWave"
+          "Fire Spin",
+          "Thunder Wave"
         ]
       },
       {
@@ -851,9 +711,9 @@
         "teraType": "Normal",
         "heldItem": "Choice Band",
         "moveset": [
-          "ExtremeSpeed",
+          "Extreme Speed",
           "Outrage",
-          "FirePunch",
+          "Fire Punch",
           "Earthquake"
         ]
       },
@@ -880,9 +740,9 @@
         "teraType": "Steel",
         "heldItem": "Lum Berry",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Outrage",
-          "FirePunch",
+          "Fire Punch",
           "Earthquake"
         ]
       },
@@ -908,8 +768,8 @@
         "ability": "Aerilate",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "ExtremeSpeed",
-          "DragonDance",
+          "Extreme Speed",
+          "Dragon Dance",
           "Roost",
           "Earthquake"
         ]
@@ -936,8 +796,8 @@
         "ability": "Aerilate",
         "heldItem": "Choice Band",
         "moveset": [
-          "ExtremeSpeed",
-          "IceSpinner",
+          "Extreme Speed",
+          "Ice Spinner",
           "Roost",
           "Earthquake"
         ]
@@ -965,10 +825,10 @@
         "teraType": "Normal",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "ExtremeSpeed",
-          "DragonAscent",
-          "FirePunch",
-          "DragonDance"
+          "Extreme Speed",
+          "Dragon Ascent",
+          "Fire Punch",
+          "Dragon Dance"
         ]
       },
       {
@@ -994,39 +854,10 @@
         "teraType": "Normal",
         "heldItem": "Choice Band",
         "moveset": [
-          "DragonAscent",
-          "GlaiveRush",
-          "ExtremeSpeed",
-          "FirePunch"
-        ]
-      },
-      {
-        "name": "Dragonite - National Dex - Dragon Dance",
-        "nature": "Adamant",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Multiscale",
-        "teraType": "Normal",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "DragonDance",
-          "ExtremeSpeed",
-          "Earthquake",
-          "Roost"
+          "Dragon Ascent",
+          "Glaive Rush",
+          "Extreme Speed",
+          "Fire Punch"
         ]
       }
     ]
@@ -1061,8 +892,8 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "AquaJet",
-          "PlayRough",
+          "Aqua Jet",
+          "Play Rough",
           "Liquidation",
           "Superpower"
         ]
@@ -1090,10 +921,10 @@
         "teraType": "Water",
         "heldItem": "Assault Vest",
         "moveset": [
-          "AquaJet",
-          "PlayRough",
+          "Aqua Jet",
+          "Play Rough",
           "Liquidation",
-          "IceSpinner"
+          "Ice Spinner"
         ]
       },
       {
@@ -1120,9 +951,9 @@
         "heldItem": "Choice Band",
         "moveset": [
           "Liquidation",
-          "PlayRough",
-          "AquaJet",
-          "IcePunch"
+          "Play Rough",
+          "Aqua Jet",
+          "Ice Punch"
         ]
       },
       {
@@ -1149,9 +980,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Protect",
-          "ChillingWater",
+          "Chilling Water",
           "Encore",
-          "PlayRough"
+          "Play Rough"
         ]
       },
       {
@@ -1177,8 +1008,8 @@
         "teraType": "Fire",
         "heldItem": "Assault Vest",
         "moveset": [
-          "AquaJet",
-          "PlayRough",
+          "Aqua Jet",
+          "Play Rough",
           "Liquidation",
           "Superpower"
         ]
@@ -1206,10 +1037,94 @@
         "teraType": "Water",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "JetPunch",
-          "MagicalTorque",
-          "HyperDrill",
-          "BellyDrum"
+          "Jet Punch",
+          "Magical Torque",
+          "Hyper Drill",
+          "Belly Drum"
+        ]
+      },
+      {
+        "name": "Azumarill - 1v1 - Assault Vest",
+        "nature": "Careful",
+        "evs": {
+          "HP": 136,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 16,
+          "SPA": 0,
+          "SPD": 104
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "Liquidation",
+          "Play Rough",
+          "Superpower",
+          "Aqua Jet"
+        ]
+      },
+      {
+        "name": "Azumarill - 1v1 - Choice Band",
+        "nature": "Impish",
+        "evs": {
+          "HP": 132,
+          "ATK": 240,
+          "DEF": 136,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Huge Power",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "Play Rough",
+          "Liquidation",
+          "Fling",
+          "Aqua Jet"
+        ]
+      },
+      {
+        "name": "Azumarill - 1v1 - Stall",
+        "nature": "Calm",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 116,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 144
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sap Sipper",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Chilling Water",
+          "Charm",
+          "Amnesia",
+          "Rest"
         ]
       }
     ]
@@ -1296,8 +1211,8 @@
         "moveset": [
           "Wish",
           "Protect",
-          "FoulPlay",
-          "ThunderWave"
+          "Foul Play",
+          "Thunder Wave"
         ]
       },
       {
@@ -1323,7 +1238,7 @@
         "teraType": "Poison",
         "heldItem": "Leftovers",
         "moveset": [
-          "FoulPlay",
+          "Foul Play",
           "Protect",
           "Wish",
           "Yawn"
@@ -1357,10 +1272,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FutureSight",
-          "ChillyReception",
-          "ChillingWater",
-          "SlackOff"
+          "Future Sight",
+          "Chilly Reception",
+          "Chilling Water",
+          "Slack Off"
         ]
       },
       {
@@ -1386,10 +1301,10 @@
         "teraType": "Water",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FutureSight",
-          "ChillingWater",
-          "ChillyReception",
-          "SlackOff"
+          "Future Sight",
+          "Chilling Water",
+          "Chilly Reception",
+          "Slack Off"
         ]
       }
     ]
@@ -1424,9 +1339,9 @@
         "teraType": "Steel",
         "heldItem": "Choice Band",
         "moveset": [
-          "BulletPunch",
-          "Uturn",
-          "CloseCombat",
+          "Bullet Punch",
+          "U-turn",
+          "Close Combat",
           "Thief"
         ]
       },
@@ -1453,9 +1368,9 @@
         "teraType": "Steel",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "BulletPunch",
-          "Uturn",
-          "CloseCombat",
+          "Bullet Punch",
+          "U-turn",
+          "Close Combat",
           "Thief"
         ]
       },
@@ -1482,66 +1397,10 @@
         "teraType": "Normal",
         "heldItem": "Life Orb",
         "moveset": [
-          "BulletPunch",
-          "CloseCombat",
-          "SwordsDance",
-          "QuickAttack"
-        ]
-      },
-      {
-        "name": "Scizor - National Dex - Bulky Swords Dance",
-        "nature": "Impish",
-        "evs": {
-          "HP": 248,
-          "ATK": 0,
-          "DEF": 68,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 192
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Light Metal",
-        "heldItem": "Scizorite",
-        "moveset": [
-          "SwordsDance",
-          "BulletPunch",
-          "Uturn",
-          "Roost"
-        ]
-      },
-      {
-        "name": "Scizor - National Dex - Swords Dance + 3 Attacks",
-        "nature": "Adamant",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Light Metal",
-        "heldItem": "Scizorite",
-        "moveset": [
-          "SwordsDance",
-          "BulletPunch",
-          "CloseCombat",
-          "SandTomb"
+          "Bullet Punch",
+          "Close Combat",
+          "Swords Dance",
+          "Quick Attack"
         ]
       },
       {
@@ -1567,10 +1426,10 @@
         "teraType": "Steel",
         "heldItem": "Choice Band",
         "moveset": [
-          "BulletPunch",
-          "Uturn",
-          "CloseCombat",
-          "QuickAttack"
+          "Bullet Punch",
+          "U-turn",
+          "Close Combat",
+          "Quick Attack"
         ]
       },
       {
@@ -1596,9 +1455,9 @@
         "teraType": "Steel",
         "heldItem": "Choice Band",
         "moveset": [
-          "BulletPunch",
-          "Uturn",
-          "CloseCombat",
+          "Bullet Punch",
+          "U-turn",
+          "Close Combat",
           "Thief"
         ]
       },
@@ -1625,10 +1484,10 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "BulletPunch",
-          "Uturn",
-          "GigatonHammer",
-          "SwordsDance"
+          "Bullet Punch",
+          "U-turn",
+          "Gigaton Hammer",
+          "Swords Dance"
         ]
       }
     ]
@@ -1651,7 +1510,92 @@
   },
   {
     "name": "Donphan",
-    "builds": []
+    "builds": [
+      {
+        "name": "Donphan - 1v1 - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sturdy",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "Earthquake",
+          "Gunk Shot",
+          "Ice Shard",
+          "Counter"
+        ]
+      },
+      {
+        "name": "Donphan - 1v1 - Lum Berry",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 32,
+          "ATK": 252,
+          "DEF": 96,
+          "SPE": 128,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Sturdy",
+        "heldItem": "Lum Berry",
+        "moveset": [
+          "Earthquake",
+          "Counter",
+          "Encore",
+          "Ice Shard"
+        ]
+      },
+      {
+        "name": "Donphan - 1v1 - Endeavor",
+        "nature": "Brave",
+        "evs": {
+          "HP": 4,
+          "ATK": 252,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 0
+        },
+        "ability": "Sturdy",
+        "heldItem": "Sitrus Berry",
+        "moveset": [
+          "Substitute",
+          "Endeavor",
+          "Ice Shard",
+          "Earthquake"
+        ]
+      }
+    ]
   },
   {
     "name": "Stantler",
@@ -1683,10 +1627,10 @@
         "teraType": "Ghost",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "SoftBoiled",
-          "StealthRock",
-          "SeismicToss",
-          "ThunderWave"
+          "Soft-Boiled",
+          "Stealth Rock",
+          "Seismic Toss",
+          "Thunder Wave"
         ]
       },
       {
@@ -1712,10 +1656,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "StealthRock",
-          "SoftBoiled",
-          "SeismicToss",
-          "ShadowBall"
+          "Stealth Rock",
+          "Soft-Boiled",
+          "Seismic Toss",
+          "Shadow Ball"
         ]
       },
       {
@@ -1741,10 +1685,10 @@
         "teraType": "Ghost",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "SoftBoiled",
-          "TeraBlast",
-          "ThunderWave"
+          "Calm Mind",
+          "Soft-Boiled",
+          "Tera Blast",
+          "Thunder Wave"
         ]
       },
       {
@@ -1769,39 +1713,10 @@
         "ability": "Ice Scales",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "SoftBoiled",
-          "SeismicToss",
-          "ThunderWave",
-          "ShadowBall"
-        ]
-      },
-      {
-        "name": "Blissey - National Dex - Pink Blob (Defensive)",
-        "nature": "Bold",
-        "evs": {
-          "HP": 248,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 8
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Natural Cure",
-        "teraType": "Steel",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "SoftBoiled",
-          "SeismicToss",
-          "Toxic",
-          "StealthRock"
+          "Soft-Boiled",
+          "Seismic Toss",
+          "Thunder Wave",
+          "Shadow Ball"
         ]
       }
     ]
@@ -1809,63 +1724,6 @@
   {
     "name": "Tyranitar",
     "builds": [
-      {
-        "name": "Tyranitar - National Dex - Stealth Rock",
-        "nature": "Adamant",
-        "evs": {
-          "HP": 88,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 168,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Sand Stream",
-        "heldItem": "Tyranitarite",
-        "moveset": [
-          "StealthRock",
-          "StoneEdge",
-          "Pursuit",
-          "Superpower"
-        ]
-      },
-      {
-        "name": "Tyranitar - National Dex - Assault Vest",
-        "nature": "Sassy",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Sand Stream",
-        "teraType": "Rock",
-        "heldItem": "Assault Vest",
-        "moveset": [
-          "StoneEdge",
-          "Crunch",
-          "Pursuit",
-          "FireBlast"
-        ]
-      },
       {
         "name": "Tyranitar - Uber - Defensive",
         "nature": "Careful",
@@ -1889,9 +1747,9 @@
         "teraType": "Steel",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "StealthRock",
-          "RockBlast",
-          "ThunderWave",
+          "Stealth Rock",
+          "Rock Blast",
+          "Thunder Wave",
           "Rest"
         ]
       },
@@ -1918,10 +1776,10 @@
         "teraType": "Fire",
         "heldItem": "Choice Band",
         "moveset": [
-          "StoneEdge",
+          "Stone Edge",
           "Crunch",
           "Earthquake",
-          "FirePunch"
+          "Fire Punch"
         ]
       },
       {
@@ -1947,9 +1805,9 @@
         "teraType": "Steel",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "StealthRock",
-          "RockBlast",
-          "ThunderWave",
+          "Stealth Rock",
+          "Rock Blast",
+          "Thunder Wave",
           "Rest"
         ]
       },
@@ -1976,10 +1834,10 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "ShoreUp",
-          "SaltCure",
-          "CeaselessEdge",
-          "PartingShot"
+          "Shore Up",
+          "Salt Cure",
+          "Ceaseless Edge",
+          "Parting Shot"
         ]
       }
     ]
@@ -2014,8 +1872,8 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Roost",
-          "Uturn",
-          "KnockOff",
+          "U-turn",
+          "Knock Off",
           "Hurricane"
         ]
       },
@@ -2042,10 +1900,10 @@
         "teraType": "Ground",
         "heldItem": "Damp Rock",
         "moveset": [
-          "KnockOff",
+          "Knock Off",
           "Hurricane",
           "Roost",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -2071,9 +1929,9 @@
         "teraType": "Ground",
         "heldItem": "Damp Rock",
         "moveset": [
-          "Uturn",
-          "HydroPump",
-          "IceBeam",
+          "U-turn",
+          "Hydro Pump",
+          "Ice Beam",
           "Hurricane"
         ]
       },
@@ -2102,36 +1960,8 @@
         "moveset": [
           "Hurricane",
           "Tailwind",
-          "HydroPump",
+          "Hydro Pump",
           "Protect"
-        ]
-      },
-      {
-        "name": "Pelipper - National Dex - Rain Setter",
-        "nature": "Bold",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Drizzle",
-        "heldItem": "Damp Rock",
-        "moveset": [
-          "Scald",
-          "Defog",
-          "Uturn",
-          "Roost"
         ]
       }
     ]
@@ -2162,10 +1992,10 @@
         "teraType": "Ghost",
         "heldItem": "Focus Sash",
         "moveset": [
-          "StickyWeb",
+          "Sticky Web",
           "Tailwind",
           "Whirlwind",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -2191,10 +2021,10 @@
         "teraType": "Ghost",
         "heldItem": "Focus Sash",
         "moveset": [
-          "StickyWeb",
+          "Sticky Web",
           "Hurricane",
-          "QuiverDance",
-          "HydroPump"
+          "Quiver Dance",
+          "Hydro Pump"
         ]
       }
     ]
@@ -2225,10 +2055,10 @@
         "teraType": "Water",
         "heldItem": "Heat Rock",
         "moveset": [
-          "LavaPlume",
-          "BodyPress",
-          "RapidSpin",
-          "StealthRock"
+          "Lava Plume",
+          "Body Press",
+          "Rapid Spin",
+          "Stealth Rock"
         ]
       },
       {
@@ -2255,37 +2085,9 @@
         "heldItem": "Charcoal",
         "moveset": [
           "Eruption",
-          "EarthPower",
-          "HeatWave",
+          "Earth Power",
+          "Heat Wave",
           "Protect"
-        ]
-      },
-      {
-        "name": "Torkoal - National Dex - Sun Setter",
-        "nature": "Bold",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 0,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Drought",
-        "heldItem": "Heat Rock",
-        "moveset": [
-          "LavaPlume",
-          "BodyPress",
-          "StealthRock",
-          "Toxic"
         ]
       }
     ]
@@ -2316,10 +2118,10 @@
         "teraType": "Fire",
         "heldItem": "Focus Sash",
         "moveset": [
-          "TeraBlast",
-          "BulletSeed",
+          "Tera Blast",
+          "Bullet Seed",
           "Spore",
-          "MachPunch"
+          "Mach Punch"
         ]
       },
       {
@@ -2345,9 +2147,9 @@
         "teraType": "Fire",
         "heldItem": "Choice Band",
         "moveset": [
-          "BulletSeed",
-          "CloseCombat",
-          "MachPunch",
+          "Bullet Seed",
+          "Close Combat",
+          "Mach Punch",
           "Bulldoze"
         ]
       },
@@ -2375,8 +2177,8 @@
         "heldItem": "Focus Sash",
         "moveset": [
           "Spore",
-          "MachPunch",
-          "BulletSeed",
+          "Mach Punch",
+          "Bullet Seed",
           "Bulldoze"
         ]
       }
@@ -2392,19 +2194,43 @@
   },
   {
     "name": "Sableye",
-    "builds": []
-  },
-  {
-    "name": "Medicham",
     "builds": [
       {
-        "name": "Medicham - National Dex - Wallbreaker",
-        "nature": "Jolly",
+        "name": "Sableye - 1v1 - Rocky Helmet",
+        "nature": "Relaxed",
         "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 8
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "heldItem": "Rocky Helmet",
+        "moveset": [
+          "Protect",
+          "Encore",
+          "Disable",
+          "Recover"
+        ]
+      },
+      {
+        "name": "Sableye - 1v1 - Trick + Disable",
+        "nature": "Impish",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 0,
           "SPA": 0,
           "SPD": 4
         },
@@ -2416,16 +2242,76 @@
           "SPA": 31,
           "SPD": 31
         },
-        "ability": "Pure Power",
-        "heldItem": "Medichamite",
+        "ability": "Prankster",
+        "heldItem": "Choice Scarf",
         "moveset": [
-          "CloseCombat",
-          "ZenHeadbutt",
-          "FakeOut",
-          "BulletPunch"
+          "Trick",
+          "Disable",
+          "Recover",
+          "Fling"
+        ]
+      },
+      {
+        "name": "Sableye - 1v1 - Defensive Roseli Berry",
+        "nature": "Relaxed",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 152,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 104
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "heldItem": "Roseli Berry",
+        "moveset": [
+          "Metal Burst",
+          "Encore",
+          "Disable",
+          "Recover"
+        ]
+      },
+      {
+        "name": "Sableye - 1v1 - Specially Defensive Roseli Berry",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 48,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 208
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 0,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Prankster",
+        "heldItem": "Roseli Berry",
+        "moveset": [
+          "Metal Burst",
+          "Disable",
+          "Recover",
+          "Skill Swap"
         ]
       }
     ]
+  },
+  {
+    "name": "Medicham",
+    "builds": []
   },
   {
     "name": "Swalot",
@@ -2501,10 +2387,10 @@
         "teraType": "Steel",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Earthquake",
-          "DualWingbeat",
-          "DragonClaw"
+          "Dual Wingbeat",
+          "Dragon Claw"
         ]
       },
       {
@@ -2530,10 +2416,10 @@
         "teraType": "Fairy",
         "heldItem": "Choice Specs",
         "moveset": [
-          "DracoMeteor",
+          "Draco Meteor",
           "Hurricane",
           "Flamethrower",
-          "TeraBlast"
+          "Tera Blast"
         ]
       },
       {
@@ -2559,10 +2445,10 @@
         "teraType": "Flying",
         "heldItem": "Life Orb",
         "moveset": [
-          "DualWingbeat",
+          "Dual Wingbeat",
           "Outrage",
           "Earthquake",
-          "DragonDance"
+          "Dragon Dance"
         ]
       },
       {
@@ -2588,10 +2474,10 @@
         "teraType": "Steel",
         "heldItem": "Life Orb",
         "moveset": [
-          "DualWingbeat",
-          "DracoMeteor",
+          "Dual Wingbeat",
+          "Draco Meteor",
           "Outrage",
-          "FireBlast"
+          "Fire Blast"
         ]
       }
     ]
@@ -2622,9 +2508,9 @@
         "teraType": "Steel",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "VoltSwitch",
+          "Volt Switch",
           "Overheat",
-          "WillOWisp",
+          "Will-O-Wisp",
           "Discharge"
         ]
       },
@@ -2651,7 +2537,7 @@
         "teraType": "Electric",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "VoltSwitch",
+          "Volt Switch",
           "Overheat",
           "Trick",
           "Thunderbolt"
@@ -2685,10 +2571,10 @@
         "teraType": "Ground",
         "heldItem": "Leftovers",
         "moveset": [
-          "VoltSwitch",
-          "HydroPump",
+          "Volt Switch",
+          "Hydro Pump",
           "Protect",
-          "ThunderWave"
+          "Thunder Wave"
         ]
       },
       {
@@ -2714,10 +2600,10 @@
         "teraType": "Ground",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "VoltSwitch",
-          "HydroPump",
+          "Volt Switch",
+          "Hydro Pump",
           "Trick",
-          "ThunderWave"
+          "Thunder Wave"
         ]
       },
       {
@@ -2743,8 +2629,8 @@
         "teraType": "Electric",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "VoltSwitch",
-          "HydroPump",
+          "Volt Switch",
+          "Hydro Pump",
           "Trick",
           "Thunderbolt"
         ]
@@ -2772,10 +2658,10 @@
         "teraType": "Fairy",
         "heldItem": "Lum Berry",
         "moveset": [
-          "NastyPlot",
+          "Nasty Plot",
           "Thunderbolt",
-          "HydroPump",
-          "TeraBlast"
+          "Hydro Pump",
+          "Tera Blast"
         ]
       },
       {
@@ -2801,67 +2687,10 @@
         "teraType": "Poison",
         "heldItem": "Leftovers",
         "moveset": [
-          "VoltSwitch",
-          "SteamEruption",
-          "FreezeDry",
-          "StrengthSap"
-        ]
-      },
-      {
-        "name": "Rotom-Wash - National Dex - Defensive Pivot",
-        "nature": "Bold",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Levitate",
-        "teraType": "Steel",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "HydroPump",
-          "VoltSwitch",
-          "WillOWisp",
-          "PainSplit"
-        ]
-      },
-      {
-        "name": "Rotom-Wash - National Dex - Choice Scarf",
-        "nature": "Timid",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 4,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 0,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Levitate",
-        "heldItem": "Choice Scarf",
-        "moveset": [
-          "HydroPump",
-          "VoltSwitch",
-          "WillOWisp",
-          "Trick"
+          "Volt Switch",
+          "Steam Eruption",
+          "Freeze-Dry",
+          "Strength Sap"
         ]
       }
     ]
@@ -2909,9 +2738,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Thunderbolt",
-          "FlashCannon",
-          "TeraBlast",
-          "VoltSwitch"
+          "Flash Cannon",
+          "Tera Blast",
+          "Volt Switch"
         ]
       },
       {
@@ -2938,9 +2767,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Thunderbolt",
-          "VoltSwitch",
-          "FlashCannon",
-          "TeraBlast"
+          "Volt Switch",
+          "Flash Cannon",
+          "Tera Blast"
         ]
       }
     ]
@@ -2979,10 +2808,10 @@
         "teraType": "Fighting",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "SacredSword",
-          "PsychoCut",
-          "ShadowSneak"
+          "Swords Dance",
+          "Sacred Sword",
+          "Psycho Cut",
+          "Shadow Sneak"
         ]
       }
     ]
@@ -3029,10 +2858,10 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "WaveCrash",
+          "Wave Crash",
           "Liquidation",
-          "IceSpinner",
-          "AquaJet"
+          "Ice Spinner",
+          "Aqua Jet"
         ]
       },
       {
@@ -3058,10 +2887,10 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "WaveCrash",
+          "Wave Crash",
           "Liquidation",
-          "AquaJet",
-          "IceSpinner"
+          "Aqua Jet",
+          "Ice Spinner"
         ]
       }
     ]
@@ -3092,38 +2921,10 @@
         "teraType": "Grass",
         "heldItem": "Leftovers",
         "moveset": [
-          "ChillingWater",
+          "Chilling Water",
           "Recover",
-          "StealthRock",
+          "Stealth Rock",
           "Spikes"
-        ]
-      },
-      {
-        "name": "Gastrodon - National Dex - Defensive Entry Hazard Setter",
-        "nature": "Sassy",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Storm Drain",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Spikes",
-          "Earthquake",
-          "Scald",
-          "Recover"
         ]
       }
     ]
@@ -3178,10 +2979,10 @@
         "teraType": "Ghost",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Earthquake",
           "Spikes",
-          "DragonTail"
+          "Dragon Tail"
         ]
       },
       {
@@ -3207,122 +3008,10 @@
         "teraType": "Ground",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
+          "Swords Dance",
           "Earthquake",
-          "DragonClaw",
+          "Dragon Claw",
           "Substitute"
-        ]
-      },
-      {
-        "name": "Garchomp - National Dex - Suicide Lead",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Rough Skin",
-        "heldItem": "Focus Sash",
-        "moveset": [
-          "Spikes",
-          "StealthRock",
-          "DragonTail",
-          "Earthquake"
-        ]
-      },
-      {
-        "name": "Garchomp - National Dex - Offensive Stealth Rock",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Rough Skin",
-        "heldItem": "Rockium Z",
-        "moveset": [
-          "SwordsDance",
-          "Earthquake",
-          "StoneEdge",
-          "StealthRock"
-        ]
-      },
-      {
-        "name": "Garchomp - National Dex - Defensive",
-        "nature": "Impish",
-        "evs": {
-          "HP": 248,
-          "ATK": 0,
-          "DEF": 204,
-          "SPE": 56,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Rough Skin",
-        "heldItem": "Rocky Helmet",
-        "moveset": [
-          "Earthquake",
-          "StealthRock",
-          "DragonTail",
-          "Toxic"
-        ]
-      },
-      {
-        "name": "Garchomp - National Dex - Swords Dance",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Rough Skin",
-        "heldItem": "Garchompite",
-        "moveset": [
-          "SwordsDance",
-          "Earthquake",
-          "ScaleShot",
-          "FireBlast"
         ]
       },
       {
@@ -3348,10 +3037,10 @@
         "teraType": "Steel",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Spikes",
           "Earthquake",
-          "DragonTail"
+          "Dragon Tail"
         ]
       },
       {
@@ -3377,10 +3066,10 @@
         "teraType": "Steel",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
+          "Swords Dance",
           "Earthquake",
           "Outrage",
-          "FireFang"
+          "Fire Fang"
         ]
       },
       {
@@ -3406,10 +3095,10 @@
         "teraType": "Steel",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Spikes",
           "Earthquake",
-          "DragonTail"
+          "Dragon Tail"
         ]
       },
       {
@@ -3436,9 +3125,9 @@
         "heldItem": "Choice Scarf",
         "moveset": [
           "Earthquake",
-          "DragonClaw",
+          "Dragon Claw",
           "Outrage",
-          "TeraBlast"
+          "Tera Blast"
         ]
       },
       {
@@ -3465,8 +3154,8 @@
         "heldItem": "Clear Amulet",
         "moveset": [
           "Earthquake",
-          "DragonClaw",
-          "RockSlide",
+          "Dragon Claw",
+          "Rock Slide",
           "Protect"
         ]
       },
@@ -3493,9 +3182,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Earthquake",
-          "StealthRock",
+          "Stealth Rock",
           "Spikes",
-          "DragonTail"
+          "Dragon Tail"
         ]
       },
       {
@@ -3521,10 +3210,10 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "PrecipiceBlades",
-          "DragonTail",
+          "Precipice Blades",
+          "Dragon Tail",
           "Spikes",
-          "ShoreUp"
+          "Shore Up"
         ]
       },
       {
@@ -3550,10 +3239,10 @@
         "teraType": "Fire",
         "heldItem": "Life Orb",
         "moveset": [
-          "HeadlongRush",
-          "GlaiveRush",
-          "TeraBlast",
-          "DragonDance"
+          "Headlong Rush",
+          "Glaive Rush",
+          "Tera Blast",
+          "Dragon Dance"
         ]
       }
     ]
@@ -3589,8 +3278,8 @@
         "heldItem": "Rocky Helmet",
         "moveset": [
           "Earthquake",
-          "SlackOff",
-          "StealthRock",
+          "Slack Off",
+          "Stealth Rock",
           "Whirlwind"
         ]
       },
@@ -3618,8 +3307,8 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Earthquake",
-          "SlackOff",
-          "StealthRock",
+          "Slack Off",
+          "Stealth Rock",
           "Whirlwind"
         ]
       },
@@ -3646,7 +3335,7 @@
         "teraType": "Grass",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Yawn",
           "Earthquake",
           "Roar"
@@ -3676,37 +3365,8 @@
         "moveset": [
           "Earthquake",
           "Whirlwind",
-          "SlackOff",
-          "StealthRock"
-        ]
-      },
-      {
-        "name": "Hippowdon - National Dex - Defensive",
-        "nature": "Careful",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Sand Stream",
-        "teraType": "Water",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "Earthquake",
-          "Toxic",
-          "SlackOff",
-          "StealthRock"
+          "Slack Off",
+          "Stealth Rock"
         ]
       }
     ]
@@ -3746,8 +3406,8 @@
         "heldItem": "Focus Sash",
         "moveset": [
           "Blizzard",
-          "GigaDrain",
-          "AuroraVeil",
+          "Giga Drain",
+          "Aurora Veil",
           "Protect"
         ]
       }
@@ -3785,8 +3445,8 @@
         "moveset": [
           "Spikes",
           "Taunt",
-          "IcyWind",
-          "DestinyBond"
+          "Icy Wind",
+          "Destiny Bond"
         ]
       }
     ]
@@ -3863,10 +3523,10 @@
         "teraType": "Grass",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "QuiverDance",
-          "MorningSun",
-          "FieryDance",
-          "GigaDrain"
+          "Quiver Dance",
+          "Morning Sun",
+          "Fiery Dance",
+          "Giga Drain"
         ]
       },
       {
@@ -3892,10 +3552,10 @@
         "teraType": "Water",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FieryDance",
-          "GigaDrain",
-          "QuiverDance",
-          "TeraBlast"
+          "Fiery Dance",
+          "Giga Drain",
+          "Quiver Dance",
+          "Tera Blast"
         ]
       },
       {
@@ -3921,10 +3581,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "QuiverDance",
-          "FieryDance",
-          "MorningSun",
-          "TeraBlast"
+          "Quiver Dance",
+          "Fiery Dance",
+          "Morning Sun",
+          "Tera Blast"
         ]
       },
       {
@@ -3950,10 +3610,10 @@
         "teraType": "Fire",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "FieryDance",
-          "BugBuzz",
-          "GigaDrain",
-          "Uturn"
+          "Fiery Dance",
+          "Bug Buzz",
+          "Giga Drain",
+          "U-turn"
         ]
       },
       {
@@ -3978,10 +3638,10 @@
         "ability": "Desolate Land",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FieryDance",
-          "Uturn",
-          "MorningSun",
-          "WillOWisp"
+          "Fiery Dance",
+          "U-turn",
+          "Morning Sun",
+          "Will-O-Wisp"
         ]
       },
       {
@@ -4006,39 +3666,10 @@
         "ability": "Desolate Land",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FieryDance",
-          "QuiverDance",
-          "WillOWisp",
-          "MorningSun"
-        ]
-      },
-      {
-        "name": "Volcarona - National Dex - Quiver Dance",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Flame Body",
-        "teraType": "Psychic",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "QuiverDance",
-          "Flamethrower",
-          "BugBuzz",
-          "Psychic"
+          "Fiery Dance",
+          "Quiver Dance",
+          "Will-O-Wisp",
+          "Morning Sun"
         ]
       }
     ]
@@ -4077,10 +3708,10 @@
         "teraType": "Water",
         "heldItem": "Focus Sash",
         "moveset": [
-          "LeafStorm",
-          "SleepPowder",
+          "Leaf Storm",
+          "Sleep Powder",
           "Protect",
-          "AfterYou"
+          "After You"
         ]
       }
     ]
@@ -4123,9 +3754,9 @@
         "teraType": "Water",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "GigaDrain",
-          "ClearSmog",
-          "FoulPlay",
+          "Giga Drain",
+          "Clear Smog",
+          "Foul Play",
           "Spore"
         ]
       },
@@ -4153,9 +3784,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Spore",
-          "ClearSmog",
+          "Clear Smog",
           "Hex",
-          "FoulPlay"
+          "Foul Play"
         ]
       },
       {
@@ -4182,9 +3813,9 @@
         "heldItem": "Eject Pack",
         "moveset": [
           "Spore",
-          "LeafStorm",
-          "ClearSmog",
-          "FoulPlay"
+          "Leaf Storm",
+          "Clear Smog",
+          "Foul Play"
         ]
       },
       {
@@ -4211,9 +3842,9 @@
         "heldItem": "Wiki Berry",
         "moveset": [
           "Spore",
-          "RagePowder",
-          "ClearSmog",
-          "PollenPuff"
+          "Rage Powder",
+          "Clear Smog",
+          "Pollen Puff"
         ]
       }
     ]
@@ -4244,10 +3875,10 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "PlayRough",
+          "Play Rough",
           "Wish",
           "Protect",
-          "ChillingWater"
+          "Chilling Water"
         ]
       },
       {
@@ -4275,37 +3906,8 @@
         "moveset": [
           "Wish",
           "Protect",
-          "ChillingWater",
+          "Chilling Water",
           "Whirlpool"
-        ]
-      },
-      {
-        "name": "Alomomola - National Dex - Defensive",
-        "nature": "Bold",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Regenerator",
-        "teraType": "Dragon",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Scald",
-          "Wish",
-          "Protect",
-          "Toxic"
         ]
       }
     ]
@@ -4340,10 +3942,10 @@
         "teraType": "Electric",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "CloseCombat",
+          "Swords Dance",
+          "Close Combat",
           "Earthquake",
-          "TeraBlast"
+          "Tera Blast"
         ]
       },
       {
@@ -4369,10 +3971,10 @@
         "teraType": "Steel",
         "heldItem": "Life Orb",
         "moveset": [
-          "DragonDance",
-          "DragonClaw",
+          "Dragon Dance",
+          "Dragon Claw",
           "Earthquake",
-          "IronHead"
+          "Iron Head"
         ]
       }
     ]
@@ -4407,10 +4009,10 @@
         "teraType": "Steel",
         "heldItem": "Life Orb",
         "moveset": [
-          "NastyPlot",
-          "DarkPulse",
-          "DracoMeteor",
-          "EarthPower"
+          "Nasty Plot",
+          "Dark Pulse",
+          "Draco Meteor",
+          "Earth Power"
         ]
       },
       {
@@ -4436,10 +4038,10 @@
         "teraType": "Steel",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "DarkPulse",
-          "DracoMeteor",
-          "TeraBlast",
-          "Uturn"
+          "Dark Pulse",
+          "Draco Meteor",
+          "Tera Blast",
+          "U-turn"
         ]
       },
       {
@@ -4465,10 +4067,10 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "DarkPulse",
-          "DracoMeteor",
+          "Dark Pulse",
+          "Draco Meteor",
           "Substitute",
-          "NastyPlot"
+          "Nasty Plot"
         ]
       },
       {
@@ -4494,10 +4096,10 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
-          "DarkPulse",
+          "Stealth Rock",
+          "Dark Pulse",
           "Taunt",
-          "DracoMeteor"
+          "Draco Meteor"
         ]
       },
       {
@@ -4523,9 +4125,9 @@
         "teraType": "Steel",
         "heldItem": "Life Orb",
         "moveset": [
-          "DracoMeteor",
-          "DarkPulse",
-          "FlashCannon",
+          "Draco Meteor",
+          "Dark Pulse",
+          "Flash Cannon",
           "Protect"
         ]
       },
@@ -4552,9 +4154,9 @@
         "teraType": "Fire",
         "heldItem": "Scope Lens",
         "moveset": [
-          "DracoMeteor",
-          "HeatWave",
-          "FocusEnergy",
+          "Draco Meteor",
+          "Heat Wave",
+          "Focus Energy",
           "Protect"
         ]
       },
@@ -4581,10 +4183,10 @@
         "teraType": "Steel",
         "heldItem": "Assault Vest",
         "moveset": [
-          "DracoMeteor",
+          "Draco Meteor",
           "Snarl",
-          "FlashCannon",
-          "DarkPulse"
+          "Flash Cannon",
+          "Dark Pulse"
         ]
       }
     ]
@@ -4615,38 +4217,10 @@
         "teraType": "Fighting",
         "heldItem": "Electric Seed",
         "moveset": [
-          "SwordsDance",
-          "CloseCombat",
+          "Swords Dance",
+          "Close Combat",
           "Acrobatics",
-          "ThunderPunch"
-        ]
-      },
-      {
-        "name": "Hawlucha - National Dex - Unburden Sweeper",
-        "nature": "Adamant",
-        "evs": {
-          "HP": 96,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 124,
-          "SPA": 0,
-          "SPD": 36
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Unburden",
-        "heldItem": "Electric Seed",
-        "moveset": [
-          "SwordsDance",
-          "CloseCombat",
-          "Acrobatics",
-          "Roost"
+          "Thunder Punch"
         ]
       }
     ]
@@ -4677,10 +4251,10 @@
         "teraType": "Fighting",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "BodyPress",
+          "Body Press",
           "Avalanche",
           "Recover",
-          "RapidSpin"
+          "Rapid Spin"
         ]
       },
       {
@@ -4705,10 +4279,10 @@
         "ability": "Fur Coat",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "IceSpinner",
-          "BodyPress",
+          "Ice Spinner",
+          "Body Press",
           "Recover",
-          "IronDefense"
+          "Iron Defense"
         ]
       }
     ]
@@ -4739,9 +4313,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Boomburst",
-          "DracoMeteor",
+          "Draco Meteor",
           "Flamethrower",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -4767,9 +4341,9 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Boomburst",
-          "SuperFang",
+          "Super Fang",
           "Roost",
-          "Uturn"
+          "U-turn"
         ]
       }
     ]
@@ -4805,8 +4379,8 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Flamethrower",
-          "AirSlash",
-          "WillOWisp",
+          "Air Slash",
+          "Will-O-Wisp",
           "Roost"
         ]
       }
@@ -4889,8 +4463,8 @@
         "moveset": [
           "Wish",
           "Protect",
-          "CalmMind",
-          "HyperVoice"
+          "Calm Mind",
+          "Hyper Voice"
         ]
       },
       {
@@ -4916,10 +4490,10 @@
         "teraType": "Fire",
         "heldItem": "Leftovers",
         "moveset": [
-          "HyperVoice",
-          "TeraBlast",
+          "Hyper Voice",
+          "Tera Blast",
           "Wish",
-          "QuickAttack"
+          "Quick Attack"
         ]
       },
       {
@@ -4945,10 +4519,10 @@
         "teraType": "Fire",
         "heldItem": "Assault Vest",
         "moveset": [
-          "HyperVoice",
-          "TeraBlast",
-          "ShadowBall",
-          "QuickAttack"
+          "Hyper Voice",
+          "Tera Blast",
+          "Shadow Ball",
+          "Quick Attack"
         ]
       },
       {
@@ -4974,9 +4548,9 @@
         "teraType": "Fire",
         "heldItem": "Throat Spray",
         "moveset": [
-          "HyperVoice",
+          "Hyper Voice",
           "Protect",
-          "TeraBlast",
+          "Tera Blast",
           "Substitute"
         ]
       },
@@ -5003,10 +4577,66 @@
         "teraType": "Fire",
         "heldItem": "Choice Specs",
         "moveset": [
-          "HyperVoice",
-          "TeraBlast",
-          "ShadowBall",
-          "HyperBeam"
+          "Hyper Voice",
+          "Tera Blast",
+          "Shadow Ball",
+          "Hyper Beam"
+        ]
+      },
+      {
+        "name": "Sylveon - 1v1 - Babiri Berry",
+        "nature": "Modest",
+        "evs": {
+          "HP": 56,
+          "ATK": 0,
+          "DEF": 248,
+          "SPE": 0,
+          "SPA": 204,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "heldItem": "Babiri Berry",
+        "moveset": [
+          "Fake Tears",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Calm Mind"
+        ]
+      },
+      {
+        "name": "Sylveon - 1v1 - Choice Specs",
+        "nature": "Sassy",
+        "evs": {
+          "HP": 244,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 208,
+          "SPD": 56
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Pixilate",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Hyper Beam",
+          "Hyper Voice",
+          "Psyshock",
+          "Shadow Ball"
         ]
       }
     ]
@@ -5046,9 +4676,9 @@
         "heldItem": "Light Clay",
         "moveset": [
           "Spikes",
-          "LightScreen",
+          "Light Screen",
           "Reflect",
-          "TrickRoom"
+          "Trick Room"
         ]
       }
     ]
@@ -5115,7 +4745,7 @@
         "teraType": "Steel",
         "heldItem": "Black Sludge",
         "moveset": [
-          "ChillingWater",
+          "Chilling Water",
           "Recover",
           "Toxic",
           "Haze"
@@ -5172,8 +4802,8 @@
         "teraType": "Steel",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "FlipTurn",
-          "MortalSpin",
+          "Flip Turn",
+          "Mortal Spin",
           "Haze",
           "Recover"
         ]
@@ -5201,39 +4831,10 @@
         "teraType": "Steel",
         "heldItem": "Assault Vest",
         "moveset": [
-          "FlipTurn",
-          "MortalSpin",
-          "ClearSmog",
+          "Flip Turn",
+          "Mortal Spin",
+          "Clear Smog",
           "Scald"
-        ]
-      },
-      {
-        "name": "Toxapex - National Dex - The Pex",
-        "nature": "Bold",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Regenerator",
-        "teraType": "Steel",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Scald",
-          "Toxic",
-          "Haze",
-          "Recover"
         ]
       }
     ]
@@ -5287,10 +4888,10 @@
         "ability": "Fur Coat",
         "heldItem": "Leftovers",
         "moveset": [
-          "EarthPower",
-          "ShadowBall",
-          "ShoreUp",
-          "StealthRock"
+          "Earth Power",
+          "Shadow Ball",
+          "Shore Up",
+          "Stealth Rock"
         ]
       }
     ]
@@ -5325,10 +4926,10 @@
         "teraType": "Ghost",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "ShadowClaw",
-          "PlayRough",
-          "ShadowSneak"
+          "Swords Dance",
+          "Shadow Claw",
+          "Play Rough",
+          "Shadow Sneak"
         ]
       },
       {
@@ -5354,10 +4955,10 @@
         "teraType": "Ghost",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "PlayRough",
-          "ShadowSneak",
-          "ShadowClaw"
+          "Swords Dance",
+          "Play Rough",
+          "Shadow Sneak",
+          "Shadow Claw"
         ]
       },
       {
@@ -5385,8 +4986,8 @@
         "moveset": [
           "Curse",
           "Substitute",
-          "PainSplit",
-          "ShadowClaw"
+          "Pain Split",
+          "Shadow Claw"
         ]
       },
       {
@@ -5413,9 +5014,9 @@
         "heldItem": "Choice Scarf",
         "moveset": [
           "Trick",
-          "PlayRough",
-          "ShadowClaw",
-          "WoodHammer"
+          "Play Rough",
+          "Shadow Claw",
+          "Wood Hammer"
         ]
       }
     ]
@@ -5427,64 +5028,6 @@
   {
     "name": "Cinderace",
     "builds": [
-      {
-        "name": "Cinderace - National Dex - Swords Dance",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Libero",
-        "teraType": "Normal",
-        "heldItem": "Normalium Z",
-        "moveset": [
-          "SwordsDance",
-          "DoubleEdge",
-          "PyroBall",
-          "HighJumpKick"
-        ]
-      },
-      {
-        "name": "Cinderace - National Dex - Offensive Pivot",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Libero",
-        "teraType": "Fire",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Uturn",
-          "PyroBall",
-          "HighJumpKick",
-          "SuckerPunch"
-        ]
-      },
       {
         "name": "Cinderace - Almost Any Ability - Orichalcum Pulse",
         "nature": "Jolly",
@@ -5507,10 +5050,10 @@
         "ability": "Orichalcum Pulse",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "PyroBall",
-          "Uturn",
-          "HighJumpKick",
-          "SuperFang"
+          "Pyro Ball",
+          "U-turn",
+          "High Jump Kick",
+          "Super Fang"
         ]
       }
     ]
@@ -5545,38 +5088,10 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "BraveBird",
-          "Uturn",
+          "Brave Bird",
+          "U-turn",
           "Roost",
           "Defog"
-        ]
-      },
-      {
-        "name": "Corviknight - National Dex - Defensive Pivot",
-        "nature": "Relaxed",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 184,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 72
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 0,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Pressure",
-        "heldItem": "Rocky Helmet",
-        "moveset": [
-          "BraveBird",
-          "Uturn",
-          "Defog",
-          "Roost"
         ]
       },
       {
@@ -5602,8 +5117,8 @@
         "teraType": "Steel",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "BodyPress",
-          "Uturn",
+          "Body Press",
+          "U-turn",
           "Roost",
           "Defog"
         ]
@@ -5631,8 +5146,8 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "IronHead",
-          "Uturn",
+          "Iron Head",
+          "U-turn",
           "Roost",
           "Defog"
         ]
@@ -5660,10 +5175,10 @@
         "teraType": "Dragon",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "Uturn",
+          "U-turn",
           "Taunt",
           "Roost",
-          "BraveBird"
+          "Brave Bird"
         ]
       },
       {
@@ -5689,8 +5204,8 @@
         "teraType": "Flying",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "IronDefense",
-          "BodyPress",
+          "Iron Defense",
+          "Body Press",
           "Roost",
           "Taunt"
         ]
@@ -5718,10 +5233,10 @@
         "teraType": "Dark",
         "heldItem": "Covert Cloak",
         "moveset": [
-          "BulkUp",
+          "Bulk Up",
           "Taunt",
           "Roost",
-          "IronHead"
+          "Iron Head"
         ]
       },
       {
@@ -5746,10 +5261,10 @@
         "ability": "Ice Scales",
         "heldItem": "Leftovers",
         "moveset": [
-          "BraveBird",
+          "Brave Bird",
           "Roost",
           "Defog",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -5774,8 +5289,8 @@
         "ability": "Fur Coat",
         "heldItem": "Leftovers",
         "moveset": [
-          "BraveBird",
-          "Uturn",
+          "Brave Bird",
+          "U-turn",
           "Roost",
           "Defog"
         ]
@@ -5803,8 +5318,8 @@
         "teraType": "Ground",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "BodyPress",
-          "Uturn",
+          "Body Press",
+          "U-turn",
           "Roost",
           "Defog"
         ]
@@ -5858,38 +5373,9 @@
         "heldItem": "Choice Band",
         "moveset": [
           "Liquidation",
-          "CloseCombat",
-          "PsychicFangs",
+          "Close Combat",
+          "Psychic Fangs",
           "Crunch"
-        ]
-      },
-      {
-        "name": "Barraskewda - National Dex - Choice Band",
-        "nature": "Adamant",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Swift Swim",
-        "teraType": "Water",
-        "heldItem": "Choice Band",
-        "moveset": [
-          "Waterfall",
-          "FlipTurn",
-          "CloseCombat",
-          "AquaJet"
         ]
       }
     ]
@@ -5928,10 +5414,10 @@
         "teraType": "Fighting",
         "heldItem": "Focus Sash",
         "moveset": [
-          "ShellSmash",
-          "ShadowBall",
-          "StoredPower",
-          "TeraBlast"
+          "Shell Smash",
+          "Shadow Ball",
+          "Stored Power",
+          "Tera Blast"
         ]
       },
       {
@@ -5956,10 +5442,10 @@
         "ability": "Queenly Majesty",
         "heldItem": "Focus Sash",
         "moveset": [
-          "ShellSmash",
-          "ShadowBall",
-          "StoredPower",
-          "GigaDrain"
+          "Shell Smash",
+          "Shadow Ball",
+          "Stored Power",
+          "Giga Drain"
         ]
       }
     ]
@@ -5994,9 +5480,9 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "DrainingKiss",
-          "MysticalFire",
+          "Calm Mind",
+          "Draining Kiss",
+          "Mystical Fire",
           "Psyshock"
         ]
       },
@@ -6024,9 +5510,9 @@
         "heldItem": "Eject Button",
         "moveset": [
           "Nuzzle",
-          "HealingWish",
+          "Healing Wish",
           "Psychic",
-          "DazzlingGleam"
+          "Dazzling Gleam"
         ]
       },
       {
@@ -6052,9 +5538,9 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "DrainingKiss",
-          "MysticalFire",
+          "Calm Mind",
+          "Draining Kiss",
+          "Mystical Fire",
           "Psyshock"
         ]
       },
@@ -6081,8 +5567,8 @@
         "teraType": "Fire",
         "heldItem": "Covert Cloak",
         "moveset": [
-          "DazzlingGleam",
-          "TrickRoom",
+          "Dazzling Gleam",
+          "Trick Room",
           "Psychic",
           "Protect"
         ]
@@ -6115,38 +5601,10 @@
         "teraType": "Steel",
         "heldItem": "Light Clay",
         "moveset": [
-          "LightScreen",
+          "Light Screen",
           "Reflect",
           "Taunt",
-          "PartingShot"
-        ]
-      },
-      {
-        "name": "Grimmsnarl - National Dex - Dual Screens",
-        "nature": "Careful",
-        "evs": {
-          "HP": 248,
-          "ATK": 0,
-          "DEF": 8,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Prankster",
-        "heldItem": "Light Clay",
-        "moveset": [
-          "LightScreen",
-          "Reflect",
-          "Taunt",
-          "SpiritBreak"
+          "Parting Shot"
         ]
       },
       {
@@ -6172,10 +5630,10 @@
         "teraType": "Steel",
         "heldItem": "Light Clay",
         "moveset": [
-          "LightScreen",
+          "Light Screen",
           "Reflect",
           "Taunt",
-          "SpiritBreak"
+          "Spirit Break"
         ]
       },
       {
@@ -6202,9 +5660,9 @@
         "heldItem": "Light Clay",
         "moveset": [
           "Reflect",
-          "LightScreen",
-          "PartingShot",
-          "SpiritBreak"
+          "Light Screen",
+          "Parting Shot",
+          "Spirit Break"
         ]
       },
       {
@@ -6230,10 +5688,10 @@
         "teraType": "Steel",
         "heldItem": "Light Clay",
         "moveset": [
-          "SpiritBreak",
+          "Spirit Break",
           "Reflect",
-          "LightScreen",
-          "FakeOut"
+          "Light Screen",
+          "Fake Out"
         ]
       },
       {
@@ -6259,10 +5717,10 @@
         "teraType": "Steel",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "SpiritBreak",
-          "PartingShot",
-          "FakeOut",
-          "ThunderWave"
+          "Spirit Break",
+          "Parting Shot",
+          "Fake Out",
+          "Thunder Wave"
         ]
       },
       {
@@ -6289,8 +5747,8 @@
         "heldItem": "Light Clay",
         "moveset": [
           "Reflect",
-          "LightScreen",
-          "PartingShot",
+          "Light Screen",
+          "Parting Shot",
           "Taunt"
         ]
       }
@@ -6332,7 +5790,7 @@
         "moveset": [
           "Discharge",
           "Spikes",
-          "ThunderWave",
+          "Thunder Wave",
           "Memento"
         ]
       }
@@ -6377,7 +5835,7 @@
         "heldItem": "Choice Scarf",
         "moveset": [
           "Psychic",
-          "HyperVoice",
+          "Hyper Voice",
           "Trick",
           "Psyshock"
         ]
@@ -6406,9 +5864,9 @@
         "heldItem": "Terrain Extender",
         "moveset": [
           "Psychic",
-          "HyperVoice",
-          "HealingWish",
-          "DazzlingGleam"
+          "Hyper Voice",
+          "Healing Wish",
+          "Dazzling Gleam"
         ]
       }
     ]
@@ -6447,10 +5905,10 @@
         "teraType": "Ghost",
         "heldItem": "Choice Specs",
         "moveset": [
-          "DracoMeteor",
-          "ShadowBall",
+          "Draco Meteor",
+          "Shadow Ball",
           "Flamethrower",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -6476,10 +5934,10 @@
         "teraType": "Dragon",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "WillOWisp",
+          "Will-O-Wisp",
           "Hex",
-          "DragonDarts",
-          "Uturn"
+          "Dragon Darts",
+          "U-turn"
         ]
       },
       {
@@ -6505,10 +5963,10 @@
         "teraType": "Dragon",
         "heldItem": "Choice Band",
         "moveset": [
-          "DragonDarts",
-          "PhantomForce",
-          "SuckerPunch",
-          "Uturn"
+          "Dragon Darts",
+          "Phantom Force",
+          "Sucker Punch",
+          "U-turn"
         ]
       },
       {
@@ -6534,10 +5992,10 @@
         "teraType": "Ghost",
         "heldItem": "Choice Specs",
         "moveset": [
-          "DracoMeteor",
-          "ShadowBall",
+          "Draco Meteor",
+          "Shadow Ball",
           "Flamethrower",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -6563,9 +6021,9 @@
         "teraType": "Ghost",
         "heldItem": "Choice Band",
         "moveset": [
-          "DragonDarts",
-          "Uturn",
-          "TeraBlast",
+          "Dragon Darts",
+          "U-turn",
+          "Tera Blast",
           "Flamethrower"
         ]
       },
@@ -6592,10 +6050,10 @@
         "teraType": "Dragon",
         "heldItem": "Choice Band",
         "moveset": [
-          "DragonDarts",
-          "Uturn",
-          "SuckerPunch",
-          "PhantomForce"
+          "Dragon Darts",
+          "U-turn",
+          "Sucker Punch",
+          "Phantom Force"
         ]
       },
       {
@@ -6621,10 +6079,10 @@
         "teraType": "Dragon",
         "heldItem": "Life Orb",
         "moveset": [
-          "DragonDance",
-          "DragonDarts",
-          "PhantomForce",
-          "SuckerPunch"
+          "Dragon Dance",
+          "Dragon Darts",
+          "Phantom Force",
+          "Sucker Punch"
         ]
       },
       {
@@ -6650,8 +6108,8 @@
         "teraType": "Ghost",
         "heldItem": "Choice Specs",
         "moveset": [
-          "ShadowBall",
-          "DracoMeteor",
+          "Shadow Ball",
+          "Draco Meteor",
           "Thunderbolt",
           "Flamethrower"
         ]
@@ -6679,7 +6137,7 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "WillOWisp",
+          "Will-O-Wisp",
           "Hex",
           "Substitute",
           "Disable"
@@ -6709,9 +6167,9 @@
         "heldItem": "Light Clay",
         "moveset": [
           "Reflect",
-          "LightScreen",
+          "Light Screen",
           "Curse",
-          "ShadowBall"
+          "Shadow Ball"
         ]
       },
       {
@@ -6736,10 +6194,10 @@
         "ability": "Sheer Force",
         "heldItem": "Life Orb",
         "moveset": [
-          "ShadowBall",
-          "DragonRush",
+          "Shadow Ball",
+          "Dragon Rush",
           "Thunderbolt",
-          "FireBlast"
+          "Fire Blast"
         ]
       },
       {
@@ -6764,15 +6222,15 @@
         "ability": "Hadron Engine",
         "heldItem": "Choice Specs",
         "moveset": [
-          "ShadowBall",
-          "DracoMeteor",
+          "Shadow Ball",
+          "Draco Meteor",
           "Thunderbolt",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
-        "name": "Dragapult - National Dex - Dragon Dance",
-        "nature": "Jolly",
+        "name": "Dragapult - 1v1 - Choice Band",
+        "nature": "Adamant",
         "evs": {
           "HP": 0,
           "ATK": 252,
@@ -6790,16 +6248,44 @@
           "SPD": 31
         },
         "ability": "Clear Body",
-        "heldItem": "Ghostium Z",
+        "heldItem": "Choice Band",
         "moveset": [
-          "DragonDance",
-          "PhantomForce",
-          "DragonDarts",
+          "Outrage",
+          "Dragon Darts",
+          "Phantom Force",
+          "U-turn"
+        ]
+      },
+      {
+        "name": "Dragapult - 1v1 - Hex",
+        "nature": "Timid",
+        "evs": {
+          "HP": 84,
+          "ATK": 0,
+          "DEF": 56,
+          "SPE": 212,
+          "SPA": 156,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Clear Body",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "Will-O-Wisp",
+          "Hex",
+          "Disable",
           "Substitute"
         ]
       },
       {
-        "name": "Dragapult - National Dex - Choice Specs",
+        "name": "Dragapult - 1v1 - Choice Specs",
         "nature": "Timid",
         "evs": {
           "HP": 0,
@@ -6817,14 +6303,13 @@
           "SPA": 31,
           "SPD": 31
         },
-        "ability": "Infiltrator",
-        "teraType": "Ghost",
+        "ability": "Clear Body",
         "heldItem": "Choice Specs",
         "moveset": [
-          "DracoMeteor",
-          "ShadowBall",
-          "Uturn",
-          "Flamethrower"
+          "Draco Meteor",
+          "Shadow Ball",
+          "Fire Blast",
+          "Hydro Pump"
         ]
       }
     ]
@@ -6859,9 +6344,9 @@
         "teraType": "Flying",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "WillOWisp",
-          "BodyPress",
-          "RagingBull",
+          "Will-O-Wisp",
+          "Body Press",
+          "Raging Bull",
           "Protect"
         ]
       },
@@ -6888,10 +6373,10 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "RagingBull",
-          "BodyPress",
-          "WillOWisp",
-          "RockTomb"
+          "Raging Bull",
+          "Body Press",
+          "Will-O-Wisp",
+          "Rock Tomb"
         ]
       },
       {
@@ -6917,10 +6402,10 @@
         "teraType": "Grass",
         "heldItem": "Eject Pack",
         "moveset": [
-          "RagingBull",
-          "CloseCombat",
-          "FlameCharge",
-          "TeraBlast"
+          "Raging Bull",
+          "Close Combat",
+          "Flame Charge",
+          "Tera Blast"
         ]
       }
     ]
@@ -6955,10 +6440,10 @@
         "teraType": "Dark",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "KnockOff",
-          "SuckerPunch",
-          "Uturn",
-          "FlowerTrick"
+          "Knock Off",
+          "Sucker Punch",
+          "U-turn",
+          "Flower Trick"
         ]
       },
       {
@@ -6984,10 +6469,10 @@
         "teraType": "Dark",
         "heldItem": "Choice Band",
         "moveset": [
-          "KnockOff",
-          "SuckerPunch",
-          "Uturn",
-          "FlowerTrick"
+          "Knock Off",
+          "Sucker Punch",
+          "U-turn",
+          "Flower Trick"
         ]
       },
       {
@@ -7013,10 +6498,10 @@
         "teraType": "Dark",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "KnockOff",
-          "PlayRough",
-          "Uturn",
-          "FlowerTrick"
+          "Knock Off",
+          "Play Rough",
+          "U-turn",
+          "Flower Trick"
         ]
       },
       {
@@ -7044,8 +6529,8 @@
         "moveset": [
           "Taunt",
           "Spikes",
-          "ToxicSpikes",
-          "KnockOff"
+          "Toxic Spikes",
+          "Knock Off"
         ]
       },
       {
@@ -7071,10 +6556,10 @@
         "teraType": "Grass",
         "heldItem": "Choice Band",
         "moveset": [
-          "FlowerTrick",
-          "KnockOff",
-          "PlayRough",
-          "Uturn"
+          "Flower Trick",
+          "Knock Off",
+          "Play Rough",
+          "U-turn"
         ]
       },
       {
@@ -7100,22 +6585,22 @@
         "teraType": "Grass",
         "heldItem": "Focus Sash",
         "moveset": [
-          "FlowerTrick",
-          "KnockOff",
-          "SuckerPunch",
+          "Flower Trick",
+          "Knock Off",
+          "Sucker Punch",
           "Taunt"
         ]
       },
       {
-        "name": "Meowscarada - National Dex - Offensive Pivot",
+        "name": "Meowscarada - 1v1 - Choice Band",
         "nature": "Jolly",
         "evs": {
           "HP": 0,
           "ATK": 252,
-          "DEF": 0,
+          "DEF": 4,
           "SPE": 252,
           "SPA": 0,
-          "SPD": 4
+          "SPD": 0
         },
         "ivs": {
           "HP": 31,
@@ -7125,13 +6610,41 @@
           "SPA": 31,
           "SPD": 31
         },
-        "ability": "Overgrow",
-        "heldItem": "Heavy-Duty Boots",
+        "ability": "Protean",
+        "heldItem": "Choice Band",
         "moveset": [
-          "FlowerTrick",
-          "KnockOff",
-          "Uturn",
-          "Spikes"
+          "Flower Trick",
+          "Knock Off",
+          "Giga Impact",
+          "Trick"
+        ]
+      },
+      {
+        "name": "Meowscarada - 1v1 - Substitute + Leech Seed",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 240,
+          "ATK": 0,
+          "DEF": 16,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protean",
+        "heldItem": "Leftovers",
+        "moveset": [
+          "Substitute",
+          "Protect",
+          "Leech Seed",
+          "Flower Trick"
         ]
       }
     ]
@@ -7162,10 +6675,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "TorchSong",
-          "WillOWisp",
+          "Torch Song",
+          "Will-O-Wisp",
           "Hex",
-          "SlackOff"
+          "Slack Off"
         ]
       },
       {
@@ -7191,10 +6704,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "TorchSong",
-          "WillOWisp",
+          "Torch Song",
+          "Will-O-Wisp",
           "Hex",
-          "SlackOff"
+          "Slack Off"
         ]
       },
       {
@@ -7220,10 +6733,10 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "TorchSong",
-          "ShadowBall",
-          "SlackOff",
-          "WillOWisp"
+          "Torch Song",
+          "Shadow Ball",
+          "Slack Off",
+          "Will-O-Wisp"
         ]
       },
       {
@@ -7248,10 +6761,10 @@
         "ability": "Good as Gold",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "TorchSong",
+          "Torch Song",
           "Hex",
-          "SlackOff",
-          "WillOWisp"
+          "Slack Off",
+          "Will-O-Wisp"
         ]
       },
       {
@@ -7277,39 +6790,38 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "TorchSong",
-          "EarthPower",
-          "WillOWisp",
-          "SlackOff"
+          "Torch Song",
+          "Earth Power",
+          "Will-O-Wisp",
+          "Slack Off"
         ]
       },
       {
-        "name": "Skeledirge - National Dex - Unaware Wall",
+        "name": "Skeledirge - 1v1 - Defensive Will-O-Wisp",
         "nature": "Bold",
         "evs": {
-          "HP": 252,
+          "HP": 248,
           "ATK": 0,
-          "DEF": 252,
+          "DEF": 244,
           "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
+          "SPA": 16,
+          "SPD": 0
         },
         "ivs": {
           "HP": 31,
-          "ATK": 0,
+          "ATK": 31,
           "DEF": 31,
           "SPE": 31,
           "SPA": 31,
           "SPD": 31
         },
-        "ability": "Unaware",
-        "teraType": "Water",
-        "heldItem": "Heavy-Duty Boots",
+        "ability": "Blaze",
+        "heldItem": "Weakness Policy",
         "moveset": [
-          "TorchSong",
-          "WillOWisp",
-          "Hex",
-          "SlackOff"
+          "Will-O-Wisp",
+          "Torch Song",
+          "Encore",
+          "Blast Burn"
         ]
       }
     ]
@@ -7340,9 +6852,9 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "BulkUp",
-          "AquaStep",
-          "CloseCombat",
+          "Bulk Up",
+          "Aqua Step",
+          "Close Combat",
           "Roost"
         ]
       },
@@ -7369,10 +6881,10 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "AquaStep",
-          "CloseCombat",
-          "IceSpinner"
+          "Swords Dance",
+          "Aqua Step",
+          "Close Combat",
+          "Ice Spinner"
         ]
       },
       {
@@ -7398,9 +6910,9 @@
         "teraType": "Flying",
         "heldItem": "Rocky Helmet",
         "moveset": [
-          "AquaStep",
+          "Aqua Step",
           "Roost",
-          "BulkUp",
+          "Bulk Up",
           "Taunt"
         ]
       },
@@ -7427,10 +6939,10 @@
         "teraType": "Water",
         "heldItem": "Life Orb",
         "moveset": [
-          "AquaStep",
-          "CloseCombat",
-          "IceSpinner",
-          "SwordsDance"
+          "Aqua Step",
+          "Close Combat",
+          "Ice Spinner",
+          "Swords Dance"
         ]
       },
       {
@@ -7456,10 +6968,10 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "AquaStep",
-          "CloseCombat",
-          "IceSpinner",
-          "AquaJet"
+          "Aqua Step",
+          "Close Combat",
+          "Ice Spinner",
+          "Aqua Jet"
         ]
       },
       {
@@ -7484,9 +6996,9 @@
         "ability": "Primordial Sea",
         "heldItem": "Mystic Water",
         "moveset": [
-          "WaveCrash",
-          "CloseCombat",
-          "AquaStep",
+          "Wave Crash",
+          "Close Combat",
+          "Aqua Step",
           "Roost"
         ]
       },
@@ -7512,10 +7024,10 @@
         "ability": "Primordial Sea",
         "heldItem": "Choice Band",
         "moveset": [
-          "WaveCrash",
-          "CloseCombat",
-          "IceSpinner",
-          "Uturn"
+          "Wave Crash",
+          "Close Combat",
+          "Ice Spinner",
+          "U-turn"
         ]
       }
     ]
@@ -7558,10 +7070,10 @@
         "teraType": "Dark",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "SwordsDance",
-          "FirstImpression",
-          "SuckerPunch",
-          "LeechLife"
+          "Swords Dance",
+          "First Impression",
+          "Sucker Punch",
+          "Leech Life"
         ]
       },
       {
@@ -7587,10 +7099,10 @@
         "teraType": "Bug",
         "heldItem": "Choice Band",
         "moveset": [
-          "Uturn",
-          "FirstImpression",
-          "SuckerPunch",
-          "LeechLife"
+          "U-turn",
+          "First Impression",
+          "Sucker Punch",
+          "Leech Life"
         ]
       },
       {
@@ -7616,10 +7128,10 @@
         "teraType": "Bug",
         "heldItem": "Life Orb",
         "moveset": [
-          "FirstImpression",
-          "Uturn",
-          "SuckerPunch",
-          "AxeKick"
+          "First Impression",
+          "U-turn",
+          "Sucker Punch",
+          "Axe Kick"
         ]
       }
     ]
@@ -7650,10 +7162,10 @@
         "teraType": "Ground",
         "heldItem": "Leppa Berry",
         "moveset": [
-          "RevivalBlessing",
+          "Revival Blessing",
           "Nuzzle",
           "Rest",
-          "SleepTalk"
+          "Sleep Talk"
         ]
       },
       {
@@ -7679,10 +7191,10 @@
         "teraType": "Electric",
         "heldItem": "Focus Sash",
         "moveset": [
-          "RevivalBlessing",
-          "ThunderPunch",
-          "CloseCombat",
-          "IcePunch"
+          "Revival Blessing",
+          "Thunder Punch",
+          "Close Combat",
+          "Ice Punch"
         ]
       },
       {
@@ -7708,10 +7220,10 @@
         "teraType": "Fairy",
         "heldItem": "Leppa Berry",
         "moveset": [
-          "RevivalBlessing",
-          "CloseCombat",
-          "DoubleShock",
-          "MachPunch"
+          "Revival Blessing",
+          "Close Combat",
+          "Double Shock",
+          "Mach Punch"
         ]
       },
       {
@@ -7737,10 +7249,10 @@
         "teraType": "Electric",
         "heldItem": "Leppa Berry",
         "moveset": [
-          "RevivalBlessing",
-          "CloseCombat",
-          "DoubleShock",
-          "MachPunch"
+          "Revival Blessing",
+          "Close Combat",
+          "Double Shock",
+          "Mach Punch"
         ]
       },
       {
@@ -7766,10 +7278,10 @@
         "teraType": "Electric",
         "heldItem": "Life Orb",
         "moveset": [
-          "DoubleShock",
-          "CloseCombat",
-          "MachPunch",
-          "RevivalBlessing"
+          "Double Shock",
+          "Close Combat",
+          "Mach Punch",
+          "Revival Blessing"
         ]
       },
       {
@@ -7795,10 +7307,10 @@
         "teraType": "Fighting",
         "heldItem": "Focus Sash",
         "moveset": [
-          "DoubleShock",
-          "CloseCombat",
-          "FakeOut",
-          "RevivalBlessing"
+          "Double Shock",
+          "Close Combat",
+          "Fake Out",
+          "Revival Blessing"
         ]
       }
     ]
@@ -7829,8 +7341,8 @@
         "teraType": "Normal",
         "heldItem": "Wide Lens",
         "moveset": [
-          "TidyUp",
-          "PopulationBomb",
+          "Tidy Up",
+          "Population Bomb",
           "Bite",
           "Encore"
         ]
@@ -7858,10 +7370,10 @@
         "teraType": "Normal",
         "heldItem": "Wide Lens",
         "moveset": [
-          "Uturn",
-          "PopulationBomb",
+          "U-turn",
+          "Population Bomb",
           "Bite",
-          "TidyUp"
+          "Tidy Up"
         ]
       },
       {
@@ -7887,9 +7399,9 @@
         "teraType": "Normal",
         "heldItem": "Wide Lens",
         "moveset": [
-          "PopulationBomb",
+          "Population Bomb",
           "Bite",
-          "FollowMe",
+          "Follow Me",
           "Protect"
         ]
       },
@@ -7916,9 +7428,9 @@
         "teraType": "Dark",
         "heldItem": "Focus Sash",
         "moveset": [
-          "SuperFang",
-          "FollowMe",
-          "HelpingHand",
+          "Super Fang",
+          "Follow Me",
+          "Helping Hand",
           "Taunt"
         ]
       }
@@ -7950,9 +7462,9 @@
         "teraType": "Normal",
         "heldItem": "Wide Lens",
         "moveset": [
-          "PopulationBomb",
+          "Population Bomb",
           "Bite",
-          "FollowMe",
+          "Follow Me",
           "Protect"
         ]
       },
@@ -7979,9 +7491,9 @@
         "teraType": "Dark",
         "heldItem": "Focus Sash",
         "moveset": [
-          "SuperFang",
-          "FollowMe",
-          "HelpingHand",
+          "Super Fang",
+          "Follow Me",
+          "Helping Hand",
           "Taunt"
         ]
       }
@@ -8013,7 +7525,7 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "PlayRough",
+          "Play Rough",
           "Charm",
           "Wish",
           "Protect"
@@ -8047,10 +7559,10 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "StrengthSap",
-          "EnergyBall",
-          "LeechSeed",
-          "DazzlingGleam"
+          "Strength Sap",
+          "Energy Ball",
+          "Leech Seed",
+          "Dazzling Gleam"
         ]
       }
     ]
@@ -8098,14 +7610,14 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Recover",
-          "BodyPress",
-          "SaltCure",
-          "IronDefense"
+          "Body Press",
+          "Salt Cure",
+          "Iron Defense"
         ]
       },
       {
         "name": "Garganacl - OU - Stealth Rock",
-        "nature": "Careful",
+        "nature": "Impish",
         "evs": {
           "HP": 252,
           "ATK": 0,
@@ -8126,8 +7638,8 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
-          "SaltCure",
+          "Stealth Rock",
+          "Salt Cure",
           "Protect",
           "Recover"
         ]
@@ -8155,9 +7667,9 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "SaltCure",
-          "BodyPress",
-          "IronDefense",
+          "Salt Cure",
+          "Body Press",
+          "Iron Defense",
           "Recover"
         ]
       },
@@ -8184,10 +7696,10 @@
         "teraType": "Flying",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "IronDefense",
-          "SaltCure",
+          "Iron Defense",
+          "Salt Cure",
           "Recover",
-          "BodyPress"
+          "Body Press"
         ]
       },
       {
@@ -8213,7 +7725,7 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "SaltCure",
+          "Salt Cure",
           "Protect",
           "Recover",
           "Substitute"
@@ -8242,9 +7754,9 @@
         "teraType": "Ghost",
         "heldItem": "Leftovers",
         "moveset": [
-          "SaltCure",
-          "BodyPress",
-          "IronDefense",
+          "Salt Cure",
+          "Body Press",
+          "Iron Defense",
           "Recover"
         ]
       },
@@ -8270,10 +7782,10 @@
         "ability": "Fur Coat",
         "heldItem": "Leftovers",
         "moveset": [
-          "SaltCure",
+          "Salt Cure",
           "Recover",
-          "BodyPress",
-          "IronDefense"
+          "Body Press",
+          "Iron Defense"
         ]
       },
       {
@@ -8298,10 +7810,10 @@
         "ability": "Ice Scales",
         "heldItem": "Leftovers",
         "moveset": [
-          "SaltCure",
+          "Salt Cure",
           "Recover",
           "Protect",
-          "StealthRock"
+          "Stealth Rock"
         ]
       },
       {
@@ -8327,38 +7839,9 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "SaltCure",
-          "BodyPress",
-          "IronDefense",
-          "Recover"
-        ]
-      },
-      {
-        "name": "Garganacl - National Dex - IronPress",
-        "nature": "Careful",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Purifying Salt",
-        "teraType": "Water",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "IronDefense",
-          "BodyPress",
-          "SaltCure",
+          "Salt Cure",
+          "Body Press",
+          "Iron Defense",
           "Recover"
         ]
       }
@@ -8390,8 +7873,8 @@
         "teraType": "Grass",
         "heldItem": "Life Orb",
         "moveset": [
-          "ArmorCannon",
-          "TrickRoom",
+          "Armor Cannon",
+          "Trick Room",
           "Psychic",
           "Protect"
         ]
@@ -8418,10 +7901,10 @@
         "ability": "Psychic Surge",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ArmorCannon",
-          "ExpandingForce",
+          "Armor Cannon",
+          "Expanding Force",
           "Trick",
-          "FocusBlast"
+          "Focus Blast"
         ]
       }
     ]
@@ -8452,9 +7935,9 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "BulkUp",
-          "BitterBlade",
-          "ShadowSneak",
+          "Bulk Up",
+          "Bitter Blade",
+          "Shadow Sneak",
           "Taunt"
         ]
       },
@@ -8481,10 +7964,10 @@
         "teraType": "Fighting",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "SwordsDance",
-          "ShadowSneak",
-          "BitterBlade",
-          "CloseCombat"
+          "Swords Dance",
+          "Shadow Sneak",
+          "Bitter Blade",
+          "Close Combat"
         ]
       },
       {
@@ -8510,10 +7993,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "SwordsDance",
-          "BitterBlade",
-          "ShadowClaw",
-          "ShadowSneak"
+          "Swords Dance",
+          "Bitter Blade",
+          "Shadow Claw",
+          "Shadow Sneak"
         ]
       },
       {
@@ -8539,10 +8022,10 @@
         "teraType": "Fire",
         "heldItem": "Focus Sash",
         "moveset": [
-          "BitterBlade",
-          "CloseCombat",
-          "ShadowSneak",
-          "SwordsDance"
+          "Bitter Blade",
+          "Close Combat",
+          "Shadow Sneak",
+          "Swords Dance"
         ]
       },
       {
@@ -8568,10 +8051,10 @@
         "teraType": "Grass",
         "heldItem": "Leftovers",
         "moveset": [
-          "BitterBlade",
-          "BulkUp",
+          "Bitter Blade",
+          "Bulk Up",
           "Taunt",
-          "ShadowSneak"
+          "Shadow Sneak"
         ]
       },
       {
@@ -8597,9 +8080,9 @@
         "teraType": "Grass",
         "heldItem": "Clear Amulet",
         "moveset": [
-          "BitterBlade",
-          "BulkUp",
-          "ShadowSneak",
+          "Bitter Blade",
+          "Bulk Up",
+          "Shadow Sneak",
           "Protect"
         ]
       },
@@ -8625,10 +8108,10 @@
         "ability": "Orichalcum Pulse",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "BitterBlade",
-          "ShadowSneak",
-          "SolarBlade"
+          "Swords Dance",
+          "Bitter Blade",
+          "Shadow Sneak",
+          "Solar Blade"
         ]
       },
       {
@@ -8653,10 +8136,10 @@
         "ability": "Orichalcum Pulse",
         "heldItem": "Choice Band",
         "moveset": [
-          "BitterBlade",
-          "ShadowSneak",
-          "CloseCombat",
-          "WillOWisp"
+          "Bitter Blade",
+          "Shadow Sneak",
+          "Close Combat",
+          "Will-O-Wisp"
         ]
       }
     ]
@@ -8688,9 +8171,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Discharge",
-          "SlackOff",
-          "VoltSwitch",
-          "ChillingWater"
+          "Slack Off",
+          "Volt Switch",
+          "Chilling Water"
         ]
       },
       {
@@ -8716,9 +8199,9 @@
         "teraType": "Fairy",
         "heldItem": "Assault Vest",
         "moveset": [
-          "ParabolicCharge",
-          "TeraBlast",
-          "VoltSwitch",
+          "Parabolic Charge",
+          "Tera Blast",
+          "Volt Switch",
           "Discharge"
         ]
       },
@@ -8746,9 +8229,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Discharge",
-          "TeraBlast",
-          "VoltSwitch",
-          "MuddyWater"
+          "Tera Blast",
+          "Volt Switch",
+          "Muddy Water"
         ]
       }
     ]
@@ -8781,8 +8264,8 @@
         "moveset": [
           "Thunder",
           "Hurricane",
-          "WeatherBall",
-          "Uturn"
+          "Weather Ball",
+          "U-turn"
         ]
       },
       {
@@ -8809,7 +8292,7 @@
         "heldItem": "Focus Sash",
         "moveset": [
           "Thunderbolt",
-          "AirSlash",
+          "Air Slash",
           "Tailwind",
           "Protect"
         ]
@@ -8865,7 +8348,7 @@
           "Flamethrower",
           "Substitute",
           "Protect",
-          "LeechSeed"
+          "Leech Seed"
         ]
       },
       {
@@ -8892,9 +8375,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Flamethrower",
-          "SolarBeam",
+          "Solar Beam",
           "Protect",
-          "WillOWisp"
+          "Will-O-Wisp"
         ]
       }
     ]
@@ -8925,9 +8408,9 @@
         "teraType": "Bug",
         "heldItem": "Leppa Berry",
         "moveset": [
-          "TrickRoom",
-          "RevivalBlessing",
-          "BugBuzz",
+          "Trick Room",
+          "Revival Blessing",
+          "Bug Buzz",
           "Psychic"
         ]
       }
@@ -8959,9 +8442,9 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "StoredPower",
-          "DazzlingGleam",
+          "Calm Mind",
+          "Stored Power",
+          "Dazzling Gleam",
           "Roost"
         ]
       },
@@ -8988,9 +8471,9 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "StoredPower",
-          "DazzlingGleam",
+          "Calm Mind",
+          "Stored Power",
+          "Dazzling Gleam",
           "Protect"
         ]
       },
@@ -9017,9 +8500,9 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "StoredPower",
-          "DazzlingGleam",
+          "Calm Mind",
+          "Stored Power",
+          "Dazzling Gleam",
           "Protect"
         ]
       },
@@ -9048,37 +8531,8 @@
         "moveset": [
           "Protect",
           "Substitute",
-          "LuminaCrash",
-          "BatonPass"
-        ]
-      },
-      {
-        "name": "Espathra - National Dex - Calm Mind",
-        "nature": "Bold",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 112,
-          "SPE": 144,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Speed Boost",
-        "teraType": "Fairy",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "CalmMind",
-          "StoredPower",
-          "Substitute",
-          "DazzlingGleam"
+          "Lumina Crash",
+          "Baton Pass"
         ]
       }
     ]
@@ -9110,9 +8564,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Encore",
-          "GigatonHammer",
-          "KnockOff",
-          "SwordsDance"
+          "Gigaton Hammer",
+          "Knock Off",
+          "Swords Dance"
         ]
       },
       {
@@ -9138,10 +8592,10 @@
         "teraType": "Flying",
         "heldItem": "Air Balloon",
         "moveset": [
-          "StealthRock",
-          "ThunderWave",
-          "GigatonHammer",
-          "KnockOff"
+          "Stealth Rock",
+          "Thunder Wave",
+          "Gigaton Hammer",
+          "Knock Off"
         ]
       },
       {
@@ -9167,10 +8621,10 @@
         "teraType": "Steel",
         "heldItem": "Assault Vest",
         "moveset": [
-          "GigatonHammer",
-          "PlayRough",
-          "KnockOff",
-          "FakeOut"
+          "Gigaton Hammer",
+          "Play Rough",
+          "Knock Off",
+          "Fake Out"
         ]
       },
       {
@@ -9195,10 +8649,10 @@
         "ability": "Regenerator",
         "heldItem": "Assault Vest",
         "moveset": [
-          "KnockOff",
-          "GigatonHammer",
-          "SkitterSmack",
-          "PlayRough"
+          "Knock Off",
+          "Gigaton Hammer",
+          "Skitter Smack",
+          "Play Rough"
         ]
       },
       {
@@ -9223,9 +8677,9 @@
         "ability": "Regenerator",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
-          "KnockOff",
-          "ThunderWave",
+          "Stealth Rock",
+          "Knock Off",
+          "Thunder Wave",
           "Encore"
         ]
       }
@@ -9265,10 +8719,10 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "JetPunch",
-          "FlipTurn",
-          "ZenHeadbutt",
-          "IcePunch"
+          "Jet Punch",
+          "Flip Turn",
+          "Zen Headbutt",
+          "Ice Punch"
         ]
       },
       {
@@ -9294,10 +8748,10 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "FlipTurn",
-          "JetPunch",
-          "WaveCrash",
-          "CloseCombat"
+          "Flip Turn",
+          "Jet Punch",
+          "Wave Crash",
+          "Close Combat"
         ]
       },
       {
@@ -9323,10 +8777,10 @@
         "teraType": "Water",
         "heldItem": "Choice Band",
         "moveset": [
-          "JetPunch",
-          "FlipTurn",
-          "JetPunch",
-          "IcePunch"
+          "Jet Punch",
+          "Flip Turn",
+          "Jet Punch",
+          "Ice Punch"
         ]
       },
       {
@@ -9352,10 +8806,10 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "BulkUp",
+          "Bulk Up",
           "Taunt",
-          "JetPunch",
-          "DrainPunch"
+          "Jet Punch",
+          "Drain Punch"
         ]
       }
     ]
@@ -9367,64 +8821,6 @@
   {
     "name": "Cyclizar",
     "builds": [
-      {
-        "name": "Cyclizar - OU - Shed Tail",
-        "nature": "Timid",
-        "evs": {
-          "HP": 248,
-          "ATK": 0,
-          "DEF": 8,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Regenerator",
-        "teraType": "Steel",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "ShedTail",
-          "RapidSpin",
-          "KnockOff",
-          "DracoMeteor"
-        ]
-      },
-      {
-        "name": "Cyclizar - OU - Choice Scarf",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Regenerator",
-        "teraType": "Steel",
-        "heldItem": "Choice Scarf",
-        "moveset": [
-          "ShedTail",
-          "Thunderbolt",
-          "DracoMeteor",
-          "Uturn"
-        ]
-      },
       {
         "name": "Cyclizar - Uber - Shed Tail",
         "nature": "Jolly",
@@ -9448,10 +8844,10 @@
         "teraType": "Fairy",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ShedTail",
-          "DracoMeteor",
-          "Uturn",
-          "KnockOff"
+          "Shed Tail",
+          "Draco Meteor",
+          "U-turn",
+          "Knock Off"
         ]
       },
       {
@@ -9476,10 +8872,10 @@
         "ability": "Regenerator",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ShedTail",
-          "DracoMeteor",
-          "Uturn",
-          "RapidSpin"
+          "Shed Tail",
+          "Draco Meteor",
+          "U-turn",
+          "Rapid Spin"
         ]
       },
       {
@@ -9505,9 +8901,9 @@
         "teraType": "Steel",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "ShedTail",
-          "RapidSpin",
-          "KnockOff",
+          "Shed Tail",
+          "Rapid Spin",
+          "Knock Off",
           "Encore"
         ]
       },
@@ -9534,38 +8930,10 @@
         "teraType": "Steel",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ShedTail",
+          "Shed Tail",
           "Boomburst",
           "Encore",
-          "Uturn"
-        ]
-      },
-      {
-        "name": "Cyclizar - National Dex - Shed Tail Utility",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Regenerator",
-        "heldItem": "Choice Scarf",
-        "moveset": [
-          "ShedTail",
-          "DracoMeteor",
-          "Overheat",
-          "Uturn"
+          "U-turn"
         ]
       }
     ]
@@ -9596,10 +8964,10 @@
         "teraType": "Ghost",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "HeavySlam",
-          "BodyPress",
-          "StealthRock",
-          "ShedTail"
+          "Heavy Slam",
+          "Body Press",
+          "Stealth Rock",
+          "Shed Tail"
         ]
       }
     ]
@@ -9630,10 +8998,10 @@
         "teraType": "Grass",
         "heldItem": "Focus Sash",
         "moveset": [
-          "StealthRock",
-          "EarthPower",
-          "SludgeWave",
-          "MortalSpin"
+          "Stealth Rock",
+          "Earth Power",
+          "Sludge Wave",
+          "Mortal Spin"
         ]
       },
       {
@@ -9659,10 +9027,10 @@
         "teraType": "Flying",
         "heldItem": "Choice Specs",
         "moveset": [
-          "PowerGem",
-          "EarthPower",
-          "SludgeWave",
-          "EnergyBall"
+          "Power Gem",
+          "Earth Power",
+          "Sludge Wave",
+          "Energy Ball"
         ]
       },
       {
@@ -9688,10 +9056,10 @@
         "teraType": "Ghost",
         "heldItem": "Focus Sash",
         "moveset": [
-          "StealthRock",
-          "MortalSpin",
-          "EarthPower",
-          "PowerGem"
+          "Stealth Rock",
+          "Mortal Spin",
+          "Earth Power",
+          "Power Gem"
         ]
       },
       {
@@ -9717,38 +9085,10 @@
         "teraType": "Grass",
         "heldItem": "Focus Sash",
         "moveset": [
-          "StealthRock",
-          "SludgeWave",
-          "MudShot",
+          "Stealth Rock",
+          "Sludge Wave",
+          "Mud Shot",
           "Memento"
-        ]
-      },
-      {
-        "name": "Glimmora - National Dex - Suicide Lead",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Toxic Debris",
-        "heldItem": "Focus Sash",
-        "moveset": [
-          "StealthRock",
-          "Spikes",
-          "Memento",
-          "MortalSpin"
         ]
       }
     ]
@@ -9779,9 +9119,9 @@
         "teraType": "Ghost",
         "heldItem": "Choice Band",
         "moveset": [
-          "LastRespects",
-          "ShadowSneak",
-          "BodyPress",
+          "Last Respects",
+          "Shadow Sneak",
+          "Body Press",
           "Trick"
         ]
       }
@@ -9813,10 +9153,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "CloseCombat",
-          "BraveBird",
-          "Uturn",
-          "ThroatChop"
+          "Close Combat",
+          "Brave Bird",
+          "U-turn",
+          "Throat Chop"
         ]
       }
     ]
@@ -9847,9 +9187,9 @@
         "teraType": "Ice",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "BellyDrum",
-          "IceShard",
-          "PlayRough",
+          "Belly Drum",
+          "Ice Shard",
+          "Play Rough",
           "Earthquake"
         ]
       },
@@ -9876,9 +9216,9 @@
         "teraType": "Fairy",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "BellyDrum",
-          "IceShard",
-          "PlayRough",
+          "Belly Drum",
+          "Ice Shard",
+          "Play Rough",
           "Earthquake"
         ]
       }
@@ -9915,9 +9255,9 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Liquidation",
-          "BodyPress",
+          "Body Press",
           "Rest",
-          "SleepTalk"
+          "Sleep Talk"
         ]
       },
       {
@@ -9945,7 +9285,7 @@
         "moveset": [
           "Curse",
           "Liquidation",
-          "BodyPress",
+          "Body Press",
           "Protect"
         ]
       },
@@ -9975,7 +9315,7 @@
           "Liquidation",
           "Rest",
           "Curse",
-          "SleepTalk"
+          "Sleep Talk"
         ]
       },
       {
@@ -10004,7 +9344,7 @@
           "Fissure",
           "Yawn",
           "Protect",
-          "WaveCrash"
+          "Wave Crash"
         ]
       },
       {
@@ -10032,7 +9372,7 @@
         "moveset": [
           "Curse",
           "Rest",
-          "WaveCrash",
+          "Wave Crash",
           "Fissure"
         ]
       },
@@ -10060,9 +9400,9 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Spikes",
-          "StrengthSap",
-          "KnockOff",
-          "FlipTurn"
+          "Strength Sap",
+          "Knock Off",
+          "Flip Turn"
         ]
       },
       {
@@ -10091,53 +9431,16 @@
           "Haze",
           "Recover",
           "Entrainment",
-          "PartingShot"
+          "Parting Shot"
         ]
       },
       {
-        "name": "Dondozo - National Dex - Unaware Wall",
+        "name": "Dondozo - 1v1 - Clear Amulet",
         "nature": "Impish",
         "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 252,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Unaware",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "WaveCrash",
-          "Curse",
-          "Rest",
-          "SleepTalk"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tatsugiri",
-    "builds": []
-  },
-  {
-    "name": "Annihilape",
-    "builds": [
-      {
-        "name": "Annihilape - OU - Bulk Up",
-        "nature": "Careful",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
+          "HP": 168,
+          "ATK": 60,
+          "DEF": 28,
           "SPE": 0,
           "SPA": 0,
           "SPD": 252
@@ -10150,26 +9453,25 @@
           "SPA": 31,
           "SPD": 31
         },
-        "ability": "Defiant",
-        "teraType": "Water",
-        "heldItem": "Leftovers",
+        "ability": "Unaware",
+        "heldItem": "Clear Amulet",
         "moveset": [
-          "BulkUp",
-          "Taunt",
-          "DrainPunch",
-          "RageFist"
+          "Curse",
+          "Heavy Slam",
+          "Wave Crash",
+          "Rest"
         ]
       },
       {
-        "name": "Annihilape - OU - Lead",
-        "nature": "Jolly",
+        "name": "Dondozo - 1v1 - Sitrus Berry",
+        "nature": "Impish",
         "evs": {
-          "HP": 24,
-          "ATK": 228,
-          "DEF": 0,
-          "SPE": 252,
+          "HP": 196,
+          "ATK": 0,
+          "DEF": 140,
+          "SPE": 0,
           "SPA": 0,
-          "SPD": 4
+          "SPD": 172
         },
         "ivs": {
           "HP": 31,
@@ -10179,16 +9481,52 @@
           "SPA": 31,
           "SPD": 31
         },
-        "ability": "Defiant",
-        "teraType": "Steel",
-        "heldItem": "Focus Sash",
+        "ability": "Unaware",
+        "heldItem": "Sitrus Berry",
         "moveset": [
-          "StealthRock",
-          "CloseCombat",
-          "RageFist",
-          "Taunt"
+          "Curse",
+          "Body Press",
+          "Wave Crash",
+          "Rest"
         ]
       },
+      {
+        "name": "Dondozo - 1v1 - Choice Band",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 120,
+          "ATK": 252,
+          "DEF": 124,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 12
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Water Veil",
+        "heldItem": "Choice Band",
+        "moveset": [
+          "Wave Crash",
+          "Body Press",
+          "Avalanche",
+          "Surf"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tatsugiri",
+    "builds": []
+  },
+  {
+    "name": "Annihilape",
+    "builds": [
       {
         "name": "Annihilape - Uber - Bulk Up",
         "nature": "Careful",
@@ -10212,10 +9550,10 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "BulkUp",
+          "Bulk Up",
           "Taunt",
-          "DrainPunch",
-          "RageFist"
+          "Drain Punch",
+          "Rage Fist"
         ]
       },
       {
@@ -10241,9 +9579,9 @@
         "teraType": "Steel",
         "heldItem": "Covert Cloak",
         "moveset": [
-          "DrainPunch",
-          "RageFist",
-          "BulkUp",
+          "Drain Punch",
+          "Rage Fist",
+          "Bulk Up",
           "Taunt"
         ]
       },
@@ -10270,10 +9608,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "Uturn",
-          "CloseCombat",
-          "ShadowClaw",
-          "IcePunch"
+          "U-turn",
+          "Close Combat",
+          "Shadow Claw",
+          "Ice Punch"
         ]
       },
       {
@@ -10299,10 +9637,10 @@
         "teraType": "Normal",
         "heldItem": "Focus Sash",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Taunt",
-          "FinalGambit",
-          "RageFist"
+          "Final Gambit",
+          "Rage Fist"
         ]
       },
       {
@@ -10328,10 +9666,10 @@
         "teraType": "Fire",
         "heldItem": "Leftovers",
         "moveset": [
-          "DrainPunch",
-          "RageFist",
-          "BulkUp",
-          "TeraBlast"
+          "Drain Punch",
+          "Rage Fist",
+          "Bulk Up",
+          "Tera Blast"
         ]
       },
       {
@@ -10357,10 +9695,10 @@
         "teraType": "Ghost",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "FinalGambit",
-          "CloseCombat",
-          "Uturn",
-          "ShadowClaw"
+          "Final Gambit",
+          "Close Combat",
+          "U-turn",
+          "Shadow Claw"
         ]
       },
       {
@@ -10386,9 +9724,9 @@
         "teraType": "Water",
         "heldItem": "Leftovers",
         "moveset": [
-          "BulkUp",
-          "RageFist",
-          "DrainPunch",
+          "Bulk Up",
+          "Rage Fist",
+          "Drain Punch",
           "Taunt"
         ]
       },
@@ -10415,9 +9753,9 @@
         "teraType": "Water",
         "heldItem": "Chesto Berry",
         "moveset": [
-          "BulkUp",
-          "RageFist",
-          "DrainPunch",
+          "Bulk Up",
+          "Rage Fist",
+          "Drain Punch",
           "Rest"
         ]
       },
@@ -10444,22 +9782,22 @@
         "teraType": "Fighting",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "TripleArrows",
+          "Triple Arrows",
           "Poltergeist",
           "Earthquake",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
-        "name": "Annihilape - National Dex - Bulk Up",
-        "nature": "Careful",
+        "name": "Annihilape - 1v1 - Sitrus Berry",
+        "nature": "Impish",
         "evs": {
-          "HP": 252,
+          "HP": 184,
           "ATK": 0,
-          "DEF": 0,
-          "SPE": 36,
+          "DEF": 252,
+          "SPE": 72,
           "SPA": 0,
-          "SPD": 220
+          "SPD": 0
         },
         "ivs": {
           "HP": 31,
@@ -10470,13 +9808,96 @@
           "SPD": 31
         },
         "ability": "Defiant",
-        "teraType": "Water",
-        "heldItem": "Chesto Berry",
+        "heldItem": "Sitrus Berry",
         "moveset": [
-          "BulkUp",
-          "RageFist",
-          "DrainPunch",
-          "Rest"
+          "Taunt",
+          "Counter",
+          "Rage Fist",
+          "Bulk Up"
+        ]
+      },
+      {
+        "name": "Annihilape - 1v1 - Specially Defensive Weakness Policy",
+        "nature": "Careful",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 12,
+          "SPA": 0,
+          "SPD": 248
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Defiant",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "Low Sweep",
+          "Rage Fist",
+          "Encore",
+          "Bulk Up"
+        ]
+      },
+      {
+        "name": "Annihilape - 1v1 - Defensive Weakness Policy",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 104,
+          "ATK": 140,
+          "DEF": 248,
+          "SPE": 16,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Defiant",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "Bulk Up",
+          "Rage Fist",
+          "Close Combat",
+          "Encore"
+        ]
+      },
+      {
+        "name": "Annihilape - 1v1 - Roseli Berry",
+        "nature": "Careful",
+        "evs": {
+          "HP": 136,
+          "ATK": 116,
+          "DEF": 0,
+          "SPE": 16,
+          "SPA": 0,
+          "SPD": 240
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Defiant",
+        "heldItem": "Roseli Berry",
+        "moveset": [
+          "Bulk Up",
+          "Gunk Shot",
+          "Rage Fist",
+          "Drain Punch"
         ]
       }
     ]
@@ -10507,7 +9928,7 @@
         "teraType": "Water",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Earthquake",
           "Toxic",
           "Recover"
@@ -10568,7 +9989,7 @@
           "Earthquake",
           "Recover",
           "Yawn",
-          "StealthRock"
+          "Stealth Rock"
         ]
       },
       {
@@ -10597,35 +10018,6 @@
           "Recover",
           "Toxic",
           "Spikes"
-        ]
-      },
-      {
-        "name": "Clodsire - National Dex - Defensive Entry Hazard Setter",
-        "nature": "Careful",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Unaware",
-        "teraType": "Flying",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "Earthquake",
-          "Toxic",
-          "StealthRock",
-          "Recover"
         ]
       }
     ]
@@ -10656,10 +10048,10 @@
         "teraType": "Fairy",
         "heldItem": "Safety Goggles",
         "moveset": [
-          "HyperVoice",
+          "Hyper Voice",
           "Psyshock",
-          "TrickRoom",
-          "HelpingHand"
+          "Trick Room",
+          "Helping Hand"
         ]
       }
     ]
@@ -10691,9 +10083,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Coil",
-          "BodySlam",
+          "Body Slam",
           "Roost",
-          "SmartStrike"
+          "Smart Strike"
         ]
       }
     ]
@@ -10728,10 +10120,10 @@
         "teraType": "Flying",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "SwordsDance",
-          "IronHead",
-          "KowtowCleave",
-          "SuckerPunch"
+          "Swords Dance",
+          "Iron Head",
+          "Kowtow Cleave",
+          "Sucker Punch"
         ]
       },
       {
@@ -10757,10 +10149,10 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "IronHead",
-          "KowtowCleave",
-          "SuckerPunch"
+          "Swords Dance",
+          "Iron Head",
+          "Kowtow Cleave",
+          "Sucker Punch"
         ]
       },
       {
@@ -10786,10 +10178,10 @@
         "teraType": "Dark",
         "heldItem": "Black Glasses",
         "moveset": [
-          "KowtowCleave",
-          "SuckerPunch",
-          "IronHead",
-          "SwordsDance"
+          "Kowtow Cleave",
+          "Sucker Punch",
+          "Iron Head",
+          "Swords Dance"
         ]
       },
       {
@@ -10814,10 +10206,10 @@
         "ability": "Adaptability",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "KowtowCleave",
-          "IronHead",
-          "SuckerPunch"
+          "Swords Dance",
+          "Kowtow Cleave",
+          "Iron Head",
+          "Sucker Punch"
         ]
       },
       {
@@ -10843,38 +10235,10 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "GigatonHammer",
-          "KnockOff",
-          "SuckerPunch",
-          "SwordsDance"
-        ]
-      },
-      {
-        "name": "Kingambit - National Dex - Swords Dance",
-        "nature": "Adamant",
-        "evs": {
-          "HP": 116,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 140,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Supreme Overlord",
-        "heldItem": "Black Glasses",
-        "moveset": [
-          "SwordsDance",
-          "KnockOff",
-          "IronHead",
-          "SuckerPunch"
+          "Gigaton Hammer",
+          "Knock Off",
+          "Sucker Punch",
+          "Swords Dance"
         ]
       }
     ]
@@ -10906,9 +10270,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Earthquake",
-          "StealthRock",
-          "KnockOff",
-          "RapidSpin"
+          "Stealth Rock",
+          "Knock Off",
+          "Rapid Spin"
         ]
       },
       {
@@ -10934,10 +10298,10 @@
         "teraType": "Fighting",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "HeadlongRush",
-          "CloseCombat",
-          "KnockOff",
-          "RapidSpin"
+          "Headlong Rush",
+          "Close Combat",
+          "Knock Off",
+          "Rapid Spin"
         ]
       },
       {
@@ -10963,10 +10327,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Band",
         "moveset": [
-          "HeadlongRush",
-          "CloseCombat",
-          "KnockOff",
-          "IceSpinner"
+          "Headlong Rush",
+          "Close Combat",
+          "Knock Off",
+          "Ice Spinner"
         ]
       },
       {
@@ -10992,10 +10356,39 @@
         "teraType": "Fighting",
         "heldItem": "Leftovers",
         "moveset": [
-          "BulkUp",
-          "BodyPress",
+          "Bulk Up",
+          "Body Press",
           "Earthquake",
-          "KnockOff"
+          "Knock Off"
+        ]
+      },
+      {
+        "name": "Great Tusk - Uber - Choice Item",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protosynthesis",
+        "teraType": "Ground",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Headlong Rush",
+          "Close Combat",
+          "Earthquake",
+          "Rapid Spin"
         ]
       },
       {
@@ -11021,39 +10414,10 @@
         "teraType": "Ground",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
-          "HeadlongRush",
-          "CloseCombat",
-          "RapidSpin"
-        ]
-      },
-      {
-        "name": "Great Tusk - Uber - Choice Item",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 4,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Protosynthesis",
-        "teraType": "Ground",
-        "heldItem": "Choice Band",
-        "moveset": [
-          "HeadlongRush",
-          "CloseCombat",
-          "KnockOff",
-          "RapidSpin"
+          "Stealth Rock",
+          "Headlong Rush",
+          "Close Combat",
+          "Rapid Spin"
         ]
       },
       {
@@ -11079,18 +10443,18 @@
         "teraType": "Ground",
         "heldItem": "Leftovers",
         "moveset": [
-          "HeadlongRush",
-          "CloseCombat",
-          "BulkUp",
-          "RapidSpin"
+          "Headlong Rush",
+          "Close Combat",
+          "Bulk Up",
+          "Rapid Spin"
         ]
       },
       {
         "name": "Great Tusk - Uber - Defensive",
         "nature": "Impish",
         "evs": {
-          "HP": 228,
-          "ATK": 28,
+          "HP": 252,
+          "ATK": 4,
           "DEF": 252,
           "SPE": 0,
           "SPA": 0,
@@ -11108,10 +10472,10 @@
         "teraType": "Ground",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
-          "RapidSpin",
+          "Stealth Rock",
+          "Rapid Spin",
           "Earthquake",
-          "PlayRough"
+          "Play Rough"
         ]
       },
       {
@@ -11136,10 +10500,10 @@
         "ability": "Regenerator",
         "heldItem": "Leftovers",
         "moveset": [
-          "RapidSpin",
-          "KnockOff",
+          "Rapid Spin",
+          "Knock Off",
           "Earthquake",
-          "BodyPress"
+          "Body Press"
         ]
       },
       {
@@ -11164,10 +10528,10 @@
         "ability": "Mold Breaker",
         "heldItem": "Choice Band",
         "moveset": [
-          "HeadlongRush",
-          "CloseCombat",
-          "KnockOff",
-          "IceSpinner"
+          "Headlong Rush",
+          "Close Combat",
+          "Knock Off",
+          "Ice Spinner"
         ]
       },
       {
@@ -11193,15 +10557,71 @@
         "teraType": "Steel",
         "heldItem": "Leftovers",
         "moveset": [
-          "ThunderousKick",
-          "HeadlongRush",
-          "RapidSpin",
-          "ShoreUp"
+          "Thunderous Kick",
+          "Headlong Rush",
+          "Rapid Spin",
+          "Shore Up"
         ]
       },
       {
-        "name": "Great Tusk - National Dex - Offensive Utility",
+        "name": "Great Tusk - 1v1 - Speed Booster",
         "nature": "Jolly",
+        "evs": {
+          "HP": 248,
+          "ATK": 4,
+          "DEF": 4,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protosynthesis",
+        "heldItem": "Booster Energy",
+        "moveset": [
+          "Bulk Up",
+          "Headlong Rush",
+          "Close Combat",
+          "Taunt"
+        ]
+      },
+      {
+        "name": "Great Tusk - 1v1 - Attack Booster",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 240,
+          "ATK": 204,
+          "DEF": 24,
+          "SPE": 40,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protosynthesis",
+        "heldItem": "Booster Energy",
+        "moveset": [
+          "Bulk Up",
+          "Headlong Rush",
+          "Close Combat",
+          "Taunt"
+        ]
+      },
+      {
+        "name": "Great Tusk - 1v1 - Choice Scarf",
+        "nature": "Adamant",
         "evs": {
           "HP": 0,
           "ATK": 252,
@@ -11219,12 +10639,12 @@
           "SPD": 31
         },
         "ability": "Protosynthesis",
-        "heldItem": "Leftovers",
+        "heldItem": "Choice Scarf",
         "moveset": [
-          "CloseCombat",
-          "Earthquake",
-          "RapidSpin",
-          "IceSpinner"
+          "Close Combat",
+          "Headlong Rush",
+          "Head Smash",
+          "Heavy Slam"
         ]
       }
     ]
@@ -11257,8 +10677,8 @@
         "moveset": [
           "Wish",
           "Protect",
-          "DazzlingGleam",
-          "StealthRock"
+          "Dazzling Gleam",
+          "Stealth Rock"
         ]
       },
       {
@@ -11287,7 +10707,7 @@
           "Wish",
           "Protect",
           "Encore",
-          "DazzlingGleam"
+          "Dazzling Gleam"
         ]
       },
       {
@@ -11313,7 +10733,7 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Boomburst",
-          "CalmMind",
+          "Calm Mind",
           "Wish",
           "Protect"
         ]
@@ -11340,7 +10760,7 @@
         "ability": "Fur Coat",
         "heldItem": "Leftovers",
         "moveset": [
-          "DazzlingGleam",
+          "Dazzling Gleam",
           "Encore",
           "Wish",
           "Protect"
@@ -11375,8 +10795,8 @@
         "heldItem": "Loaded Dice",
         "moveset": [
           "Crunch",
-          "BulletSeed",
-          "SuckerPunch",
+          "Bullet Seed",
+          "Sucker Punch",
           "Growth"
         ]
       }
@@ -11408,10 +10828,10 @@
         "teraType": "Fairy",
         "heldItem": "Choice Specs",
         "moveset": [
-          "ShadowBall",
           "Moonblast",
-          "MysticalFire",
-          "Thunderbolt"
+          "Shadow Ball",
+          "Mystical Fire",
+          "Psyshock"
         ]
       },
       {
@@ -11437,7 +10857,7 @@
         "teraType": "Ghost",
         "heldItem": "Life Orb",
         "moveset": [
-          "ShadowBall",
+          "Shadow Ball",
           "Moonblast",
           "Taunt",
           "Psyshock"
@@ -11466,9 +10886,9 @@
         "teraType": "Fairy",
         "heldItem": "Life Orb",
         "moveset": [
-          "ShadowBall",
+          "Shadow Ball",
           "Moonblast",
-          "CalmMind",
+          "Calm Mind",
           "Thunderbolt"
         ]
       },
@@ -11496,7 +10916,7 @@
         "moveset": [
           "Judgment",
           "Entrainment",
-          "QuiverDance",
+          "Quiver Dance",
           "Taunt"
         ]
       },
@@ -11524,9 +10944,93 @@
         "heldItem": "Life Orb",
         "moveset": [
           "Boomburst",
-          "AstralBarrage",
-          "QuiverDance",
-          "StrengthSap"
+          "Astral Barrage",
+          "Quiver Dance",
+          "Strength Sap"
+        ]
+      },
+      {
+        "name": "Flutter Mane - 1v1 - Charm",
+        "nature": "Timid",
+        "evs": {
+          "HP": 208,
+          "ATK": 0,
+          "DEF": 244,
+          "SPE": 56,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protosynthesis",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "Charm",
+          "Shadow Ball",
+          "Draining Kiss",
+          "Fake Tears"
+        ]
+      },
+      {
+        "name": "Flutter Mane - 1v1 - Choice Specs",
+        "nature": "Modest",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protosynthesis",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Moonblast",
+          "Shadow Ball",
+          "Thunder",
+          "Psyshock"
+        ]
+      },
+      {
+        "name": "Flutter Mane - 1v1 - Specially Defensive",
+        "nature": "Calm",
+        "evs": {
+          "HP": 240,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 92,
+          "SPA": 0,
+          "SPD": 176
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Protosynthesis",
+        "heldItem": "Booster Energy",
+        "moveset": [
+          "Calm Mind",
+          "Shadow Ball",
+          "Draining Kiss",
+          "Pain Split"
         ]
       }
     ]
@@ -11557,9 +11061,9 @@
         "teraType": "Bug",
         "heldItem": "Choice Band",
         "moveset": [
-          "FirstImpression",
-          "Uturn",
-          "CloseCombat",
+          "First Impression",
+          "U-turn",
+          "Close Combat",
           "Earthquake"
         ]
       },
@@ -11586,10 +11090,10 @@
         "teraType": "Water",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "Uturn",
-          "CloseCombat",
-          "WillOWisp",
-          "MorningSun"
+          "U-turn",
+          "Close Combat",
+          "Will-O-Wisp",
+          "Morning Sun"
         ]
       },
       {
@@ -11615,9 +11119,9 @@
         "teraType": "Bug",
         "heldItem": "Choice Band",
         "moveset": [
-          "FirstImpression",
-          "Uturn",
-          "CloseCombat",
+          "First Impression",
+          "U-turn",
+          "Close Combat",
           "Earthquake"
         ]
       },
@@ -11643,9 +11147,9 @@
         "ability": "Tinted Lens",
         "heldItem": "Choice Band",
         "moveset": [
-          "FirstImpression",
-          "CloseCombat",
-          "Uturn",
+          "First Impression",
+          "Close Combat",
+          "U-turn",
           "Earthquake"
         ]
       },
@@ -11671,10 +11175,10 @@
         "ability": "Regenerator",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "Uturn",
-          "BodyPress",
-          "MorningSun",
-          "WillOWisp"
+          "U-turn",
+          "Body Press",
+          "Morning Sun",
+          "Will-O-Wisp"
         ]
       },
       {
@@ -11700,39 +11204,10 @@
         "teraType": "Bug",
         "heldItem": "Choice Band",
         "moveset": [
-          "Uturn",
-          "CloseCombat",
-          "FirstImpression",
+          "U-turn",
+          "Close Combat",
+          "First Impression",
           "Earthquake"
-        ]
-      },
-      {
-        "name": "Slither Wing - National Dex - Choice Band",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Protosynthesis",
-        "teraType": "Electric",
-        "heldItem": "Choice Band",
-        "moveset": [
-          "FirstImpression",
-          "Uturn",
-          "CloseCombat",
-          "WildCharge"
         ]
       }
     ]
@@ -11764,9 +11239,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Spikes",
-          "VoltSwitch",
+          "Volt Switch",
           "Thunderbolt",
-          "EarthPower"
+          "Earth Power"
         ]
       },
       {
@@ -11791,9 +11266,9 @@
         "ability": "Hadron Engine",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "VoltSwitch",
+          "Volt Switch",
           "Thunderbolt",
-          "EarthPower",
+          "Earth Power",
           "Spikes"
         ]
       }
@@ -11826,9 +11301,9 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Earthquake",
-          "IronHead",
-          "IceSpinner",
-          "RapidSpin"
+          "Iron Head",
+          "Ice Spinner",
+          "Rapid Spin"
         ]
       },
       {
@@ -11854,10 +11329,10 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Earthquake",
-          "RapidSpin",
-          "VoltSwitch"
+          "Rapid Spin",
+          "Volt Switch"
         ]
       },
       {
@@ -11884,9 +11359,9 @@
         "heldItem": "Assault Vest",
         "moveset": [
           "Earthquake",
-          "VoltSwitch",
-          "KnockOff",
-          "RapidSpin"
+          "Volt Switch",
+          "Knock Off",
+          "Rapid Spin"
         ]
       },
       {
@@ -11913,9 +11388,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Earthquake",
-          "StealthRock",
-          "KnockOff",
-          "RapidSpin"
+          "Stealth Rock",
+          "Knock Off",
+          "Rapid Spin"
         ]
       },
       {
@@ -11942,9 +11417,9 @@
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
           "Earthquake",
-          "StealthRock",
-          "KnockOff",
-          "RapidSpin"
+          "Stealth Rock",
+          "Knock Off",
+          "Rapid Spin"
         ]
       },
       {
@@ -11970,9 +11445,9 @@
         "heldItem": "Assault Vest",
         "moveset": [
           "Earthquake",
-          "KnockOff",
-          "RapidSpin",
-          "VoltSwitch"
+          "Knock Off",
+          "Rapid Spin",
+          "Volt Switch"
         ]
       },
       {
@@ -11998,66 +11473,10 @@
         "teraType": "Dark",
         "heldItem": "Leftovers",
         "moveset": [
-          "RapidSpin",
-          "HeadlongRush",
-          "KnockOff",
-          "ShoreUp"
-        ]
-      },
-      {
-        "name": "Iron Treads - National Dex - Utility",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Quark Drive",
-        "heldItem": "Booster Energy",
-        "moveset": [
-          "Earthquake",
-          "KnockOff",
-          "RapidSpin",
-          "VoltSwitch"
-        ]
-      },
-      {
-        "name": "Iron Treads - National Dex - Assault Vest",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Quark Drive",
-        "heldItem": "Assault Vest",
-        "moveset": [
-          "Earthquake",
-          "KnockOff",
-          "VoltSwitch",
-          "RapidSpin"
+          "Rapid Spin",
+          "Headlong Rush",
+          "Knock Off",
+          "Shore Up"
         ]
       }
     ]
@@ -12088,9 +11507,9 @@
         "teraType": "Ice",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FreezeDry",
-          "HydroPump",
-          "IceBeam",
+          "Freeze-Dry",
+          "Hydro Pump",
+          "Ice Beam",
           "Taunt"
         ]
       },
@@ -12117,10 +11536,10 @@
         "teraType": "Ice",
         "heldItem": "Choice Specs",
         "moveset": [
-          "HydroPump",
-          "FreezeDry",
-          "FlipTurn",
-          "IceBeam"
+          "Hydro Pump",
+          "Freeze-Dry",
+          "Flip Turn",
+          "Ice Beam"
         ]
       },
       {
@@ -12145,10 +11564,10 @@
         "ability": "Primordial Sea",
         "heldItem": "Choice Specs",
         "moveset": [
-          "HydroPump",
-          "IceBeam",
-          "FreezeDry",
-          "Uturn"
+          "Hydro Pump",
+          "Ice Beam",
+          "Freeze-Dry",
+          "U-turn"
         ]
       },
       {
@@ -12173,10 +11592,10 @@
         "ability": "Magic Guard",
         "heldItem": "Life Orb",
         "moveset": [
-          "HydroPump",
-          "FreezeDry",
+          "Hydro Pump",
+          "Freeze-Dry",
           "Encore",
-          "Uturn"
+          "U-turn"
         ]
       }
     ]
@@ -12207,9 +11626,9 @@
         "teraType": "Electric",
         "heldItem": "Choice Band",
         "moveset": [
-          "WildCharge",
-          "IcePunch",
-          "CloseCombat",
+          "Wild Charge",
+          "Ice Punch",
+          "Close Combat",
           "Earthquake"
         ]
       },
@@ -12236,10 +11655,10 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "DrainPunch",
-          "ThunderPunch",
-          "IcePunch"
+          "Swords Dance",
+          "Drain Punch",
+          "Thunder Punch",
+          "Ice Punch"
         ]
       },
       {
@@ -12265,9 +11684,9 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "DrainPunch",
-          "ThunderPunch",
+          "Swords Dance",
+          "Drain Punch",
+          "Thunder Punch",
           "Earthquake"
         ]
       },
@@ -12293,10 +11712,10 @@
         "ability": "Regenerator",
         "heldItem": "Assault Vest",
         "moveset": [
-          "CloseCombat",
-          "WildCharge",
-          "VoltSwitch",
-          "IcePunch"
+          "Close Combat",
+          "Wild Charge",
+          "Volt Switch",
+          "Ice Punch"
         ]
       },
       {
@@ -12321,10 +11740,10 @@
         "ability": "Fur Coat",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "DrainPunch",
-          "ThunderPunch",
-          "IcePunch"
+          "Swords Dance",
+          "Drain Punch",
+          "Thunder Punch",
+          "Ice Punch"
         ]
       },
       {
@@ -12349,10 +11768,10 @@
         "ability": "Triage",
         "heldItem": "Sitrus Berry",
         "moveset": [
-          "BellyDrum",
-          "DrainPunch",
-          "ThunderPunch",
-          "IcePunch"
+          "Belly Drum",
+          "Drain Punch",
+          "Thunder Punch",
+          "Ice Punch"
         ]
       },
       {
@@ -12378,10 +11797,10 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "DrainPunch",
-          "VoltTackle",
-          "MachPunch"
+          "Swords Dance",
+          "Drain Punch",
+          "Volt Tackle",
+          "Mach Punch"
         ]
       },
       {
@@ -12407,51 +11826,22 @@
         "teraType": "Electric",
         "heldItem": "Leftovers",
         "moveset": [
-          "DoubleShock",
-          "MachPunch",
-          "DrainPunch",
-          "BellyDrum"
+          "Double Shock",
+          "Mach Punch",
+          "Drain Punch",
+          "Belly Drum"
         ]
       },
       {
-        "name": "Iron Hands - National Dex - Defensive Swords Dance",
-        "nature": "Impish",
-        "evs": {
-          "HP": 16,
-          "ATK": 116,
-          "DEF": 252,
-          "SPE": 124,
-          "SPA": 0,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Quark Drive",
-        "teraType": "Water",
-        "heldItem": "Booster Energy",
-        "moveset": [
-          "SwordsDance",
-          "CloseCombat",
-          "WildCharge",
-          "IcePunch"
-        ]
-      },
-      {
-        "name": "Iron Hands - National Dex - Choice Band",
+        "name": "Iron Hands - 1v1 - Attack Booster",
         "nature": "Adamant",
         "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
+          "HP": 212,
+          "ATK": 92,
+          "DEF": 184,
+          "SPE": 0,
           "SPA": 0,
-          "SPD": 4
+          "SPD": 20
         },
         "ivs": {
           "HP": 31,
@@ -12462,13 +11852,40 @@
           "SPD": 31
         },
         "ability": "Quark Drive",
-        "teraType": "Fighting",
-        "heldItem": "Choice Band",
+        "heldItem": "Booster Energy",
         "moveset": [
-          "CloseCombat",
-          "WildCharge",
-          "IcePunch",
-          "VoltSwitch"
+          "Wild Charge",
+          "Close Combat",
+          "Ice Punch",
+          "Swords Dance"
+        ]
+      },
+      {
+        "name": "Iron Hands - 1v1 - Assault Vest",
+        "nature": "Adamant",
+        "evs": {
+          "HP": 136,
+          "ATK": 172,
+          "DEF": 80,
+          "SPE": 0,
+          "SPA": 0,
+          "SPD": 120
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Quark Drive",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "Close Combat",
+          "Wild Charge",
+          "Heavy Slam",
+          "Earthquake"
         ]
       }
     ]
@@ -12499,10 +11916,10 @@
         "teraType": "Flying",
         "heldItem": "Choice Specs",
         "moveset": [
-          "DarkPulse",
+          "Dark Pulse",
           "Hurricane",
-          "EarthPower",
-          "Uturn"
+          "Earth Power",
+          "U-turn"
         ]
       }
     ]
@@ -12533,10 +11950,10 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "ToxicSpikes",
-          "SludgeWave",
+          "Toxic Spikes",
+          "Sludge Wave",
           "Flamethrower",
-          "MorningSun"
+          "Morning Sun"
         ]
       },
       {
@@ -12563,9 +11980,9 @@
         "heldItem": "Booster Energy",
         "moveset": [
           "Agility",
-          "SludgeWave",
-          "FieryDance",
-          "EnergyBall"
+          "Sludge Wave",
+          "Fiery Dance",
+          "Energy Ball"
         ]
       },
       {
@@ -12592,9 +12009,9 @@
         "heldItem": "Booster Energy",
         "moveset": [
           "Agility",
-          "FieryDance",
+          "Fiery Dance",
           "Psychic",
-          "EnergyBall"
+          "Energy Ball"
         ]
       },
       {
@@ -12619,10 +12036,10 @@
         "ability": "Desolate Land",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "FieryDance",
-          "SludgeWave",
-          "MorningSun",
-          "Uturn"
+          "Fiery Dance",
+          "Sludge Wave",
+          "Morning Sun",
+          "U-turn"
         ]
       },
       {
@@ -12647,38 +12064,10 @@
         "ability": "Desolate Land",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "MorningSun",
-          "FieryDance",
-          "Uturn",
-          "ToxicSpikes"
-        ]
-      },
-      {
-        "name": "Iron Moth - National Dex - Offensive",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Quark Drive",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Flamethrower",
-          "SludgeWave",
-          "EnergyBall",
-          "MorningSun"
+          "Morning Sun",
+          "Fiery Dance",
+          "U-turn",
+          "Toxic Spikes"
         ]
       }
     ]
@@ -12709,10 +12098,10 @@
         "teraType": "Electric",
         "heldItem": "Booster Energy",
         "moveset": [
-          "DragonDance",
-          "IcePunch",
-          "WildCharge",
-          "RockBlast"
+          "Dragon Dance",
+          "Ice Punch",
+          "Wild Charge",
+          "Rock Blast"
         ]
       }
     ]
@@ -12743,9 +12132,9 @@
         "teraType": "Dragon",
         "heldItem": "Loaded Dice",
         "moveset": [
-          "DragonDance",
-          "GlaiveRush",
-          "IcicleSpear",
+          "Dragon Dance",
+          "Glaive Rush",
+          "Icicle Spear",
           "Earthquake"
         ]
       },
@@ -12772,10 +12161,10 @@
         "teraType": "Dragon",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
-          "IcicleCrash",
+          "Dragon Dance",
+          "Icicle Crash",
           "Earthquake",
-          "GlaiveRush"
+          "Glaive Rush"
         ]
       },
       {
@@ -12801,9 +12190,9 @@
         "teraType": "Dragon",
         "heldItem": "Life Orb",
         "moveset": [
-          "DragonDance",
-          "IcicleSpear",
-          "GlaiveRush",
+          "Dragon Dance",
+          "Icicle Spear",
+          "Glaive Rush",
           "Earthquake"
         ]
       },
@@ -12830,9 +12219,9 @@
         "teraType": "Ground",
         "heldItem": "Assault Vest",
         "moveset": [
-          "IcicleSpear",
-          "IceShard",
-          "GlaiveRush",
+          "Icicle Spear",
+          "Ice Shard",
+          "Glaive Rush",
           "Earthquake"
         ]
       },
@@ -12859,9 +12248,9 @@
         "teraType": "Electric",
         "heldItem": "Loaded Dice",
         "moveset": [
-          "IcicleSpear",
-          "TeraBlast",
-          "DragonDance",
+          "Icicle Spear",
+          "Tera Blast",
+          "Dragon Dance",
           "Protect"
         ]
       },
@@ -12888,10 +12277,10 @@
         "teraType": "Dragon",
         "heldItem": "Assault Vest",
         "moveset": [
-          "GlaiveRush",
-          "IcicleSpear",
+          "Glaive Rush",
+          "Icicle Spear",
           "Earthquake",
-          "IceShard"
+          "Ice Shard"
         ]
       },
       {
@@ -12916,9 +12305,9 @@
         "ability": "Mold Breaker",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "DragonDance",
-          "GlaiveRush",
-          "IcicleCrash",
+          "Dragon Dance",
+          "Glaive Rush",
+          "Icicle Crash",
           "Earthquake"
         ]
       },
@@ -12944,38 +12333,9 @@
         "ability": "Mold Breaker",
         "heldItem": "Choice Band",
         "moveset": [
-          "GlaiveRush",
-          "IcicleCrash",
-          "IceShard",
-          "Earthquake"
-        ]
-      },
-      {
-        "name": "Baxcalibur - National Dex - Dragon Dance",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Thermal Exchange",
-        "teraType": "Fire",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "DragonDance",
-          "IcicleCrash",
-          "GlaiveRush",
+          "Glaive Rush",
+          "Icicle Crash",
+          "Ice Shard",
           "Earthquake"
         ]
       }
@@ -13007,9 +12367,9 @@
         "teraType": "Ghost",
         "heldItem": "Leftovers",
         "moveset": [
-          "ThunderWave",
+          "Thunder Wave",
           "Hex",
-          "NastyPlot",
+          "Nasty Plot",
           "Recover"
         ]
       },
@@ -13036,10 +12396,10 @@
         "teraType": "Fighting",
         "heldItem": "Air Balloon",
         "moveset": [
-          "NastyPlot",
-          "ShadowBall",
-          "MakeItRain",
-          "FocusBlast"
+          "Nasty Plot",
+          "Shadow Ball",
+          "Make It Rain",
+          "Focus Blast"
         ]
       },
       {
@@ -13065,10 +12425,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ShadowBall",
-          "MakeItRain",
+          "Shadow Ball",
+          "Make It Rain",
           "Trick",
-          "FocusBlast"
+          "Focus Blast"
         ]
       },
       {
@@ -13094,10 +12454,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Specs",
         "moveset": [
-          "ShadowBall",
-          "MakeItRain",
+          "Shadow Ball",
+          "Make It Rain",
           "Trick",
-          "FocusBlast"
+          "Focus Blast"
         ]
       },
       {
@@ -13123,10 +12483,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "MakeItRain",
-          "ShadowBall",
+          "Make It Rain",
+          "Shadow Ball",
           "Trick",
-          "FocusBlast"
+          "Focus Blast"
         ]
       },
       {
@@ -13152,9 +12512,9 @@
         "teraType": "Steel",
         "heldItem": "Air Balloon",
         "moveset": [
-          "MakeItRain",
-          "ShadowBall",
-          "NastyPlot",
+          "Make It Rain",
+          "Shadow Ball",
+          "Nasty Plot",
           "Recover"
         ]
       },
@@ -13181,8 +12541,8 @@
         "teraType": "Flying",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ShadowBall",
-          "MakeItRain",
+          "Shadow Ball",
+          "Make It Rain",
           "Trick",
           "Thunderbolt"
         ]
@@ -13210,9 +12570,9 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "NastyPlot",
-          "ShadowBall",
-          "MakeItRain",
+          "Nasty Plot",
+          "Shadow Ball",
+          "Make It Rain",
           "Substitute"
         ]
       },
@@ -13240,9 +12600,9 @@
         "heldItem": "Rocky Helmet",
         "moveset": [
           "Recover",
-          "ThunderWave",
+          "Thunder Wave",
           "Hex",
-          "MakeItRain"
+          "Make It Rain"
         ]
       },
       {
@@ -13268,9 +12628,9 @@
         "teraType": "Flying",
         "heldItem": "Assault Vest",
         "moveset": [
-          "ShadowBall",
-          "MakeItRain",
-          "DazzlingGleam",
+          "Shadow Ball",
+          "Make It Rain",
+          "Dazzling Gleam",
           "Thunderbolt"
         ]
       },
@@ -13297,9 +12657,9 @@
         "teraType": "Steel",
         "heldItem": "Choice Specs",
         "moveset": [
-          "MakeItRain",
-          "ShadowBall",
-          "DazzlingGleam",
+          "Make It Rain",
+          "Shadow Ball",
+          "Dazzling Gleam",
           "Thunderbolt"
         ]
       },
@@ -13326,9 +12686,9 @@
         "teraType": "Steel",
         "heldItem": "Life Orb",
         "moveset": [
-          "MakeItRain",
-          "ShadowBall",
-          "NastyPlot",
+          "Make It Rain",
+          "Shadow Ball",
+          "Nasty Plot",
           "Protect"
         ]
       },
@@ -13354,9 +12714,9 @@
         "ability": "Fur Coat",
         "heldItem": "Leftovers",
         "moveset": [
-          "NastyPlot",
-          "ShadowBall",
-          "MakeItRain",
+          "Nasty Plot",
+          "Shadow Ball",
+          "Make It Rain",
           "Recover"
         ]
       },
@@ -13382,10 +12742,10 @@
         "ability": "Regenerator",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ShadowBall",
-          "MakeItRain",
+          "Shadow Ball",
+          "Make It Rain",
           "Trick",
-          "NastyPlot"
+          "Nasty Plot"
         ]
       },
       {
@@ -13411,9 +12771,9 @@
         "teraType": "Flying",
         "heldItem": "Leftovers",
         "moveset": [
-          "InfernalParade",
-          "MakeItRain",
-          "NastyPlot",
+          "Infernal Parade",
+          "Make It Rain",
+          "Nasty Plot",
           "Recover"
         ]
       },
@@ -13440,15 +12800,43 @@
         "teraType": "Ghost",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "MakeItRain",
-          "ShadowBall",
+          "Make It Rain",
+          "Shadow Ball",
           "Trick",
-          "NastyPlot"
+          "Nasty Plot"
         ]
       },
       {
-        "name": "Gholdengo - National Dex - Choice Scarf",
-        "nature": "Timid",
+        "name": "Gholdengo - 1v1 - Weakness Policy",
+        "nature": "Bold",
+        "evs": {
+          "HP": 240,
+          "ATK": 0,
+          "DEF": 252,
+          "SPE": 16,
+          "SPA": 0,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Good as Gold",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "Reflect",
+          "Make It Rain",
+          "Recover",
+          "Metal Sound"
+        ]
+      },
+      {
+        "name": "Gholdengo - 1v1 - Choice-locked Attacker",
+        "nature": "Modest",
         "evs": {
           "HP": 0,
           "ATK": 0,
@@ -13466,42 +12854,12 @@
           "SPD": 31
         },
         "ability": "Good as Gold",
-        "teraType": "Fighting",
-        "heldItem": "Choice Scarf",
+        "heldItem": "Choice Specs",
         "moveset": [
-          "MakeItRain",
-          "ShadowBall",
-          "Trick",
-          "FocusBlast"
-        ]
-      },
-      {
-        "name": "Gholdengo - National Dex - Nasty Plot",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Good as Gold",
-        "teraType": "Steel",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "NastyPlot",
-          "ShadowBall",
-          "MakeItRain",
-          "Recover"
+          "Make It Rain",
+          "Shadow Ball",
+          "Focus Blast",
+          "Thunder"
         ]
       }
     ]
@@ -13536,10 +12894,10 @@
         "teraType": "Dark",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "IcicleCrash",
+          "Icicle Crash",
           "Crunch",
-          "SuckerPunch",
-          "SacredSword"
+          "Sucker Punch",
+          "Sacred Sword"
         ]
       },
       {
@@ -13565,10 +12923,10 @@
         "teraType": "Dark",
         "heldItem": "Choice Band",
         "moveset": [
-          "IcicleCrash",
+          "Icicle Crash",
           "Crunch",
-          "SuckerPunch",
-          "SacredSword"
+          "Sucker Punch",
+          "Sacred Sword"
         ]
       },
       {
@@ -13594,10 +12952,10 @@
         "teraType": "Dark",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "IcicleCrash",
+          "Swords Dance",
+          "Icicle Crash",
           "Crunch",
-          "IceShard"
+          "Ice Shard"
         ]
       },
       {
@@ -13623,10 +12981,10 @@
         "teraType": "Dark",
         "heldItem": "Choice Band",
         "moveset": [
-          "IcicleCrash",
+          "Icicle Crash",
           "Crunch",
-          "IceShard",
-          "SacredSword"
+          "Ice Shard",
+          "Sacred Sword"
         ]
       },
       {
@@ -13651,68 +13009,10 @@
         "ability": "Sword of Ruin",
         "heldItem": "Choice Band",
         "moveset": [
-          "IcicleCrash",
+          "Icicle Crash",
           "Crunch",
-          "SuckerPunch",
-          "SacredSword"
-        ]
-      },
-      {
-        "name": "Chien-Pao - National Dex - Swords Dance",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Sword of Ruin",
-        "teraType": "Dark",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "SwordsDance",
-          "IcicleCrash",
-          "SacredSword",
-          "Crunch"
-        ]
-      },
-      {
-        "name": "Chien-Pao - National Dex - Choice Band",
-        "nature": "Jolly",
-        "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 0,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Sword of Ruin",
-        "teraType": "Dark",
-        "heldItem": "Choice Band",
-        "moveset": [
-          "IcicleCrash",
-          "Crunch",
-          "SacredSword",
-          "IceShard"
+          "Sucker Punch",
+          "Sacred Sword"
         ]
       }
     ]
@@ -13743,7 +13043,7 @@
         "teraType": "Poison",
         "heldItem": "Leftovers",
         "moveset": [
-          "StealthRock",
+          "Stealth Rock",
           "Spikes",
           "Whirlwind",
           "Earthquake"
@@ -13802,9 +13102,9 @@
         "heldItem": "Assault Vest",
         "moveset": [
           "Nuzzle",
-          "Uturn",
-          "CeaselessEdge",
-          "KnockOff"
+          "U-turn",
+          "Ceaseless Edge",
+          "Knock Off"
         ]
       },
       {
@@ -13860,8 +13160,8 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Nuzzle",
-          "KnockOff",
-          "CeaselessEdge",
+          "Knock Off",
+          "Ceaseless Edge",
           "Recover"
         ]
       },
@@ -13916,9 +13216,9 @@
         "heldItem": "Assault Vest",
         "moveset": [
           "Earthquake",
-          "ThroatChop",
+          "Throat Chop",
           "Ruination",
-          "SandTomb"
+          "Sand Tomb"
         ]
       },
       {
@@ -13945,38 +13245,9 @@
         "heldItem": "Leftovers",
         "moveset": [
           "Earthquake",
-          "CeaselessEdge",
-          "PartingShot",
-          "ShoreUp"
-        ]
-      },
-      {
-        "name": "Ting-Lu - National Dex - Defensive Entry Hazard Setter",
-        "nature": "Careful",
-        "evs": {
-          "HP": 252,
-          "ATK": 0,
-          "DEF": 4,
-          "SPE": 0,
-          "SPA": 0,
-          "SPD": 252
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Vessel of Ruin",
-        "teraType": "Steel",
-        "heldItem": "Leftovers",
-        "moveset": [
-          "Spikes",
-          "Earthquake",
-          "Ruination",
-          "Whirlwind"
+          "Ceaseless Edge",
+          "Parting Shot",
+          "Shore Up"
         ]
       }
     ]
@@ -13984,93 +13255,6 @@
   {
     "name": "Chi-Yu",
     "builds": [
-      {
-        "name": "Chi-Yu - OU - Choice Scarf",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Beads of Ruin",
-        "teraType": "Fire",
-        "heldItem": "Choice Scarf",
-        "moveset": [
-          "Flamethrower",
-          "DarkPulse",
-          "Psychic",
-          "Overheat"
-        ]
-      },
-      {
-        "name": "Chi-Yu - OU - Choice Specs",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Beads of Ruin",
-        "teraType": "Fire",
-        "heldItem": "Choice Specs",
-        "moveset": [
-          "Flamethrower",
-          "DarkPulse",
-          "Psychic",
-          "Overheat"
-        ]
-      },
-      {
-        "name": "Chi-Yu - OU - Nasty Plot",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Beads of Ruin",
-        "teraType": "Fire",
-        "heldItem": "Heavy-Duty Boots",
-        "moveset": [
-          "Overheat",
-          "DarkPulse",
-          "NastyPlot",
-          "Taunt"
-        ]
-      },
       {
         "name": "Chi-Yu - Uber - Choice Item",
         "nature": "Timid",
@@ -14095,9 +13279,67 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Overheat",
-          "DarkPulse",
+          "Dark Pulse",
           "Flamethrower",
-          "FireBlast"
+          "Fire Blast"
+        ]
+      },
+      {
+        "name": "Chi-Yu - Doubles - Choice Scarf",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beads of Ruin",
+        "teraType": "Fire",
+        "heldItem": "Choice Scarf",
+        "moveset": [
+          "Heat Wave",
+          "Dark Pulse",
+          "Flamethrower",
+          "Snarl"
+        ]
+      },
+      {
+        "name": "Chi-Yu - Doubles - All-out Attacker",
+        "nature": "Timid",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beads of Ruin",
+        "teraType": "Fire",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Heat Wave",
+          "Dark Pulse",
+          "Flamethrower",
+          "Snarl"
         ]
       },
       {
@@ -14124,7 +13366,7 @@
         "moveset": [
           "Overheat",
           "Flamethrower",
-          "DarkPulse",
+          "Dark Pulse",
           "Psychic"
         ]
       },
@@ -14150,10 +13392,94 @@
         "ability": "Desolate Land",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "NastyPlot",
-          "FireBlast",
-          "DarkPulse",
+          "Nasty Plot",
+          "Fire Blast",
+          "Dark Pulse",
           "Ruination"
+        ]
+      },
+      {
+        "name": "Chi-Yu - 1v1 - Choice-locked Attacker",
+        "nature": "Modest",
+        "evs": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 252,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beads of Ruin",
+        "heldItem": "Choice Specs",
+        "moveset": [
+          "Overheat",
+          "Dark Pulse",
+          "Hyper Beam",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Chi-Yu - 1v1 - Weakness Policy",
+        "nature": "Timid",
+        "evs": {
+          "HP": 204,
+          "ATK": 0,
+          "DEF": 156,
+          "SPE": 128,
+          "SPA": 20,
+          "SPD": 0
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beads of Ruin",
+        "heldItem": "Weakness Policy",
+        "moveset": [
+          "Will-O-Wisp",
+          "Overheat",
+          "Dark Pulse",
+          "Flame Charge"
+        ]
+      },
+      {
+        "name": "Chi-Yu - 1v1 - Assault Vest",
+        "nature": "Calm",
+        "evs": {
+          "HP": 248,
+          "ATK": 0,
+          "DEF": 0,
+          "SPE": 0,
+          "SPA": 120,
+          "SPD": 140
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Beads of Ruin",
+        "heldItem": "Assault Vest",
+        "moveset": [
+          "Overheat",
+          "Snarl",
+          "Ruination",
+          "Dark Pulse"
         ]
       }
     ]
@@ -14184,7 +13510,7 @@
         "teraType": "Flying",
         "heldItem": "Booster Energy",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Acrobatics",
           "Crunch",
           "Earthquake"
@@ -14213,7 +13539,7 @@
         "teraType": "Fairy",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "Uturn",
+          "U-turn",
           "Crunch",
           "Earthquake",
           "Roost"
@@ -14243,9 +13569,9 @@
         "heldItem": "Choice Band",
         "moveset": [
           "Crunch",
-          "DragonClaw",
+          "Dragon Claw",
           "Earthquake",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -14271,7 +13597,7 @@
         "teraType": "Flying",
         "heldItem": "Booster Energy",
         "moveset": [
-          "DragonDance",
+          "Dragon Dance",
           "Acrobatics",
           "Crunch",
           "Roost"
@@ -14301,9 +13627,9 @@
         "heldItem": "Choice Band",
         "moveset": [
           "Crunch",
-          "Uturn",
+          "U-turn",
           "Earthquake",
-          "DragonClaw"
+          "Dragon Claw"
         ]
       },
       {
@@ -14328,10 +13654,10 @@
         "ability": "Regenerator",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ThroatChop",
+          "Throat Chop",
           "Earthquake",
-          "Uturn",
-          "IronHead"
+          "U-turn",
+          "Iron Head"
         ]
       },
       {
@@ -14357,9 +13683,9 @@
         "teraType": "Ground",
         "heldItem": "Choice Band",
         "moveset": [
-          "GlaiveRush",
-          "KnockOff",
-          "Uturn",
+          "Glaive Rush",
+          "Knock Off",
+          "U-turn",
           "Earthquake"
         ]
       },
@@ -14388,8 +13714,8 @@
         "moveset": [
           "Acrobatics",
           "Earthquake",
-          "KnockOff",
-          "DragonDance"
+          "Knock Off",
+          "Dragon Dance"
         ]
       },
       {
@@ -14415,9 +13741,9 @@
         "teraType": "Ground",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "GlaiveRush",
-          "KnockOff",
-          "Uturn",
+          "Glaive Rush",
+          "Knock Off",
+          "U-turn",
           "Earthquake"
         ]
       }
@@ -14452,7 +13778,7 @@
           "Moonblast",
           "Thunderbolt",
           "Psyshock",
-          "CalmMind"
+          "Calm Mind"
         ]
       },
       {
@@ -14480,7 +13806,7 @@
         "moveset": [
           "Moonblast",
           "Thunderbolt",
-          "ShadowBall",
+          "Shadow Ball",
           "Psyshock"
         ]
       },
@@ -14508,7 +13834,7 @@
         "heldItem": "Booster Energy",
         "moveset": [
           "Moonblast",
-          "CloseCombat",
+          "Close Combat",
           "Thunderbolt",
           "Psyshock"
         ]
@@ -14536,10 +13862,10 @@
         "teraType": "Fairy",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "SpiritBreak",
-          "CloseCombat",
-          "KnockOff"
+          "Swords Dance",
+          "Spirit Break",
+          "Close Combat",
+          "Knock Off"
         ]
       },
       {
@@ -14566,9 +13892,9 @@
         "heldItem": "Life Orb",
         "moveset": [
           "Moonblast",
-          "CloseCombat",
+          "Close Combat",
           "Thunderbolt",
-          "ShadowBall"
+          "Shadow Ball"
         ]
       },
       {
@@ -14594,10 +13920,10 @@
         "teraType": "Fighting",
         "heldItem": "Choice Band",
         "moveset": [
-          "CloseCombat",
-          "SpiritBreak",
-          "KnockOff",
-          "IcePunch"
+          "Close Combat",
+          "Spirit Break",
+          "Knock Off",
+          "Ice Punch"
         ]
       },
       {
@@ -14624,9 +13950,9 @@
         "heldItem": "Choice Specs",
         "moveset": [
           "Moonblast",
-          "FocusBlast",
+          "Focus Blast",
           "Thunderbolt",
-          "ShadowBall"
+          "Shadow Ball"
         ]
       },
       {
@@ -14652,9 +13978,9 @@
         "heldItem": "Life Orb",
         "moveset": [
           "Boomburst",
-          "ExtremeSpeed",
-          "CloseCombat",
-          "StrengthSap"
+          "Extreme Speed",
+          "Close Combat",
+          "Strength Sap"
         ]
       },
       {
@@ -14680,9 +14006,9 @@
         "heldItem": "Life Orb",
         "moveset": [
           "Moonblast",
-          "CloseCombat",
+          "Close Combat",
           "Thunderbolt",
-          "ZenHeadbutt"
+          "Zen Headbutt"
         ]
       },
       {
@@ -14708,10 +14034,39 @@
         "teraType": "Fairy",
         "heldItem": "Choice Specs",
         "moveset": [
-          "FleurCannon",
+          "Fleur Cannon",
           "Moonblast",
-          "VacuumWave",
+          "Vacuum Wave",
           "Psyshock"
+        ]
+      },
+      {
+        "name": "Iron Valiant - STABmons - Physical Life Orb",
+        "nature": "Jolly",
+        "evs": {
+          "HP": 0,
+          "ATK": 252,
+          "DEF": 0,
+          "SPE": 252,
+          "SPA": 0,
+          "SPD": 4
+        },
+        "ivs": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 31,
+          "SPE": 31,
+          "SPA": 31,
+          "SPD": 31
+        },
+        "ability": "Quark Drive",
+        "teraType": "Psychic",
+        "heldItem": "Life Orb",
+        "moveset": [
+          "Triple Arrows",
+          "Zen Headbutt",
+          "Mach Punch",
+          "Knock Off"
         ]
       },
       {
@@ -14737,22 +14092,22 @@
         "teraType": "Fighting",
         "heldItem": "Choice Band",
         "moveset": [
-          "TripleArrows",
-          "MagicalTorque",
-          "KnockOff",
-          "MachPunch"
+          "Triple Arrows",
+          "Magical Torque",
+          "Knock Off",
+          "Mach Punch"
         ]
       },
       {
-        "name": "Iron Valiant - STABmons - Oh no it can switch moves",
-        "nature": "Jolly",
+        "name": "Iron Valiant - 1v1 - Encore + Disable",
+        "nature": "Timid",
         "evs": {
-          "HP": 0,
-          "ATK": 252,
-          "DEF": 0,
-          "SPE": 252,
+          "HP": 176,
+          "ATK": 0,
+          "DEF": 188,
+          "SPE": 144,
           "SPA": 0,
-          "SPD": 4
+          "SPD": 0
         },
         "ivs": {
           "HP": 31,
@@ -14763,24 +14118,23 @@
           "SPD": 31
         },
         "ability": "Quark Drive",
-        "teraType": "Psychic",
-        "heldItem": "Life Orb",
+        "heldItem": "Booster Energy",
         "moveset": [
-          "TripleArrows",
-          "ZenHeadbutt",
-          "MachPunch",
-          "KnockOff"
+          "Protect",
+          "Encore",
+          "Disable",
+          "Moonblast"
         ]
       },
       {
-        "name": "Iron Valiant - National Dex - Calm Mind",
-        "nature": "Timid",
+        "name": "Iron Valiant - 1v1 - Mixed Offense",
+        "nature": "Jolly",
         "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
+          "HP": 160,
+          "ATK": 144,
+          "DEF": 24,
+          "SPE": 144,
+          "SPA": 32,
           "SPD": 4
         },
         "ivs": {
@@ -14794,66 +14148,10 @@
         "ability": "Quark Drive",
         "heldItem": "Booster Energy",
         "moveset": [
-          "CalmMind",
+          "Swords Dance",
           "Moonblast",
-          "FocusBlast",
-          "Psyshock"
-        ]
-      },
-      {
-        "name": "Iron Valiant - National Dex - Mixed Attacker",
-        "nature": "Naive",
-        "evs": {
-          "HP": 0,
-          "ATK": 80,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 176,
-          "SPD": 0
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 31,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Quark Drive",
-        "heldItem": "Life Orb",
-        "moveset": [
-          "CloseCombat",
-          "Moonblast",
-          "Psyshock",
-          "ShadowBall"
-        ]
-      },
-      {
-        "name": "Iron Valiant - National Dex - Choice Specs",
-        "nature": "Timid",
-        "evs": {
-          "HP": 0,
-          "ATK": 0,
-          "DEF": 0,
-          "SPE": 252,
-          "SPA": 252,
-          "SPD": 4
-        },
-        "ivs": {
-          "HP": 31,
-          "ATK": 0,
-          "DEF": 31,
-          "SPE": 31,
-          "SPA": 31,
-          "SPD": 31
-        },
-        "ability": "Quark Drive",
-        "heldItem": "Choice Specs",
-        "moveset": [
-          "Moonblast",
-          "FocusBlast",
-          "ShadowBall",
-          "Psyshock"
+          "Close Combat",
+          "Encore"
         ]
       }
     ]
@@ -14884,10 +14182,10 @@
         "teraType": "Fire",
         "heldItem": "Leftovers",
         "moveset": [
-          "SwordsDance",
-          "FlameCharge",
-          "DragonClaw",
-          "CollisionCourse"
+          "Swords Dance",
+          "Flame Charge",
+          "Dragon Claw",
+          "Collision Course"
         ]
       },
       {
@@ -14913,10 +14211,10 @@
         "teraType": "Fire",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "Uturn",
-          "CollisionCourse",
-          "DragonClaw",
-          "FlareBlitz"
+          "U-turn",
+          "Collision Course",
+          "Dragon Claw",
+          "Flare Blitz"
         ]
       },
       {
@@ -14942,10 +14240,10 @@
         "teraType": "Fire",
         "heldItem": "Life Orb",
         "moveset": [
-          "SwordsDance",
-          "CollisionCourse",
-          "FlareBlitz",
-          "StompingTantrum"
+          "Swords Dance",
+          "Collision Course",
+          "Flare Blitz",
+          "Stomping Tantrum"
         ]
       },
       {
@@ -14971,9 +14269,9 @@
         "teraType": "Fire",
         "heldItem": "Choice Band",
         "moveset": [
-          "Uturn",
-          "CloseCombat",
-          "FlareBlitz",
+          "U-turn",
+          "Close Combat",
+          "Flare Blitz",
           "Outrage"
         ]
       },
@@ -15000,10 +14298,10 @@
         "teraType": "Steel",
         "heldItem": "Toxic Orb",
         "moveset": [
-          "BulkUp",
-          "LowKick",
-          "WillOWisp",
-          "DragonDarts"
+          "Bulk Up",
+          "Low Kick",
+          "Will-O-Wisp",
+          "Dragon Darts"
         ]
       }
     ]
@@ -15034,10 +14332,10 @@
         "teraType": "Water",
         "heldItem": "Heavy-Duty Boots",
         "moveset": [
-          "ElectroDrift",
-          "Uturn",
-          "DracoMeteor",
-          "TeraBlast"
+          "Electro Drift",
+          "U-turn",
+          "Draco Meteor",
+          "Tera Blast"
         ]
       },
       {
@@ -15060,13 +14358,13 @@
           "SPD": 31
         },
         "ability": "Hadron Engine",
-        "teraType": "Fairy",
+        "teraType": "Dragon",
         "heldItem": "Choice Specs",
         "moveset": [
-          "ElectroDrift",
-          "DracoMeteor",
+          "Electro Drift",
+          "Draco Meteor",
           "Overheat",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -15092,10 +14390,10 @@
         "teraType": "Fairy",
         "heldItem": "Choice Scarf",
         "moveset": [
-          "ElectroDrift",
-          "DracoMeteor",
+          "Electro Drift",
+          "Draco Meteor",
           "Overheat",
-          "Uturn"
+          "U-turn"
         ]
       },
       {
@@ -15121,10 +14419,10 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
+          "Calm Mind",
           "Agility",
-          "ParabolicCharge",
-          "DazzlingGleam"
+          "Parabolic Charge",
+          "Dazzling Gleam"
         ]
       },
       {
@@ -15150,10 +14448,10 @@
         "teraType": "Ice",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "ElectroDrift",
+          "Calm Mind",
+          "Electro Drift",
           "Taunt",
-          "TeraBlast"
+          "Tera Blast"
         ]
       },
       {
@@ -15179,10 +14477,10 @@
         "teraType": "Fairy",
         "heldItem": "Leftovers",
         "moveset": [
-          "CalmMind",
-          "ElectroDrift",
+          "Calm Mind",
+          "Electro Drift",
           "Taunt",
-          "DazzlingGleam"
+          "Dazzling Gleam"
         ]
       },
       {
@@ -15208,9 +14506,9 @@
         "teraType": "Electric",
         "heldItem": "Choice Specs",
         "moveset": [
-          "DragonEnergy",
-          "RisingVoltage",
-          "VoltSwitch",
+          "Dragon Energy",
+          "Rising Voltage",
+          "Volt Switch",
           "Trick"
         ]
       },
@@ -15237,10 +14535,10 @@
         "teraType": "Electric",
         "heldItem": "Draco Plate",
         "moveset": [
-          "QuiverDance",
+          "Quiver Dance",
           "Judgment",
-          "RisingVoltage",
-          "StrengthSap"
+          "Rising Voltage",
+          "Strength Sap"
         ]
       }
     ]
